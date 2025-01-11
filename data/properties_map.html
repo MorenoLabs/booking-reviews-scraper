@@ -1,0 +1,3316 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_73fc339a61b060cf57d142e0162c362e {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_73fc339a61b060cf57d142e0162c362e" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_73fc339a61b060cf57d142e0162c362e = L.map(
+                "map_73fc339a61b060cf57d142e0162c362e",
+                {
+                    center: [47.7591445, 13.0606883],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 10,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_27b16cf59c4f143b6fbfb5bdd4ee0f87 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_27b16cf59c4f143b6fbfb5bdd4ee0f87.addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+            var marker_2843d28749b1af7203c14ec51ab68756 = L.marker(
+                [47.7591445, 13.0606883],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_0c974631ebea6b968f94162791c3c74a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_389c7749c88e17702f9bf033fa1ca604 = $(`<div id="html_389c7749c88e17702f9bf033fa1ca604" style="width: 100.0%; height: 100.0%;">Numa Ivy<br>73, Hellbrunnerstraße<br>Anif, Salzburg-Umgebung<br>Anif, 5081, Austria</div>`)[0];
+                popup_0c974631ebea6b968f94162791c3c74a.setContent(html_389c7749c88e17702f9bf033fa1ca604);
+            
+        
+
+        marker_2843d28749b1af7203c14ec51ab68756.bindPopup(popup_0c974631ebea6b968f94162791c3c74a)
+        ;
+
+        
+    
+    
+            marker_2843d28749b1af7203c14ec51ab68756.bindTooltip(
+                `<div>
+                     Numa Ivy
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_a8dadd196919f88316b4ebfcb24e4310 = L.marker(
+                [47.8004524, 13.0252087],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_58b3dc78741c0ae4365c3ec545d4ee54 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_1bcf5f6f3b2a241459025937dc353567 = $(`<div id="html_1bcf5f6f3b2a241459025937dc353567" style="width: 100.0%; height: 100.0%;">Numa Maximilian<br>28, Bayernstraße<br>Neu-Maxglan, Salzburg<br>Salzburg, 5020, Austria</div>`)[0];
+                popup_58b3dc78741c0ae4365c3ec545d4ee54.setContent(html_1bcf5f6f3b2a241459025937dc353567);
+            
+        
+
+        marker_a8dadd196919f88316b4ebfcb24e4310.bindPopup(popup_58b3dc78741c0ae4365c3ec545d4ee54)
+        ;
+
+        
+    
+    
+            marker_a8dadd196919f88316b4ebfcb24e4310.bindTooltip(
+                `<div>
+                     Numa Maximilian
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_dec6694911ef118743e963912c88420c = L.marker(
+                [47.8067819, 13.048194],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_40f3bf766bfbf6755445931e916f4399 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_66899af70d444357fb7384b332b62499 = $(`<div id="html_66899af70d444357fb7384b332b62499" style="width: 100.0%; height: 100.0%;">Numa Mozart<br>27, Franz-Josef-Straße<br>Franz-Josef-Straße, Salzburg<br>Salzburg, 5020, Austria</div>`)[0];
+                popup_40f3bf766bfbf6755445931e916f4399.setContent(html_66899af70d444357fb7384b332b62499);
+            
+        
+
+        marker_dec6694911ef118743e963912c88420c.bindPopup(popup_40f3bf766bfbf6755445931e916f4399)
+        ;
+
+        
+    
+    
+            marker_dec6694911ef118743e963912c88420c.bindTooltip(
+                `<div>
+                     Numa Mozart
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_3035cd7c7e18217918c5f8ce9450ff3e = L.marker(
+                [47.8112012, 13.0592866],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_4b9b6f08abd8f27ebbee5e5a9080f229 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_14ea92fa192964d6b76f1490992da75c = $(`<div id="html_14ea92fa192964d6b76f1490992da75c" style="width: 100.0%; height: 100.0%;">Numa Vogelweider<br>13, Robinigstraße<br>Vogelweiderstraße, Salzburg<br>Salzburg, 5020, Austria</div>`)[0];
+                popup_4b9b6f08abd8f27ebbee5e5a9080f229.setContent(html_14ea92fa192964d6b76f1490992da75c);
+            
+        
+
+        marker_3035cd7c7e18217918c5f8ce9450ff3e.bindPopup(popup_4b9b6f08abd8f27ebbee5e5a9080f229)
+        ;
+
+        
+    
+    
+            marker_3035cd7c7e18217918c5f8ce9450ff3e.bindTooltip(
+                `<div>
+                     Numa Vogelweider
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_0cd857afb9991406c8cff937af2c8be0 = L.marker(
+                [47.7984796, 13.0252419],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_33fcb50a75ad03b5c55de03da35ffdf7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_20b5f1c2ffa4dbf621832e975fb27b17 = $(`<div id="html_20b5f1c2ffa4dbf621832e975fb27b17" style="width: 100.0%; height: 100.0%;">Numa Flute<br>7, Eniglstraße<br>Neu-Maxglan, Salzburg<br>Salzburg, 5020, Austria</div>`)[0];
+                popup_33fcb50a75ad03b5c55de03da35ffdf7.setContent(html_20b5f1c2ffa4dbf621832e975fb27b17);
+            
+        
+
+        marker_0cd857afb9991406c8cff937af2c8be0.bindPopup(popup_33fcb50a75ad03b5c55de03da35ffdf7)
+        ;
+
+        
+    
+    
+            marker_0cd857afb9991406c8cff937af2c8be0.bindTooltip(
+                `<div>
+                     Numa Flute
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_49f991cade330a10ced96120e6473c35 = L.marker(
+                [47.8021107, 13.044061],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_9c454d0c270ee9e3b5be3187e3955942 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a18f33a69b5840c0ef97aa80585cb728 = $(`<div id="html_a18f33a69b5840c0ef97aa80585cb728" style="width: 100.0%; height: 100.0%;">Numa Sonate<br>2, Lederergasse<br>nan, Salzburg<br>Salzburg, 5020, Austria</div>`)[0];
+                popup_9c454d0c270ee9e3b5be3187e3955942.setContent(html_a18f33a69b5840c0ef97aa80585cb728);
+            
+        
+
+        marker_49f991cade330a10ced96120e6473c35.bindPopup(popup_9c454d0c270ee9e3b5be3187e3955942)
+        ;
+
+        
+    
+    
+            marker_49f991cade330a10ced96120e6473c35.bindTooltip(
+                `<div>
+                     Numa Sonate
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_5f6e1f2e5c8205fdea94becdaf397089 = L.marker(
+                [47.80586659999999, 13.0524838],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_67fc012188b9b56bc593f890c8281834 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6f6aeeea067aa1b58c4ffde13a957088 = $(`<div id="html_6f6aeeea067aa1b58c4ffde13a957088" style="width: 100.0%; height: 100.0%;">Numa Nora<br>17, Schallmooser Hauptstraße<br>nan, Salzburg<br>Salzburg, 5020, Austria</div>`)[0];
+                popup_67fc012188b9b56bc593f890c8281834.setContent(html_6f6aeeea067aa1b58c4ffde13a957088);
+            
+        
+
+        marker_5f6e1f2e5c8205fdea94becdaf397089.bindPopup(popup_67fc012188b9b56bc593f890c8281834)
+        ;
+
+        
+    
+    
+            marker_5f6e1f2e5c8205fdea94becdaf397089.bindTooltip(
+                `<div>
+                     Numa Nora
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_c7adb0a88ef0aa8d41b5d75237de7e4f = L.marker(
+                [48.1945801, 16.3388668],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_9bda9424dd6d62f6a529b38dfad1fba7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_fbbbd7b7c88f31b1503890c8445bcbfe = $(`<div id="html_fbbbd7b7c88f31b1503890c8445bcbfe" style="width: 100.0%; height: 100.0%;">Numa Wood<br>33, Mariahilfer Gürtel<br>Neu-Fünfhaus, Wien<br>Wien, 1150, Austria</div>`)[0];
+                popup_9bda9424dd6d62f6a529b38dfad1fba7.setContent(html_fbbbd7b7c88f31b1503890c8445bcbfe);
+            
+        
+
+        marker_c7adb0a88ef0aa8d41b5d75237de7e4f.bindPopup(popup_9bda9424dd6d62f6a529b38dfad1fba7)
+        ;
+
+        
+    
+    
+            marker_c7adb0a88ef0aa8d41b5d75237de7e4f.bindTooltip(
+                `<div>
+                     Numa Wood
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_7de646c5037299aa26d6b90b72b2b4d2 = L.marker(
+                [48.18573480000001, 16.3345767],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_5ffdd9444b6924688553be22c207c4d4 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_12a53c9c7fb6b8431cf5b271bb8b0985 = $(`<div id="html_12a53c9c7fb6b8431cf5b271bb8b0985" style="width: 100.0%; height: 100.0%;">Numa Strauss<br>3, Stiegergasse<br>Neu-Gaudenzdorf, Wien<br>Wien, 1150, Austria</div>`)[0];
+                popup_5ffdd9444b6924688553be22c207c4d4.setContent(html_12a53c9c7fb6b8431cf5b271bb8b0985);
+            
+        
+
+        marker_7de646c5037299aa26d6b90b72b2b4d2.bindPopup(popup_5ffdd9444b6924688553be22c207c4d4)
+        ;
+
+        
+    
+    
+            marker_7de646c5037299aa26d6b90b72b2b4d2.bindTooltip(
+                `<div>
+                     Numa Strauss
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_41bd8a8006c227dc71041e0cabf33cd7 = L.marker(
+                [48.1961215, 16.3514093],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_007533adcd9d9228294c98add7dba6a9 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_72626c36f6008acae7217bafff16ac81 = $(`<div id="html_72626c36f6008acae7217bafff16ac81" style="width: 100.0%; height: 100.0%;">Numa Terra<br>60, Gumpendorfer Straße<br>Magdalenengrund, Wien<br>Wien, 1060, Austria</div>`)[0];
+                popup_007533adcd9d9228294c98add7dba6a9.setContent(html_72626c36f6008acae7217bafff16ac81);
+            
+        
+
+        marker_41bd8a8006c227dc71041e0cabf33cd7.bindPopup(popup_007533adcd9d9228294c98add7dba6a9)
+        ;
+
+        
+    
+    
+            marker_41bd8a8006c227dc71041e0cabf33cd7.bindTooltip(
+                `<div>
+                     Numa Terra
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_ff88413ad8ff57c56fc875f02e262a88 = L.marker(
+                [51.2169371, 4.415299699999999],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_0e64f0df5110f13a306a3333154a544e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4823ec0235afcfb5fe7685186df6a435 = $(`<div id="html_4823ec0235afcfb5fe7685186df6a435" style="width: 100.0%; height: 100.0%;">Numa YAYS Antwerp Opera by Numa<br>33, Frankrijklei<br>nan, Antwerpen<br>Antwerpen, 2000, Belgium</div>`)[0];
+                popup_0e64f0df5110f13a306a3333154a544e.setContent(html_4823ec0235afcfb5fe7685186df6a435);
+            
+        
+
+        marker_ff88413ad8ff57c56fc875f02e262a88.bindPopup(popup_0e64f0df5110f13a306a3333154a544e)
+        ;
+
+        
+    
+    
+            marker_ff88413ad8ff57c56fc875f02e262a88.bindTooltip(
+                `<div>
+                     Numa YAYS Antwerp Opera by Numa
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_5eb738a5b03a34704a0bd66af2e3cd9d = L.marker(
+                [50.8424043, 4.3463842],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_451940b7431628751a1b2ccfb0b32ecd = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_045dabe2aeeeece1d7cde72a61796a26 = $(`<div id="html_045dabe2aeeeece1d7cde72a61796a26" style="width: 100.0%; height: 100.0%;">Numa Lief<br>17, Place Rouppe<br>Quartier Midi-Lemonnier - Zuid-Lemonnierwijk, Pentagone - Vijfhoek<br>Bruxelles, 1000, Belgium</div>`)[0];
+                popup_451940b7431628751a1b2ccfb0b32ecd.setContent(html_045dabe2aeeeece1d7cde72a61796a26);
+            
+        
+
+        marker_5eb738a5b03a34704a0bd66af2e3cd9d.bindPopup(popup_451940b7431628751a1b2ccfb0b32ecd)
+        ;
+
+        
+    
+    
+            marker_5eb738a5b03a34704a0bd66af2e3cd9d.bindTooltip(
+                `<div>
+                     Numa Lief
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_8e26c3df7e20aa226ec699edb7e7308e = L.marker(
+                [50.0764839, 14.4232511],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_c9425b1f0a26d901c4ff7943e67b63c9 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_054999f1de084e2cc04a05ff825b43bf = $(`<div id="html_054999f1de084e2cc04a05ff825b43bf" style="width: 100.0%; height: 100.0%;">Numa Root<br>13, Malá Štěpánská<br>Nové Město, Hlavní město Praha<br>obvod Praha 2, 120 00, Czechia</div>`)[0];
+                popup_c9425b1f0a26d901c4ff7943e67b63c9.setContent(html_054999f1de084e2cc04a05ff825b43bf);
+            
+        
+
+        marker_8e26c3df7e20aa226ec699edb7e7308e.bindPopup(popup_c9425b1f0a26d901c4ff7943e67b63c9)
+        ;
+
+        
+    
+    
+            marker_8e26c3df7e20aa226ec699edb7e7308e.bindTooltip(
+                `<div>
+                     Numa Root
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_ff848517b2881b96dfa08da099dd17dc = L.marker(
+                [50.0750566, 14.4254993],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_4595e85c67d4b9640ea7f28b8dedfb07 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0f100397f5e5ba9fd949efef8dd6568b = $(`<div id="html_0f100397f5e5ba9fd949efef8dd6568b" style="width: 100.0%; height: 100.0%;">Numa Libusa<br>19, Ke Karlovu<br>Nové Město, Hlavní město Praha<br>Praha, 120 00, Czechia</div>`)[0];
+                popup_4595e85c67d4b9640ea7f28b8dedfb07.setContent(html_0f100397f5e5ba9fd949efef8dd6568b);
+            
+        
+
+        marker_ff848517b2881b96dfa08da099dd17dc.bindPopup(popup_4595e85c67d4b9640ea7f28b8dedfb07)
+        ;
+
+        
+    
+    
+            marker_ff848517b2881b96dfa08da099dd17dc.bindTooltip(
+                `<div>
+                     Numa Libusa
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_b83368dd1870111f51b62f3e223a6ad5 = L.marker(
+                [50.0762181, 14.4156473],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_42589ecbf37da02397bd9da1102f799a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_1139224e483da9402112b2dc0c87d884 = $(`<div id="html_1139224e483da9402112b2dc0c87d884" style="width: 100.0%; height: 100.0%;">Numa Flow<br>20, Dittrichova<br>Nové Město, Hlavní město Praha<br>Praha, 120 00, Czechia</div>`)[0];
+                popup_42589ecbf37da02397bd9da1102f799a.setContent(html_1139224e483da9402112b2dc0c87d884);
+            
+        
+
+        marker_b83368dd1870111f51b62f3e223a6ad5.bindPopup(popup_42589ecbf37da02397bd9da1102f799a)
+        ;
+
+        
+    
+    
+            marker_b83368dd1870111f51b62f3e223a6ad5.bindTooltip(
+                `<div>
+                     Numa Flow
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_23ca7677897a939ed0b8bee08f824779 = L.marker(
+                [50.08239589999999, 14.4185032],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_d1dceea370008aadd9febe87e929149d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ac59fdba66ca3fd65817cb998d081a1a = $(`<div id="html_ac59fdba66ca3fd65817cb998d081a1a" style="width: 100.0%; height: 100.0%;">Numa Poise<br>27, Národní<br>Staré Město, Hlavní město Praha<br>Praha, 110 00, Czechia</div>`)[0];
+                popup_d1dceea370008aadd9febe87e929149d.setContent(html_ac59fdba66ca3fd65817cb998d081a1a);
+            
+        
+
+        marker_23ca7677897a939ed0b8bee08f824779.bindPopup(popup_d1dceea370008aadd9febe87e929149d)
+        ;
+
+        
+    
+    
+            marker_23ca7677897a939ed0b8bee08f824779.bindTooltip(
+                `<div>
+                     Numa Poise
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_66bbfaf3f4a365509c257858aa1101cb = L.marker(
+                [50.091435, 14.4329551],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_89aea6740cc059af6e126bdd078bbf86 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4ca84c2016ff0f72f2eafa4d307ddb4b = $(`<div id="html_4ca84c2016ff0f72f2eafa4d307ddb4b" style="width: 100.0%; height: 100.0%;">Numa Republika<br>5, Petrská<br>Nové Město, Hlavní město Praha<br>Prague, 110 00, Czechia</div>`)[0];
+                popup_89aea6740cc059af6e126bdd078bbf86.setContent(html_4ca84c2016ff0f72f2eafa4d307ddb4b);
+            
+        
+
+        marker_66bbfaf3f4a365509c257858aa1101cb.bindPopup(popup_89aea6740cc059af6e126bdd078bbf86)
+        ;
+
+        
+    
+    
+            marker_66bbfaf3f4a365509c257858aa1101cb.bindTooltip(
+                `<div>
+                     Numa Republika
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_1119ab4fe538223c20385960266ee817 = L.marker(
+                [55.70276029999999, 12.5358736],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_809d46f5fad1c0beac1e9d72a2b9cca3 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_59474dc67b76ff66b2d1c6489f21a8ce = $(`<div id="html_59474dc67b76ff66b2d1c6489f21a8ce" style="width: 100.0%; height: 100.0%;">Numa Nørrebro<br>4, Drejervej<br>Mjølnerparken, Bispebjerg<br>København, 2400, Denmark</div>`)[0];
+                popup_809d46f5fad1c0beac1e9d72a2b9cca3.setContent(html_59474dc67b76ff66b2d1c6489f21a8ce);
+            
+        
+
+        marker_1119ab4fe538223c20385960266ee817.bindPopup(popup_809d46f5fad1c0beac1e9d72a2b9cca3)
+        ;
+
+        
+    
+    
+            marker_1119ab4fe538223c20385960266ee817.bindTooltip(
+                `<div>
+                     Numa Nørrebro
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_f7c95823569bcca87497ba5798fd02eb = L.marker(
+                [48.8216097, 2.2649876],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_f1ab7954b74a7a0048cdd56d0e9479ff = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_cfda313bfaec9e089e465b1a168987fa = $(`<div id="html_cfda313bfaec9e089e465b1a168987fa" style="width: 100.0%; height: 100.0%;">Numa YAYS Paris Issy by Numa<br>20, Avenue Bourgain<br>Quartier Centre-Ville / Corentin Celton / Les Varennes, Hauts-de-Seine<br>Paris, 92130, France</div>`)[0];
+                popup_f1ab7954b74a7a0048cdd56d0e9479ff.setContent(html_cfda313bfaec9e089e465b1a168987fa);
+            
+        
+
+        marker_f7c95823569bcca87497ba5798fd02eb.bindPopup(popup_f1ab7954b74a7a0048cdd56d0e9479ff)
+        ;
+
+        
+    
+    
+            marker_f7c95823569bcca87497ba5798fd02eb.bindTooltip(
+                `<div>
+                     Numa YAYS Paris Issy by Numa
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_a1a8839dd6728999ccdc0810cc3e7f2e = L.marker(
+                [48.8485387, 2.2923443],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_d5a71cdef10a989b1576811972cc5569 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_13806ee9a131309516dea8b74e598e97 = $(`<div id="html_13806ee9a131309516dea8b74e598e97" style="width: 100.0%; height: 100.0%;">Numa YAYS Paris Zola by Numa<br>17, Rue Fondary<br>Quartier de Grenelle, Département de Paris<br>Paris, 75015, France</div>`)[0];
+                popup_d5a71cdef10a989b1576811972cc5569.setContent(html_13806ee9a131309516dea8b74e598e97);
+            
+        
+
+        marker_a1a8839dd6728999ccdc0810cc3e7f2e.bindPopup(popup_d5a71cdef10a989b1576811972cc5569)
+        ;
+
+        
+    
+    
+            marker_a1a8839dd6728999ccdc0810cc3e7f2e.bindTooltip(
+                `<div>
+                     Numa YAYS Paris Zola by Numa
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_5be2b6c80a364e6996a44d9d04dc299e = L.marker(
+                [48.8697083, 2.305094],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_a432c86b20c85454cd9894276512f088 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4211d5b0fd983c2e6ec5a43c7f1f7974 = $(`<div id="html_4211d5b0fd983c2e6ec5a43c7f1f7974" style="width: 100.0%; height: 100.0%;">Numa Champs-Élysées<br>37, Rue Marbeuf<br>Quartier des Champs-Élysées, Département de Paris<br>Paris, 75008, France</div>`)[0];
+                popup_a432c86b20c85454cd9894276512f088.setContent(html_4211d5b0fd983c2e6ec5a43c7f1f7974);
+            
+        
+
+        marker_5be2b6c80a364e6996a44d9d04dc299e.bindPopup(popup_a432c86b20c85454cd9894276512f088)
+        ;
+
+        
+    
+    
+            marker_5be2b6c80a364e6996a44d9d04dc299e.bindTooltip(
+                `<div>
+                     Numa Champs-Élysées
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_a0ac158f9f3c2c35c057917cbee4494e = L.marker(
+                [52.50590219999999, 13.3119574],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_c5e60b41a23a909edbe9de24dc3ceb86 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d6665a20d7934a1c0f40afebbd79aade = $(`<div id="html_d6665a20d7934a1c0f40afebbd79aade" style="width: 100.0%; height: 100.0%;">Numa Savi<br>126, Kantstraße<br>Kantstraße, Charlottenburg<br>Berlin, 10625, Germany</div>`)[0];
+                popup_c5e60b41a23a909edbe9de24dc3ceb86.setContent(html_d6665a20d7934a1c0f40afebbd79aade);
+            
+        
+
+        marker_a0ac158f9f3c2c35c057917cbee4494e.bindPopup(popup_c5e60b41a23a909edbe9de24dc3ceb86)
+        ;
+
+        
+    
+    
+            marker_a0ac158f9f3c2c35c057917cbee4494e.bindTooltip(
+                `<div>
+                     Numa Savi
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_84429ba9a18a119c46ca0531488bd063 = L.marker(
+                [52.5047195, 13.3910689],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_d4a7c8cded2f55a3e2070e31ac1d9e8b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e446020f8cb3ce74b99b34a7cbd2cc28 = $(`<div id="html_e446020f8cb3ce74b99b34a7cbd2cc28" style="width: 100.0%; height: 100.0%;">Numa Arc<br>31, Friedrichstraße<br>Kreuzberg, Friedrichshain-Kreuzberg<br>Berlin, 10969, Germany</div>`)[0];
+                popup_d4a7c8cded2f55a3e2070e31ac1d9e8b.setContent(html_e446020f8cb3ce74b99b34a7cbd2cc28);
+            
+        
+
+        marker_84429ba9a18a119c46ca0531488bd063.bindPopup(popup_d4a7c8cded2f55a3e2070e31ac1d9e8b)
+        ;
+
+        
+    
+    
+            marker_84429ba9a18a119c46ca0531488bd063.bindTooltip(
+                `<div>
+                     Numa Arc
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_37216e7f98ee5bf9e12f74e14c57ff86 = L.marker(
+                [52.5090338, 13.466393],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_a05bb57655336d9ada72b5d8c7d5e978 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_31510d6acdead95068d6046e0c7b39ba = $(`<div id="html_31510d6acdead95068d6046e0c7b39ba" style="width: 100.0%; height: 100.0%;">Numa Boxer<br>22, Holteistraße<br>Friedrichshain, Friedrichshain-Kreuzberg<br>Berlin, 10247, Germany</div>`)[0];
+                popup_a05bb57655336d9ada72b5d8c7d5e978.setContent(html_31510d6acdead95068d6046e0c7b39ba);
+            
+        
+
+        marker_37216e7f98ee5bf9e12f74e14c57ff86.bindPopup(popup_a05bb57655336d9ada72b5d8c7d5e978)
+        ;
+
+        
+    
+    
+            marker_37216e7f98ee5bf9e12f74e14c57ff86.bindTooltip(
+                `<div>
+                     Numa Boxer
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_0a415ffea14b3196a083f3fb6deec685 = L.marker(
+                [52.5117809, 13.4559989],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_2edfdc461fd1db8165c892aa46f065a1 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0c48d51903553a30f37d3b5e5523d8be = $(`<div id="html_0c48d51903553a30f37d3b5e5523d8be" style="width: 100.0%; height: 100.0%;">Numa Sketch<br>54, Grünberger Straße<br>Samariterviertel, Friedrichshain<br>Berlin, 10245, Germany</div>`)[0];
+                popup_2edfdc461fd1db8165c892aa46f065a1.setContent(html_0c48d51903553a30f37d3b5e5523d8be);
+            
+        
+
+        marker_0a415ffea14b3196a083f3fb6deec685.bindPopup(popup_2edfdc461fd1db8165c892aa46f065a1)
+        ;
+
+        
+    
+    
+            marker_0a415ffea14b3196a083f3fb6deec685.bindTooltip(
+                `<div>
+                     Numa Sketch
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_9fcc30c54004ac4d081dc72ce1b42f33 = L.marker(
+                [52.5043052, 13.33931],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_543e29161c635555558c7ad0c956b0a2 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_32086ec5e22a52d7b72020bf5c602915 = $(`<div id="html_32086ec5e22a52d7b72020bf5c602915" style="width: 100.0%; height: 100.0%;">Numa Kudamm<br>8, Tauentzienstraße<br>Charlottenburg, Charlottenburg-Wilmersdorf<br>Berlin, 10789, Germany</div>`)[0];
+                popup_543e29161c635555558c7ad0c956b0a2.setContent(html_32086ec5e22a52d7b72020bf5c602915);
+            
+        
+
+        marker_9fcc30c54004ac4d081dc72ce1b42f33.bindPopup(popup_543e29161c635555558c7ad0c956b0a2)
+        ;
+
+        
+    
+    
+            marker_9fcc30c54004ac4d081dc72ce1b42f33.bindTooltip(
+                `<div>
+                     Numa Kudamm
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_8f38af7dc4f3e2ab5e765e9efa466240 = L.marker(
+                [52.5057254, 13.380306],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_f930493962b2382012f81c682de37cf5 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_5edac4ad5e0eaca42067d8c5c3329028 = $(`<div id="html_5edac4ad5e0eaca42067d8c5c3329028" style="width: 100.0%; height: 100.0%;">Numa Potsdamer Platz<br>95, Stresemannstraße<br>nan, nan<br>Berlin, 10963, Germany</div>`)[0];
+                popup_f930493962b2382012f81c682de37cf5.setContent(html_5edac4ad5e0eaca42067d8c5c3329028);
+            
+        
+
+        marker_8f38af7dc4f3e2ab5e765e9efa466240.bindPopup(popup_f930493962b2382012f81c682de37cf5)
+        ;
+
+        
+    
+    
+            marker_8f38af7dc4f3e2ab5e765e9efa466240.bindTooltip(
+                `<div>
+                     Numa Potsdamer Platz
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_39706ec950a4ac2150c4fe4c6663ed02 = L.marker(
+                [52.50010830000001, 13.3526433],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_578da42bfbf5dcea9148ab3f20fe159d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ace034086cea8d4571abea7816d3950d = $(`<div id="html_ace034086cea8d4571abea7816d3950d" style="width: 100.0%; height: 100.0%;">Numa Drift<br>2, Nollendorfplatz<br>Nollendorfplatz, Schöneberg<br>Berlin, 10787, Germany</div>`)[0];
+                popup_578da42bfbf5dcea9148ab3f20fe159d.setContent(html_ace034086cea8d4571abea7816d3950d);
+            
+        
+
+        marker_39706ec950a4ac2150c4fe4c6663ed02.bindPopup(popup_578da42bfbf5dcea9148ab3f20fe159d)
+        ;
+
+        
+    
+    
+            marker_39706ec950a4ac2150c4fe4c6663ed02.bindTooltip(
+                `<div>
+                     Numa Drift
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_7f19818e5f8c5b0ed01a48c110c77572 = L.marker(
+                [52.5285889, 13.4091011],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_6b467aee730c22f3d1d75b0474f4e5bc = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_28559933e744c5a296c5eb6f9976b1d5 = $(`<div id="html_28559933e744c5a296c5eb6f9976b1d5" style="width: 100.0%; height: 100.0%;">Numa Torstraße<br>2, Alte Schönhauser Straße<br>nan, nan<br>Berlin, 10119, Germany</div>`)[0];
+                popup_6b467aee730c22f3d1d75b0474f4e5bc.setContent(html_28559933e744c5a296c5eb6f9976b1d5);
+            
+        
+
+        marker_7f19818e5f8c5b0ed01a48c110c77572.bindPopup(popup_6b467aee730c22f3d1d75b0474f4e5bc)
+        ;
+
+        
+    
+    
+            marker_7f19818e5f8c5b0ed01a48c110c77572.bindTooltip(
+                `<div>
+                     Numa Torstraße
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_442de448a61de4e399e2c253c5922386 = L.marker(
+                [52.4988328, 13.3120967],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_03f9bae54b710332f65bd26f5b76f73d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_925217868c3cf8e2bf4ea120dd4a8400 = $(`<div id="html_925217868c3cf8e2bf4ea120dd4a8400" style="width: 100.0%; height: 100.0%;">Numa Novela<br>1, Konstanzer Straße<br>Wilmersdorf, Charlottenburg-Wilmersdorf<br>Berlin, 10707, Germany</div>`)[0];
+                popup_03f9bae54b710332f65bd26f5b76f73d.setContent(html_925217868c3cf8e2bf4ea120dd4a8400);
+            
+        
+
+        marker_442de448a61de4e399e2c253c5922386.bindPopup(popup_03f9bae54b710332f65bd26f5b76f73d)
+        ;
+
+        
+    
+    
+            marker_442de448a61de4e399e2c253c5922386.bindTooltip(
+                `<div>
+                     Numa Novela
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_40d965a1a173c19d2172e84e504de223 = L.marker(
+                [52.5239138, 13.3996421],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_bb34d1cfa35c599003669df55efd0c48 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b866ad75fd74795f45d0121328c06b1e = $(`<div id="html_b866ad75fd74795f45d0121328c06b1e" style="width: 100.0%; height: 100.0%;">Numa Nook<br>23, Große Hamburger Straße<br>Spandauer Vorstadt, Mitte<br>Berlin, 10115, Germany</div>`)[0];
+                popup_bb34d1cfa35c599003669df55efd0c48.setContent(html_b866ad75fd74795f45d0121328c06b1e);
+            
+        
+
+        marker_40d965a1a173c19d2172e84e504de223.bindPopup(popup_bb34d1cfa35c599003669df55efd0c48)
+        ;
+
+        
+    
+    
+            marker_40d965a1a173c19d2172e84e504de223.bindTooltip(
+                `<div>
+                     Numa Nook
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_17f307363f4638f0f949a9cd38a9c643 = L.marker(
+                [52.5324537, 13.4187202],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_292898aefc294205f33d16956fc36f2a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4024e1959c582997d0c226c60d390186 = $(`<div id="html_4024e1959c582997d0c226c60d390186" style="width: 100.0%; height: 100.0%;">Numa Belfort<br>24, Belforter Straße<br>Kollwitzkiez, Prenzlauer Berg<br>Berlin, 10405, Germany</div>`)[0];
+                popup_292898aefc294205f33d16956fc36f2a.setContent(html_4024e1959c582997d0c226c60d390186);
+            
+        
+
+        marker_17f307363f4638f0f949a9cd38a9c643.bindPopup(popup_292898aefc294205f33d16956fc36f2a)
+        ;
+
+        
+    
+    
+            marker_17f307363f4638f0f949a9cd38a9c643.bindTooltip(
+                `<div>
+                     Numa Belfort
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_9fd3981cf058d9866554d1e613fc978c = L.marker(
+                [52.5036995, 13.4472703],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_a10f38bfa9de5d1eb62e529b158c0855 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_bc5f56ab45f31ef31fc82435596e04e7 = $(`<div id="html_bc5f56ab45f31ef31fc82435596e04e7" style="width: 100.0%; height: 100.0%;">Numa Kater<br>46, Warschauer Straße<br>nan, nan<br>Berlin, 10243, Germany</div>`)[0];
+                popup_a10f38bfa9de5d1eb62e529b158c0855.setContent(html_bc5f56ab45f31ef31fc82435596e04e7);
+            
+        
+
+        marker_9fd3981cf058d9866554d1e613fc978c.bindPopup(popup_a10f38bfa9de5d1eb62e529b158c0855)
+        ;
+
+        
+    
+    
+            marker_9fd3981cf058d9866554d1e613fc978c.bindTooltip(
+                `<div>
+                     Numa Kater
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_145c9d90255fedf2157ef04ce5716f1b = L.marker(
+                [50.7504453, 7.0781659],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_95113799a617756368b3d89ba52b6406 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_76017ade09a9bb58d07485cbd43dcde8 = $(`<div id="html_76017ade09a9bb58d07485cbd43dcde8" style="width: 100.0%; height: 100.0%;">Numa Bona<br>360-364, Kölnstraße<br>Kölnstraße, Köln<br>Bonn, 53117, Germany</div>`)[0];
+                popup_95113799a617756368b3d89ba52b6406.setContent(html_76017ade09a9bb58d07485cbd43dcde8);
+            
+        
+
+        marker_145c9d90255fedf2157ef04ce5716f1b.bindPopup(popup_95113799a617756368b3d89ba52b6406)
+        ;
+
+        
+    
+    
+            marker_145c9d90255fedf2157ef04ce5716f1b.bindTooltip(
+                `<div>
+                     Numa Bona
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_ca43df1954f7c2183c66765f5e796fa6 = L.marker(
+                [53.07887909999999, 8.803691599999999],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_caf6ddeb4e3279e980cdbe96b3174f51 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0ad4c0d0d644c265ad280b5b112a6a5c = $(`<div id="html_0ad4c0d0d644c265ad280b5b112a6a5c" style="width: 100.0%; height: 100.0%;">Numa Saga<br>7, Hanseatenhof<br>Altstadt, Mitte<br>Bremen, 28195, Germany</div>`)[0];
+                popup_caf6ddeb4e3279e980cdbe96b3174f51.setContent(html_0ad4c0d0d644c265ad280b5b112a6a5c);
+            
+        
+
+        marker_ca43df1954f7c2183c66765f5e796fa6.bindPopup(popup_caf6ddeb4e3279e980cdbe96b3174f51)
+        ;
+
+        
+    
+    
+            marker_ca43df1954f7c2183c66765f5e796fa6.bindTooltip(
+                `<div>
+                     Numa Saga
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_cea538e0c5d86f2021ed5eb375f197cc = L.marker(
+                [51.2342531, 6.778892099999999],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_6d5af14ffd806f0f0f4c2c572a0fd310 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_08526e73924a06a6399820b5de3d9a71 = $(`<div id="html_08526e73924a06a6399820b5de3d9a71" style="width: 100.0%; height: 100.0%;">Numa Artol<br>20, Kaiserstraße<br>Pempelfort, Düsseldorf<br>Düsseldorf, 40479, Germany</div>`)[0];
+                popup_6d5af14ffd806f0f0f4c2c572a0fd310.setContent(html_08526e73924a06a6399820b5de3d9a71);
+            
+        
+
+        marker_cea538e0c5d86f2021ed5eb375f197cc.bindPopup(popup_6d5af14ffd806f0f0f4c2c572a0fd310)
+        ;
+
+        
+    
+    
+            marker_cea538e0c5d86f2021ed5eb375f197cc.bindTooltip(
+                `<div>
+                     Numa Artol
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_1ff797808fea804d2a34f8fa2e4b46ad = L.marker(
+                [51.22793129999999, 6.7915743],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_d41497141883c2be420cbb47f06109f3 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6ec16fc18f1a06c041c6ad58aed7f0c2 = $(`<div id="html_6ec16fc18f1a06c041c6ad58aed7f0c2" style="width: 100.0%; height: 100.0%;">Numa Leo<br>43, Am Wehrhahn<br>nan, Düsseldorf<br>Düsseldorf, 40211, Germany</div>`)[0];
+                popup_d41497141883c2be420cbb47f06109f3.setContent(html_6ec16fc18f1a06c041c6ad58aed7f0c2);
+            
+        
+
+        marker_1ff797808fea804d2a34f8fa2e4b46ad.bindPopup(popup_d41497141883c2be420cbb47f06109f3)
+        ;
+
+        
+    
+    
+            marker_1ff797808fea804d2a34f8fa2e4b46ad.bindTooltip(
+                `<div>
+                     Numa Leo
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_726e650d3d2468bc5dbd0bdbd37b6abf = L.marker(
+                [50.1092928, 8.6613964],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_4f736767e3e3d3687ee2e6b302eb7afa = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3296a8c178d3ec5fbcf7fe43a8f0e1ae = $(`<div id="html_3296a8c178d3ec5fbcf7fe43a8f0e1ae" style="width: 100.0%; height: 100.0%;">Numa Blau<br>22, Düsseldorfer Straße<br>Bahnhofsviertel, Darmstadt<br>Frankfurt am Main, 60329, Germany</div>`)[0];
+                popup_4f736767e3e3d3687ee2e6b302eb7afa.setContent(html_3296a8c178d3ec5fbcf7fe43a8f0e1ae);
+            
+        
+
+        marker_726e650d3d2468bc5dbd0bdbd37b6abf.bindPopup(popup_4f736767e3e3d3687ee2e6b302eb7afa)
+        ;
+
+        
+    
+    
+            marker_726e650d3d2468bc5dbd0bdbd37b6abf.bindTooltip(
+                `<div>
+                     Numa Blau
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_2281b8301fa8a5769eb5745c09ebaf5c = L.marker(
+                [50.117491, 8.641048],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_f4b13440aff28554b085066f70e21864 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a396bc2bdc08209cf01808d1223cee9e = $(`<div id="html_a396bc2bdc08209cf01808d1223cee9e" style="width: 100.0%; height: 100.0%;">Numa Oben<br>37, Kreuznacher Straße<br>City West, Darmstadt<br>Frankfurt am Main, 60486, Germany</div>`)[0];
+                popup_f4b13440aff28554b085066f70e21864.setContent(html_a396bc2bdc08209cf01808d1223cee9e);
+            
+        
+
+        marker_2281b8301fa8a5769eb5745c09ebaf5c.bindPopup(popup_f4b13440aff28554b085066f70e21864)
+        ;
+
+        
+    
+    
+            marker_2281b8301fa8a5769eb5745c09ebaf5c.bindTooltip(
+                `<div>
+                     Numa Oben
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_0486dd91b71e283221d5000adcbbcacd = L.marker(
+                [50.11843, 8.6783804],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_fd394895696818ef119a1ad95a97b108 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_7939262b9e8878a18b8b0d20f21f3c8e = $(`<div id="html_7939262b9e8878a18b8b0d20f21f3c8e" style="width: 100.0%; height: 100.0%;">Numa Bloc<br>5-7, Eschersheimer Landstraße<br>Innenstadt 1, Darmstadt<br>Frankfurt am Main, 60322, Germany</div>`)[0];
+                popup_fd394895696818ef119a1ad95a97b108.setContent(html_7939262b9e8878a18b8b0d20f21f3c8e);
+            
+        
+
+        marker_0486dd91b71e283221d5000adcbbcacd.bindPopup(popup_fd394895696818ef119a1ad95a97b108)
+        ;
+
+        
+    
+    
+            marker_0486dd91b71e283221d5000adcbbcacd.bindTooltip(
+                `<div>
+                     Numa Bloc
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_8232cfe38833c4682985b25900ed16a6 = L.marker(
+                [53.602201, 10.027402],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_e558065baef46560850a911d6ba3685c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ad26cf0c37abd359a44040ebd20ab4b1 = $(`<div id="html_ad26cf0c37abd359a44040ebd20ab4b1" style="width: 100.0%; height: 100.0%;">Numa Fore<br>1, Kapstadtring<br>nan, nan<br>Hamburg, 22297, Germany</div>`)[0];
+                popup_e558065baef46560850a911d6ba3685c.setContent(html_ad26cf0c37abd359a44040ebd20ab4b1);
+            
+        
+
+        marker_8232cfe38833c4682985b25900ed16a6.bindPopup(popup_e558065baef46560850a911d6ba3685c)
+        ;
+
+        
+    
+    
+            marker_8232cfe38833c4682985b25900ed16a6.bindTooltip(
+                `<div>
+                     Numa Fore
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_9f8e48074f3f0dc3e20910cd67afe274 = L.marker(
+                [48.0928928, 11.5398339],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_e0cf7cab27130349a38529ccb1138a6d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_424af03513a77db69793c6c08f353677 = $(`<div id="html_424af03513a77db69793c6c08f353677" style="width: 100.0%; height: 100.0%;">Numa Obersendling<br>1, Neunkirchner Straße<br>Südseite, Oberbayern<br>München, 81379, Germany</div>`)[0];
+                popup_e0cf7cab27130349a38529ccb1138a6d.setContent(html_424af03513a77db69793c6c08f353677);
+            
+        
+
+        marker_9f8e48074f3f0dc3e20910cd67afe274.bindPopup(popup_e0cf7cab27130349a38529ccb1138a6d)
+        ;
+
+        
+    
+    
+            marker_9f8e48074f3f0dc3e20910cd67afe274.bindTooltip(
+                `<div>
+                     Numa Obersendling
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_0987f64dd8fc3a92833e6d6a78520e88 = L.marker(
+                [48.1046141, 11.6042806],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_6a62988e7cad9948d14cd30ebedf3b42 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_20b8f857983cdab14d95316e490833f1 = $(`<div id="html_20b8f857983cdab14d95316e490833f1" style="width: 100.0%; height: 100.0%;">Numa Munico<br>45, Ständlerstraße<br>Obergiesing, Oberbayern<br>München, 81549, Germany</div>`)[0];
+                popup_6a62988e7cad9948d14cd30ebedf3b42.setContent(html_20b8f857983cdab14d95316e490833f1);
+            
+        
+
+        marker_0987f64dd8fc3a92833e6d6a78520e88.bindPopup(popup_6a62988e7cad9948d14cd30ebedf3b42)
+        ;
+
+        
+    
+    
+            marker_0987f64dd8fc3a92833e6d6a78520e88.bindTooltip(
+                `<div>
+                     Numa Munico
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_639654c7cd3d660a10ba7be49aaf07ec = L.marker(
+                [48.18661729999999, 11.5327531],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_afb401aed46b4b1c0824be54db64d80b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8e54d2efee0fe57c28066ecddc9a6170 = $(`<div id="html_8e54d2efee0fe57c28066ecddc9a6170" style="width: 100.0%; height: 100.0%;">Numa Viktoria<br>105, Hanauer Straße<br>Hanauer Straße, Oberbayern<br>München, 80993, Germany</div>`)[0];
+                popup_afb401aed46b4b1c0824be54db64d80b.setContent(html_8e54d2efee0fe57c28066ecddc9a6170);
+            
+        
+
+        marker_639654c7cd3d660a10ba7be49aaf07ec.bindPopup(popup_afb401aed46b4b1c0824be54db64d80b)
+        ;
+
+        
+    
+    
+            marker_639654c7cd3d660a10ba7be49aaf07ec.bindTooltip(
+                `<div>
+                     Numa Viktoria
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_9c7fcadbcf08367e9432421eb7adace6 = L.marker(
+                [48.12065639999999, 11.6070977],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_4cb438a72a43f9e85a2d747008b93169 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_313310fdea1631af72080f25b6704e0d = $(`<div id="html_313310fdea1631af72080f25b6704e0d" style="width: 100.0%; height: 100.0%;">Numa Stark<br>145K, Rosenheimer Straße<br>Haidhausen - Süd, Oberbayern<br>München, 81671, Germany</div>`)[0];
+                popup_4cb438a72a43f9e85a2d747008b93169.setContent(html_313310fdea1631af72080f25b6704e0d);
+            
+        
+
+        marker_9c7fcadbcf08367e9432421eb7adace6.bindPopup(popup_4cb438a72a43f9e85a2d747008b93169)
+        ;
+
+        
+    
+    
+            marker_9c7fcadbcf08367e9432421eb7adace6.bindTooltip(
+                `<div>
+                     Numa Stark
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_2cae323ff73ed6ef903cb12c5f9eebbb = L.marker(
+                [48.1375599, 11.5604682],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_3837dd736aa058004a60ada0e93abb13 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_51e7118a20956d2efd69b001084c87e9 = $(`<div id="html_51e7118a20956d2efd69b001084c87e9" style="width: 100.0%; height: 100.0%;">Numa Blend<br>26, Schwanthalerstraße<br>Schwanthalerhöhe, Oberbayern<br>München, 80336, Germany</div>`)[0];
+                popup_3837dd736aa058004a60ada0e93abb13.setContent(html_51e7118a20956d2efd69b001084c87e9);
+            
+        
+
+        marker_2cae323ff73ed6ef903cb12c5f9eebbb.bindPopup(popup_3837dd736aa058004a60ada0e93abb13)
+        ;
+
+        
+    
+    
+            marker_2cae323ff73ed6ef903cb12c5f9eebbb.bindTooltip(
+                `<div>
+                     Numa Blend
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_e53b065dcabf030f05525b4b075e5cbd = L.marker(
+                [43.7726384, 11.2567981],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_14ce85797ed7e95e0b08874c169ba7ff = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_09ff6b30c2732fa3b7f8ab1918ffdfba = $(`<div id="html_09ff6b30c2732fa3b7f8ab1918ffdfba" style="width: 100.0%; height: 100.0%;">Numa Rodo<br>13, Piazza del Duomo<br>nan, Città Metropolitana di Firenze<br>Firenze, 50122, Italy</div>`)[0];
+                popup_14ce85797ed7e95e0b08874c169ba7ff.setContent(html_09ff6b30c2732fa3b7f8ab1918ffdfba);
+            
+        
+
+        marker_e53b065dcabf030f05525b4b075e5cbd.bindPopup(popup_14ce85797ed7e95e0b08874c169ba7ff)
+        ;
+
+        
+    
+    
+            marker_e53b065dcabf030f05525b4b075e5cbd.bindTooltip(
+                `<div>
+                     Numa Rodo
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_51d43f903af695e2529d37b9b903d52f = L.marker(
+                [43.76502319999999, 11.248073],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_b8c131199a3e5b42cf19bac9666015ff = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_56b85ad19fdfa74a4fb2eef5df615a54 = $(`<div id="html_56b85ad19fdfa74a4fb2eef5df615a54" style="width: 100.0%; height: 100.0%;">Numa Felice<br>2, Piazza San Felice<br>nan, Città Metropolitana di Firenze<br>Firenze, 50125, Italy</div>`)[0];
+                popup_b8c131199a3e5b42cf19bac9666015ff.setContent(html_56b85ad19fdfa74a4fb2eef5df615a54);
+            
+        
+
+        marker_51d43f903af695e2529d37b9b903d52f.bindPopup(popup_b8c131199a3e5b42cf19bac9666015ff)
+        ;
+
+        
+    
+    
+            marker_51d43f903af695e2529d37b9b903d52f.bindTooltip(
+                `<div>
+                     Numa Felice
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_df361c94b132331263acb36f47cf4a40 = L.marker(
+                [43.7856762, 11.2615234],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_6992fc29e4b2cee69316805998ba692a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_40c3fd253f590ab2db13eb26b98bdad4 = $(`<div id="html_40c3fd253f590ab2db13eb26b98bdad4" style="width: 100.0%; height: 100.0%;">Numa Vita<br>7, Viale Giovanni Milton<br>nan, Città Metropolitana di Firenze<br>Firenze, 50129, Italy</div>`)[0];
+                popup_6992fc29e4b2cee69316805998ba692a.setContent(html_40c3fd253f590ab2db13eb26b98bdad4);
+            
+        
+
+        marker_df361c94b132331263acb36f47cf4a40.bindPopup(popup_6992fc29e4b2cee69316805998ba692a)
+        ;
+
+        
+    
+    
+            marker_df361c94b132331263acb36f47cf4a40.bindTooltip(
+                `<div>
+                     Numa Vita
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_985673f964bf2ed85f115f57e39b3ffc = L.marker(
+                [43.77117000000001, 11.24807],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_6404db1b382b1ff5051f6f94b71f3e68 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_204acf512a91b1e4de61cab6400333db = $(`<div id="html_204acf512a91b1e4de61cab6400333db" style="width: 100.0%; height: 100.0%;">Numa Palazzo Moro<br>3, Via del Moro<br>nan, Città Metropolitana di Firenze<br>Firenze, 50123, Italy</div>`)[0];
+                popup_6404db1b382b1ff5051f6f94b71f3e68.setContent(html_204acf512a91b1e4de61cab6400333db);
+            
+        
+
+        marker_985673f964bf2ed85f115f57e39b3ffc.bindPopup(popup_6404db1b382b1ff5051f6f94b71f3e68)
+        ;
+
+        
+    
+    
+            marker_985673f964bf2ed85f115f57e39b3ffc.bindTooltip(
+                `<div>
+                     Numa Palazzo Moro
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_634f05d7b78699c605a78a0f56dc179c = L.marker(
+                [43.7698934, 11.2527556],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_9b37f39f22393a7d93ea63aa27a2281e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_68863edf45ad7c4c047268c7be51952e = $(`<div id="html_68863edf45ad7c4c047268c7be51952e" style="width: 100.0%; height: 100.0%;">Numa Fiore<br>12, Via delle Terme<br>nan, Città Metropolitana di Firenze<br>Firenze, 50123, Italy</div>`)[0];
+                popup_9b37f39f22393a7d93ea63aa27a2281e.setContent(html_68863edf45ad7c4c047268c7be51952e);
+            
+        
+
+        marker_634f05d7b78699c605a78a0f56dc179c.bindPopup(popup_9b37f39f22393a7d93ea63aa27a2281e)
+        ;
+
+        
+    
+    
+            marker_634f05d7b78699c605a78a0f56dc179c.bindTooltip(
+                `<div>
+                     Numa Fiore
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_09aabb98cd61bb728051ef7757463d85 = L.marker(
+                [43.766849, 11.2501477],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_26836a0a3ea3412a08c6585b91f4d1d0 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_1904de21b32cfaa0e67ba3abd1d13851 = $(`<div id="html_1904de21b32cfaa0e67ba3abd1d13851" style="width: 100.0%; height: 100.0%;">Numa Palazzo Belfiore<br>8, Via dei Velluti<br>nan, Città Metropolitana di Firenze<br>Firenze, 50125, Italy</div>`)[0];
+                popup_26836a0a3ea3412a08c6585b91f4d1d0.setContent(html_1904de21b32cfaa0e67ba3abd1d13851);
+            
+        
+
+        marker_09aabb98cd61bb728051ef7757463d85.bindPopup(popup_26836a0a3ea3412a08c6585b91f4d1d0)
+        ;
+
+        
+    
+    
+            marker_09aabb98cd61bb728051ef7757463d85.bindTooltip(
+                `<div>
+                     Numa Palazzo Belfiore
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_c5b2bb4a68ca0e32b148b85903119897 = L.marker(
+                [45.48234009999999, 9.2073011],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_8b87f307b35833bf28431c94c97853e8 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ffb4a3022bb242fb5de56ee8828381a8 = $(`<div id="html_ffb4a3022bb242fb5de56ee8828381a8" style="width: 100.0%; height: 100.0%;">Numa Loreto<br>32, Via Vitruvio<br>Municipio 3, Città metropolitana di Milano<br>Milano, 20124, Italy</div>`)[0];
+                popup_8b87f307b35833bf28431c94c97853e8.setContent(html_ffb4a3022bb242fb5de56ee8828381a8);
+            
+        
+
+        marker_c5b2bb4a68ca0e32b148b85903119897.bindPopup(popup_8b87f307b35833bf28431c94c97853e8)
+        ;
+
+        
+    
+    
+            marker_c5b2bb4a68ca0e32b148b85903119897.bindTooltip(
+                `<div>
+                     Numa Loreto
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_2376888ef21c0fc50871a1a84d5aa018 = L.marker(
+                [45.4809466, 9.1647184],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_89fe955e532d15f8957f1c9dda9c3993 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6312835f8c3381f6636a2c3eb731b275 = $(`<div id="html_6312835f8c3381f6636a2c3eb731b275" style="width: 100.0%; height: 100.0%;">Numa Sempione<br>39, Corso Sempione<br>Municipio 1, Città metropolitana di Milano<br>Milano, 20145, Italy</div>`)[0];
+                popup_89fe955e532d15f8957f1c9dda9c3993.setContent(html_6312835f8c3381f6636a2c3eb731b275);
+            
+        
+
+        marker_2376888ef21c0fc50871a1a84d5aa018.bindPopup(popup_89fe955e532d15f8957f1c9dda9c3993)
+        ;
+
+        
+    
+    
+            marker_2376888ef21c0fc50871a1a84d5aa018.bindTooltip(
+                `<div>
+                     Numa Sempione
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_92c2ddf2ab384c70a9863ce215cbf0a0 = L.marker(
+                [45.4667715, 9.1830014],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_6ba0a04d2b92c1bc78bcede5502299cf = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e17823e37f4073ea9b515baec18265e1 = $(`<div id="html_e17823e37f4073ea9b515baec18265e1" style="width: 100.0%; height: 100.0%;">Numa Camperio<br>9, Via Manfredo Camperio<br>Cerchia dei Navigli, Città metropolitana di Milano<br>Milano, 20123, Italy</div>`)[0];
+                popup_6ba0a04d2b92c1bc78bcede5502299cf.setContent(html_e17823e37f4073ea9b515baec18265e1);
+            
+        
+
+        marker_92c2ddf2ab384c70a9863ce215cbf0a0.bindPopup(popup_6ba0a04d2b92c1bc78bcede5502299cf)
+        ;
+
+        
+    
+    
+            marker_92c2ddf2ab384c70a9863ce215cbf0a0.bindTooltip(
+                `<div>
+                     Numa Camperio
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_922af52cbda5ae4bc34e2f85f640c6da = L.marker(
+                [41.9066727, 12.4893867],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_a67ee5f113f5a3e4562555013fd65a8e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e9f48fe9773d440857c67a116f050986 = $(`<div id="html_e9f48fe9773d440857c67a116f050986" style="width: 100.0%; height: 100.0%;">Numa Barberini<br>38, Via Liguria<br>Via Liguria, Città metropolitana di Roma Capitale<br>Roma, 00187, Italy</div>`)[0];
+                popup_a67ee5f113f5a3e4562555013fd65a8e.setContent(html_e9f48fe9773d440857c67a116f050986);
+            
+        
+
+        marker_922af52cbda5ae4bc34e2f85f640c6da.bindPopup(popup_a67ee5f113f5a3e4562555013fd65a8e)
+        ;
+
+        
+    
+    
+            marker_922af52cbda5ae4bc34e2f85f640c6da.bindTooltip(
+                `<div>
+                     Numa Barberini
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_7c132181f5737dee4e43cc2f4fa8a12a = L.marker(
+                [41.89945470000001, 12.5004023],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_71019aa4f0f629a12a45fba88f5244a0 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f01a36113e13c5674a428f806ca5622d = $(`<div id="html_f01a36113e13c5674a428f806ca5622d" style="width: 100.0%; height: 100.0%;">Numa Linea<br>85, Via Giovanni Amendola<br>nan, Città metropolitana di Roma Capitale<br>Roma, 00185, Italy</div>`)[0];
+                popup_71019aa4f0f629a12a45fba88f5244a0.setContent(html_f01a36113e13c5674a428f806ca5622d);
+            
+        
+
+        marker_7c132181f5737dee4e43cc2f4fa8a12a.bindPopup(popup_71019aa4f0f629a12a45fba88f5244a0)
+        ;
+
+        
+    
+    
+            marker_7c132181f5737dee4e43cc2f4fa8a12a.bindTooltip(
+                `<div>
+                     Numa Linea
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_26eec5586f62715c020b27aded826f24 = L.marker(
+                [41.8885878, 12.4714511],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_998c4327e48c1c2a975f24dceaddb6d9 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f8f261fac84628a86ae40028cc0cbad4 = $(`<div id="html_f8f261fac84628a86ae40028cc0cbad4" style="width: 100.0%; height: 100.0%;">Numa Tullo<br>8, Via della Cisterna<br>Municipio Roma I, Città metropolitana di Roma Capitale<br>Roma, 00153, Italy</div>`)[0];
+                popup_998c4327e48c1c2a975f24dceaddb6d9.setContent(html_f8f261fac84628a86ae40028cc0cbad4);
+            
+        
+
+        marker_26eec5586f62715c020b27aded826f24.bindPopup(popup_998c4327e48c1c2a975f24dceaddb6d9)
+        ;
+
+        
+    
+    
+            marker_26eec5586f62715c020b27aded826f24.bindTooltip(
+                `<div>
+                     Numa Tullo
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_f433c11083750d97231f7ab7105df238 = L.marker(
+                [41.8792933, 12.466873],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_5a007d080090ac67ee2aa79b38e0b4c7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d1a6c9b22944dbc2dd212666fff90a77 = $(`<div id="html_d1a6c9b22944dbc2dd212666fff90a77" style="width: 100.0%; height: 100.0%;">Numa Verso<br>12, Via Ippolito Nievo<br>nan, Città metropolitana di Roma Capitale<br>Roma, 00153, Italy</div>`)[0];
+                popup_5a007d080090ac67ee2aa79b38e0b4c7.setContent(html_d1a6c9b22944dbc2dd212666fff90a77);
+            
+        
+
+        marker_f433c11083750d97231f7ab7105df238.bindPopup(popup_5a007d080090ac67ee2aa79b38e0b4c7)
+        ;
+
+        
+    
+    
+            marker_f433c11083750d97231f7ab7105df238.bindTooltip(
+                `<div>
+                     Numa Verso
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_5258ec8e8b4e440d5342d12a74e1b188 = L.marker(
+                [41.9023341, 12.4742842],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_8b3fd175e26c29b2efba4ad26fe877cc = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2cd78f2d1be0d5a58219653cd21586fd = $(`<div id="html_2cd78f2d1be0d5a58219653cd21586fd" style="width: 100.0%; height: 100.0%;">Numa Portico<br>25, Vicolo del Leonetto<br>Municipio Roma I, Città metropolitana di Roma Capitale<br>Roma, 00186, Italy</div>`)[0];
+                popup_8b3fd175e26c29b2efba4ad26fe877cc.setContent(html_2cd78f2d1be0d5a58219653cd21586fd);
+            
+        
+
+        marker_5258ec8e8b4e440d5342d12a74e1b188.bindPopup(popup_8b3fd175e26c29b2efba4ad26fe877cc)
+        ;
+
+        
+    
+    
+            marker_5258ec8e8b4e440d5342d12a74e1b188.bindTooltip(
+                `<div>
+                     Numa Portico
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_6b26f29c399ae05b9a3bf08ca2a71bf3 = L.marker(
+                [41.89741679999999, 12.4826345],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_346ada78d6c148ae59ab8adc96b3e272 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e7348294fd03e6ce064615674a12e996 = $(`<div id="html_e7348294fd03e6ce064615674a12e996" style="width: 100.0%; height: 100.0%;">Numa Vici<br>11, Via del Mancino<br>Via del Mancino, Città metropolitana di Roma Capitale<br>Roma, 00187, Italy</div>`)[0];
+                popup_346ada78d6c148ae59ab8adc96b3e272.setContent(html_e7348294fd03e6ce064615674a12e996);
+            
+        
+
+        marker_6b26f29c399ae05b9a3bf08ca2a71bf3.bindPopup(popup_346ada78d6c148ae59ab8adc96b3e272)
+        ;
+
+        
+    
+    
+            marker_6b26f29c399ae05b9a3bf08ca2a71bf3.bindTooltip(
+                `<div>
+                     Numa Vici
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_c04507625719c3823332468619f86f04 = L.marker(
+                [45.44376399999999, 12.3299553],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_07d09165040df4db0859be97b0d4c8f5 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_598e6730e3e6cacf379ff17c84d445e1 = $(`<div id="html_598e6730e3e6cacf379ff17c84d445e1" style="width: 100.0%; height: 100.0%;">Numa Forcola<br>2353, Calle Loredan<br>Venezia-Murano-Burano, Città Metropolitana di Venezia<br>Venezia, 30121, Italy</div>`)[0];
+                popup_07d09165040df4db0859be97b0d4c8f5.setContent(html_598e6730e3e6cacf379ff17c84d445e1);
+            
+        
+
+        marker_c04507625719c3823332468619f86f04.bindPopup(popup_07d09165040df4db0859be97b0d4c8f5)
+        ;
+
+        
+    
+    
+            marker_c04507625719c3823332468619f86f04.bindTooltip(
+                `<div>
+                     Numa Forcola
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_656a107975d609fcfaeb74559a44a608 = L.marker(
+                [45.4348643, 12.3362129],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_ecaf2e37b3fbc0c91143701bd031f600 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_96f008970db038f48d1bf30b61b9892a = $(`<div id="html_96f008970db038f48d1bf30b61b9892a" style="width: 100.0%; height: 100.0%;">Numa Palazzo Orseolo<br>1083, San Marco<br>nan, Città Metropolitana di Venezia<br>Venezia, 30124, Italy</div>`)[0];
+                popup_ecaf2e37b3fbc0c91143701bd031f600.setContent(html_96f008970db038f48d1bf30b61b9892a);
+            
+        
+
+        marker_656a107975d609fcfaeb74559a44a608.bindPopup(popup_ecaf2e37b3fbc0c91143701bd031f600)
+        ;
+
+        
+    
+    
+            marker_656a107975d609fcfaeb74559a44a608.bindTooltip(
+                `<div>
+                     Numa Palazzo Orseolo
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_33be13e0f458429ed9d46bcd69ddc9d5 = L.marker(
+                [52.3601716, 4.926650299999999],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_fc2c505a924a67fffca1d0e07998ff19 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_1fdc59f666fc0f7797eda68624ab7ac3 = $(`<div id="html_1fdc59f666fc0f7797eda68624ab7ac3" style="width: 100.0%; height: 100.0%;">Numa Oosterpark<br>30, Wijttenbachstraat<br>Dapperbuurt, Amsterdam<br>Amsterdam, 1093 JK, Netherlands</div>`)[0];
+                popup_fc2c505a924a67fffca1d0e07998ff19.setContent(html_1fdc59f666fc0f7797eda68624ab7ac3);
+            
+        
+
+        marker_33be13e0f458429ed9d46bcd69ddc9d5.bindPopup(popup_fc2c505a924a67fffca1d0e07998ff19)
+        ;
+
+        
+    
+    
+            marker_33be13e0f458429ed9d46bcd69ddc9d5.bindTooltip(
+                `<div>
+                     Numa Oosterpark
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_eccc97338b193f4aa69754f9c3535bb0 = L.marker(
+                [52.3684656, 4.9234104],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_e87ccf8bbc9b89e86a13aec2cb58b27f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2c84bf2880ac45bd02c9606ecdd6be88 = $(`<div id="html_2c84bf2880ac45bd02c9606ecdd6be88" style="width: 100.0%; height: 100.0%;">Numa YAYS Amsterdam Maritime by Numa<br>73, Oostenburgergracht<br>Oostenburg, Amsterdam<br>Amsterdam, 1018 NC, Netherlands</div>`)[0];
+                popup_e87ccf8bbc9b89e86a13aec2cb58b27f.setContent(html_2c84bf2880ac45bd02c9606ecdd6be88);
+            
+        
+
+        marker_eccc97338b193f4aa69754f9c3535bb0.bindPopup(popup_e87ccf8bbc9b89e86a13aec2cb58b27f)
+        ;
+
+        
+    
+    
+            marker_eccc97338b193f4aa69754f9c3535bb0.bindTooltip(
+                `<div>
+                     Numa YAYS Amsterdam Maritime by Numa
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_f207923b7414b1fac696aec60a198c44 = L.marker(
+                [52.3959882, 4.904535399999999],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_40724c27c8cf38f630976f352215ed4a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2677269d6759dd0dfd67774800df3e04 = $(`<div id="html_2677269d6759dd0dfd67774800df3e04" style="width: 100.0%; height: 100.0%;">Numa YAYS Amsterdam North by Numa<br>175, Ridderspoorweg<br>Noord, Amsterdam<br>Amsterdam, 1032 KJ, Netherlands</div>`)[0];
+                popup_40724c27c8cf38f630976f352215ed4a.setContent(html_2677269d6759dd0dfd67774800df3e04);
+            
+        
+
+        marker_f207923b7414b1fac696aec60a198c44.bindPopup(popup_40724c27c8cf38f630976f352215ed4a)
+        ;
+
+        
+    
+    
+            marker_f207923b7414b1fac696aec60a198c44.bindTooltip(
+                `<div>
+                     Numa YAYS Amsterdam North by Numa
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_50eb00cca846e92435ce5e2c0de52981 = L.marker(
+                [52.362077, 4.875522999999999],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_ae0470cbcc9403c3826f384668f307ac = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_cb21ea794d7f9db1bda73c589f488e1f = $(`<div id="html_cb21ea794d7f9db1bda73c589f488e1f" style="width: 100.0%; height: 100.0%;">Numa YAYS Amsterdam Vondelpark by Numa<br>118, Eerste Constantijn Huygensstraat<br>Helmersbuurt, Amsterdam<br>Amsterdam, 1054 BZ, Netherlands</div>`)[0];
+                popup_ae0470cbcc9403c3826f384668f307ac.setContent(html_cb21ea794d7f9db1bda73c589f488e1f);
+            
+        
+
+        marker_50eb00cca846e92435ce5e2c0de52981.bindPopup(popup_ae0470cbcc9403c3826f384668f307ac)
+        ;
+
+        
+    
+    
+            marker_50eb00cca846e92435ce5e2c0de52981.bindTooltip(
+                `<div>
+                     Numa YAYS Amsterdam Vondelpark by Numa
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_5d9cd3b06e75871bea1ef47f75935dc6 = L.marker(
+                [52.3886664, 4.888515],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_9fa507fe8adf707e08107533c407cfa6 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_316cb5d0bdd4117649779558640d42e0 = $(`<div id="html_316cb5d0bdd4117649779558640d42e0" style="width: 100.0%; height: 100.0%;">Numa YAYS Amsterdam Salthouse Canal by Numa<br>116, Zoutkeetsgracht<br>nan, Amsterdam<br>Amsterdam, 1013 LC, Netherlands</div>`)[0];
+                popup_9fa507fe8adf707e08107533c407cfa6.setContent(html_316cb5d0bdd4117649779558640d42e0);
+            
+        
+
+        marker_5d9cd3b06e75871bea1ef47f75935dc6.bindPopup(popup_9fa507fe8adf707e08107533c407cfa6)
+        ;
+
+        
+    
+    
+            marker_5d9cd3b06e75871bea1ef47f75935dc6.bindTooltip(
+                `<div>
+                     Numa YAYS Amsterdam Salthouse Canal by Numa
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_ccf99fdf653cc2765829f5ea07ee2769 = L.marker(
+                [52.366977, 4.9329499],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_08d49ae1dd635e70ce2d6dd2d4c187e3 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_76ac3ae3ecd35dad76677c32cb38423d = $(`<div id="html_76ac3ae3ecd35dad76677c32cb38423d" style="width: 100.0%; height: 100.0%;">Numa YAYS Amsterdam East by Numa<br>28-29, Zeeburgerpad<br>Centrum, Amsterdam<br>Amsterdam, 1019 AA, Netherlands</div>`)[0];
+                popup_08d49ae1dd635e70ce2d6dd2d4c187e3.setContent(html_76ac3ae3ecd35dad76677c32cb38423d);
+            
+        
+
+        marker_ccf99fdf653cc2765829f5ea07ee2769.bindPopup(popup_08d49ae1dd635e70ce2d6dd2d4c187e3)
+        ;
+
+        
+    
+    
+            marker_ccf99fdf653cc2765829f5ea07ee2769.bindTooltip(
+                `<div>
+                     Numa YAYS Amsterdam East by Numa
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_ba26900a2a2485c2d31158aed8b3e20c = L.marker(
+                [52.3688442, 4.9463551],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_1239729d7408f5e5bb3b0c7ba5b10af4 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3cf113c3e48cbcd114aeeef1406ad293 = $(`<div id="html_3cf113c3e48cbcd114aeeef1406ad293" style="width: 100.0%; height: 100.0%;">Numa Docklands<br>65, Cruquiusweg<br>Oostelijk Havengebied, Amsterdam<br>Amsterdam, 1019 AT, Netherlands</div>`)[0];
+                popup_1239729d7408f5e5bb3b0c7ba5b10af4.setContent(html_3cf113c3e48cbcd114aeeef1406ad293);
+            
+        
+
+        marker_ba26900a2a2485c2d31158aed8b3e20c.bindPopup(popup_1239729d7408f5e5bb3b0c7ba5b10af4)
+        ;
+
+        
+    
+    
+            marker_ba26900a2a2485c2d31158aed8b3e20c.bindTooltip(
+                `<div>
+                     Numa Docklands
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_f30f15dc9a10c721c70c1eedf04531c8 = L.marker(
+                [52.3840481, 4.8883632],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_ce066c5318ae0c30d45aee57a713e0f9 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ab25bb2deee5a488ca82857976da7413 = $(`<div id="html_ab25bb2deee5a488ca82857976da7413" style="width: 100.0%; height: 100.0%;">Numa YAYS Amsterdam Prince Island by Numa<br>1, Bickersgracht<br>nan, Amsterdam<br>Amsterdam, 1013 LE, Netherlands</div>`)[0];
+                popup_ce066c5318ae0c30d45aee57a713e0f9.setContent(html_ab25bb2deee5a488ca82857976da7413);
+            
+        
+
+        marker_f30f15dc9a10c721c70c1eedf04531c8.bindPopup(popup_ce066c5318ae0c30d45aee57a713e0f9)
+        ;
+
+        
+    
+    
+            marker_f30f15dc9a10c721c70c1eedf04531c8.bindTooltip(
+                `<div>
+                     Numa YAYS Amsterdam Prince Island by Numa
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_dd7a9c5427bf31ee4ac1a54f1806c2a9 = L.marker(
+                [52.0879626, 4.3131198],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_02efbe4f1757ceab01a18d73da6cae0c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6c3879180a3ef0f8a0abcd700abbcc85 = $(`<div id="html_6c3879180a3ef0f8a0abcd700abbcc85" style="width: 100.0%; height: 100.0%;">Numa YAYS The Hague Willemspark by Numa<br>20, Koninginnegracht<br>nan, Den Haag<br>Den Haag, 2514 AB, Netherlands</div>`)[0];
+                popup_02efbe4f1757ceab01a18d73da6cae0c.setContent(html_6c3879180a3ef0f8a0abcd700abbcc85);
+            
+        
+
+        marker_dd7a9c5427bf31ee4ac1a54f1806c2a9.bindPopup(popup_02efbe4f1757ceab01a18d73da6cae0c)
+        ;
+
+        
+    
+    
+            marker_dd7a9c5427bf31ee4ac1a54f1806c2a9.bindTooltip(
+                `<div>
+                     Numa YAYS The Hague Willemspark by Numa
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_70770b8eaced0798f8979ba81127f70b = L.marker(
+                [59.91774889999999, 10.7184542],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_6474f71c89dd1340e6a59e03b1a6e185 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_38887cc0bf4264efe78ac21cdb3d0e1a = $(`<div id="html_38887cc0bf4264efe78ac21cdb3d0e1a" style="width: 100.0%; height: 100.0%;">Numa Topp<br>15, Skovveien<br>Uranienborg, Oslo kommune<br>Oslo, 0257, Norway</div>`)[0];
+                popup_6474f71c89dd1340e6a59e03b1a6e185.setContent(html_38887cc0bf4264efe78ac21cdb3d0e1a);
+            
+        
+
+        marker_70770b8eaced0798f8979ba81127f70b.bindPopup(popup_6474f71c89dd1340e6a59e03b1a6e185)
+        ;
+
+        
+    
+    
+            marker_70770b8eaced0798f8979ba81127f70b.bindTooltip(
+                `<div>
+                     Numa Topp
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_0b07f211e4cf73718b96f8c2ffe0b74e = L.marker(
+                [59.91019619999999, 10.7454758],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_69adf8545e8ea019d041d19fa153c35c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_46da331dd4cb8374d4428423399cc91c = $(`<div id="html_46da331dd4cb8374d4428423399cc91c" style="width: 100.0%; height: 100.0%;">Numa Hallen<br>13, Tollbugata<br>Kvadraturen, Oslo kommune<br>Oslo, 0152, Norway</div>`)[0];
+                popup_69adf8545e8ea019d041d19fa153c35c.setContent(html_46da331dd4cb8374d4428423399cc91c);
+            
+        
+
+        marker_0b07f211e4cf73718b96f8c2ffe0b74e.bindPopup(popup_69adf8545e8ea019d041d19fa153c35c)
+        ;
+
+        
+    
+    
+            marker_0b07f211e4cf73718b96f8c2ffe0b74e.bindTooltip(
+                `<div>
+                     Numa Hallen
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_240a6797b8a7c2149dff194be5d4fc2b = L.marker(
+                [38.7271025, -9.1366268],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_c35f8e4d305763ae78889892fbedffd6 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f787733bcca92dcf70f6b8632b8db5e4 = $(`<div id="html_f787733bcca92dcf70f6b8632b8db5e4" style="width: 100.0%; height: 100.0%;">Numa Anjos<br>2, Rua Passos Manuel<br>Anjos, Lisboa<br>Lisboa, 1150-260, Portugal</div>`)[0];
+                popup_c35f8e4d305763ae78889892fbedffd6.setContent(html_f787733bcca92dcf70f6b8632b8db5e4);
+            
+        
+
+        marker_240a6797b8a7c2149dff194be5d4fc2b.bindPopup(popup_c35f8e4d305763ae78889892fbedffd6)
+        ;
+
+        
+    
+    
+            marker_240a6797b8a7c2149dff194be5d4fc2b.bindTooltip(
+                `<div>
+                     Numa Anjos
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_37679b6ebfda16c1602c480c3215c562 = L.marker(
+                [38.721987, -9.1512531],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_a4a4d52caa27e721ef9b70c97382b792 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_865b88ccbd111ed418ecd3fda290e11c = $(`<div id="html_865b88ccbd111ed418ecd3fda290e11c" style="width: 100.0%; height: 100.0%;">Numa Rato<br>46, Rua Alexandre Herculano<br>Santo António, Lisboa<br>Lisboa, 1250-048, Portugal</div>`)[0];
+                popup_a4a4d52caa27e721ef9b70c97382b792.setContent(html_865b88ccbd111ed418ecd3fda290e11c);
+            
+        
+
+        marker_37679b6ebfda16c1602c480c3215c562.bindPopup(popup_a4a4d52caa27e721ef9b70c97382b792)
+        ;
+
+        
+    
+    
+            marker_37679b6ebfda16c1602c480c3215c562.bindTooltip(
+                `<div>
+                     Numa Rato
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_f9ec5cb06b1362cc383b1b8d69a54b61 = L.marker(
+                [41.3983233, 2.1575048],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_0b2228a60712721d52963d7b247a3ffb = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_cb2c94e071a4b17a3758152035715170 = $(`<div id="html_cb2c94e071a4b17a3758152035715170" style="width: 100.0%; height: 100.0%;">Numa Brio<br>14, Carrer Gran de Gràcia<br>nan, Barcelona<br>Barcelona, 08012, Spain</div>`)[0];
+                popup_0b2228a60712721d52963d7b247a3ffb.setContent(html_cb2c94e071a4b17a3758152035715170);
+            
+        
+
+        marker_f9ec5cb06b1362cc383b1b8d69a54b61.bindPopup(popup_0b2228a60712721d52963d7b247a3ffb)
+        ;
+
+        
+    
+    
+            marker_f9ec5cb06b1362cc383b1b8d69a54b61.bindTooltip(
+                `<div>
+                     Numa Brio
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_a0e636ae6681d86b6e460d0a5d37485c = L.marker(
+                [41.3951705, 2.1702878],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_9db7288c6305aa2d8c3169eb78c0795a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_bacf83799446e91ab6972a7186314460 = $(`<div id="html_bacf83799446e91ab6972a7186314460" style="width: 100.0%; height: 100.0%;">Numa Roca<br>81, Carrer de Girona<br>nan, Barcelona<br>Barcelona, 08009, Spain</div>`)[0];
+                popup_9db7288c6305aa2d8c3169eb78c0795a.setContent(html_bacf83799446e91ab6972a7186314460);
+            
+        
+
+        marker_a0e636ae6681d86b6e460d0a5d37485c.bindPopup(popup_9db7288c6305aa2d8c3169eb78c0795a)
+        ;
+
+        
+    
+    
+            marker_a0e636ae6681d86b6e460d0a5d37485c.bindTooltip(
+                `<div>
+                     Numa Roca
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_c5fc0befb66e71968030e32fd1024a25 = L.marker(
+                [41.3852038, 2.1827349],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_9e24636afbf413b0009f5f77f724fbec = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_bc8d0c52ad31941fb71e2723a5be9329 = $(`<div id="html_bc8d0c52ad31941fb71e2723a5be9329" style="width: 100.0%; height: 100.0%;">Numa Seda<br>34, Carrer del Rec<br>la Ribera, Barcelona<br>Barcelona, 08003, Spain</div>`)[0];
+                popup_9e24636afbf413b0009f5f77f724fbec.setContent(html_bc8d0c52ad31941fb71e2723a5be9329);
+            
+        
+
+        marker_c5fc0befb66e71968030e32fd1024a25.bindPopup(popup_9e24636afbf413b0009f5f77f724fbec)
+        ;
+
+        
+    
+    
+            marker_c5fc0befb66e71968030e32fd1024a25.bindTooltip(
+                `<div>
+                     Numa Seda
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_44f322341c08d6f6b6b7f8f3c45158d9 = L.marker(
+                [41.38692890000001, 2.1804695],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_6e9c3d18b33ccb931da2cd41d41cac74 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ecc3f89ca461bcfdae8a5295c9789b4a = $(`<div id="html_ecc3f89ca461bcfdae8a5295c9789b4a" style="width: 100.0%; height: 100.0%;">Numa Lustre<br>34, Carrer dels Carders<br>Santa Caterina, Barcelona<br>Barcelona, 08003, Spain</div>`)[0];
+                popup_6e9c3d18b33ccb931da2cd41d41cac74.setContent(html_ecc3f89ca461bcfdae8a5295c9789b4a);
+            
+        
+
+        marker_44f322341c08d6f6b6b7f8f3c45158d9.bindPopup(popup_6e9c3d18b33ccb931da2cd41d41cac74)
+        ;
+
+        
+    
+    
+            marker_44f322341c08d6f6b6b7f8f3c45158d9.bindTooltip(
+                `<div>
+                     Numa Lustre
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_4a234bc55890535b616e5cd33f29b43e = L.marker(
+                [41.4057256, 2.1486656],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_608791208577dda9a07f3bc65671e6a8 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ac10e4bf84004ec5860452cc4e1a8455 = $(`<div id="html_ac10e4bf84004ec5860452cc4e1a8455" style="width: 100.0%; height: 100.0%;">Numa Colmena<br>238, Ronda del General Mitre<br>nan, Barcelona<br>Barcelona, 08006, Spain</div>`)[0];
+                popup_608791208577dda9a07f3bc65671e6a8.setContent(html_ac10e4bf84004ec5860452cc4e1a8455);
+            
+        
+
+        marker_4a234bc55890535b616e5cd33f29b43e.bindPopup(popup_608791208577dda9a07f3bc65671e6a8)
+        ;
+
+        
+    
+    
+            marker_4a234bc55890535b616e5cd33f29b43e.bindTooltip(
+                `<div>
+                     Numa Colmena
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_57f253b14c9e7db6d714e5ee69338e68 = L.marker(
+                [41.37698, 2.1538075],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_bbcac5e3acdd1b30dcf14b666a21a297 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_847b4cc71b6783f2731e2b17ab85fa66 = $(`<div id="html_847b4cc71b6783f2731e2b17ab85fa66" style="width: 100.0%; height: 100.0%;">Numa Caja<br>33, Carrer d'Entença<br>Eixample, Barcelona<br>Barcelona, 08015, Spain</div>`)[0];
+                popup_bbcac5e3acdd1b30dcf14b666a21a297.setContent(html_847b4cc71b6783f2731e2b17ab85fa66);
+            
+        
+
+        marker_57f253b14c9e7db6d714e5ee69338e68.bindPopup(popup_bbcac5e3acdd1b30dcf14b666a21a297)
+        ;
+
+        
+    
+    
+            marker_57f253b14c9e7db6d714e5ee69338e68.bindTooltip(
+                `<div>
+                     Numa Caja
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_68cd073cdab9868c244e7572b8e07938 = L.marker(
+                [37.1803654, -3.6002943],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_c2c1b82bcab1160975fd8da94f0a5b20 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_34d0b22c4627cd2ff3b6b7c4c8c77ca1 = $(`<div id="html_34d0b22c4627cd2ff3b6b7c4c8c77ca1" style="width: 100.0%; height: 100.0%;">Numa Vega<br>43, Calle Gran Vía de Colón<br>nan, Granada<br>Granada, 18001, Spain</div>`)[0];
+                popup_c2c1b82bcab1160975fd8da94f0a5b20.setContent(html_34d0b22c4627cd2ff3b6b7c4c8c77ca1);
+            
+        
+
+        marker_68cd073cdab9868c244e7572b8e07938.bindPopup(popup_c2c1b82bcab1160975fd8da94f0a5b20)
+        ;
+
+        
+    
+    
+            marker_68cd073cdab9868c244e7572b8e07938.bindTooltip(
+                `<div>
+                     Numa Vega
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_cf4cccc0fa220901d06b8a374c9d1ffd = L.marker(
+                [40.4159034, -3.6955958],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_46618f1d13f2e15aca8f2795fc0355fc = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8b2279e3e9461229c3afb0a34b9f0b91 = $(`<div id="html_8b2279e3e9461229c3afb0a34b9f0b91" style="width: 100.0%; height: 100.0%;">Numa Script<br>4, Plaza de las Cortes<br>Plaza de las Cortes, Madrid<br>Madrid, 28014, Spain</div>`)[0];
+                popup_46618f1d13f2e15aca8f2795fc0355fc.setContent(html_8b2279e3e9461229c3afb0a34b9f0b91);
+            
+        
+
+        marker_cf4cccc0fa220901d06b8a374c9d1ffd.bindPopup(popup_46618f1d13f2e15aca8f2795fc0355fc)
+        ;
+
+        
+    
+    
+            marker_cf4cccc0fa220901d06b8a374c9d1ffd.bindTooltip(
+                `<div>
+                     Numa Script
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_d94f421ce0f5e33b14c4f94369f27121 = L.marker(
+                [40.4283115, -3.6721942],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_855e62d32d855f3f914b61a9e1471ea8 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_445479db7392d35b074a000952c27ca2 = $(`<div id="html_445479db7392d35b074a000952c27ca2" style="width: 100.0%; height: 100.0%;">Numa Goya<br>20, Calle de Montesa<br>Salamanca, Madrid<br>Madrid, 28006, Spain</div>`)[0];
+                popup_855e62d32d855f3f914b61a9e1471ea8.setContent(html_445479db7392d35b074a000952c27ca2);
+            
+        
+
+        marker_d94f421ce0f5e33b14c4f94369f27121.bindPopup(popup_855e62d32d855f3f914b61a9e1471ea8)
+        ;
+
+        
+    
+    
+            marker_d94f421ce0f5e33b14c4f94369f27121.bindTooltip(
+                `<div>
+                     Numa Goya
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_594b94ed29559f9dca246be6b45d620b = L.marker(
+                [40.4261211, -3.7024497],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_69f4275a9ef7a267fcb0eeb6b914491c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8dbdac36a188c9cfe794e4a997feef17 = $(`<div id="html_8dbdac36a188c9cfe794e4a997feef17" style="width: 100.0%; height: 100.0%;">Numa Luna<br>11, Calle de la Palma<br>Calle de la Palma, Madrid<br>Madrid, 28004, Spain</div>`)[0];
+                popup_69f4275a9ef7a267fcb0eeb6b914491c.setContent(html_8dbdac36a188c9cfe794e4a997feef17);
+            
+        
+
+        marker_594b94ed29559f9dca246be6b45d620b.bindPopup(popup_69f4275a9ef7a267fcb0eeb6b914491c)
+        ;
+
+        
+    
+    
+            marker_594b94ed29559f9dca246be6b45d620b.bindTooltip(
+                `<div>
+                     Numa Luna
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_5c793ba07451bed8edc2843e0c0be2b9 = L.marker(
+                [40.4176749, -3.7029993],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_eb56ffe3e5ad69f9d48bf894f464dba2 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_80272fdbc9857fa1c59502da55ea0b70 = $(`<div id="html_80272fdbc9857fa1c59502da55ea0b70" style="width: 100.0%; height: 100.0%;">Numa Sol<br>9, Calle de la Montera<br>Barrio de los Austrias, Madrid<br>Madrid, 28013, Spain</div>`)[0];
+                popup_eb56ffe3e5ad69f9d48bf894f464dba2.setContent(html_80272fdbc9857fa1c59502da55ea0b70);
+            
+        
+
+        marker_5c793ba07451bed8edc2843e0c0be2b9.bindPopup(popup_eb56ffe3e5ad69f9d48bf894f464dba2)
+        ;
+
+        
+    
+    
+            marker_5c793ba07451bed8edc2843e0c0be2b9.bindTooltip(
+                `<div>
+                     Numa Sol
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_1224d9a5bbd56ad2d17dcc75ea9bf67c = L.marker(
+                [37.3877746, -5.993112399999999],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_6e4985604a331d4acf84cf9eb417c257 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b69611ef1e3c70a90b27275a3c703b3c = $(`<div id="html_b69611ef1e3c70a90b27275a3c703b3c" style="width: 100.0%; height: 100.0%;">Numa Alegre<br>31, Calle Álvarez Quintero<br>Santa Cruz, Sevilla<br>Sevilla, 41004, Spain</div>`)[0];
+                popup_6e4985604a331d4acf84cf9eb417c257.setContent(html_b69611ef1e3c70a90b27275a3c703b3c);
+            
+        
+
+        marker_1224d9a5bbd56ad2d17dcc75ea9bf67c.bindPopup(popup_6e4985604a331d4acf84cf9eb417c257)
+        ;
+
+        
+    
+    
+            marker_1224d9a5bbd56ad2d17dcc75ea9bf67c.bindTooltip(
+                `<div>
+                     Numa Alegre
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_3198a52edf760b4fb4852584aa3e55c5 = L.marker(
+                [37.3927945, -5.998685699999999],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_895b48a06331ca0e4fb9dce22f027544 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_5e4b0fd0ea639f12325d0c06732dd62e = $(`<div id="html_5e4b0fd0ea639f12325d0c06732dd62e" style="width: 100.0%; height: 100.0%;">Numa Solea<br>27, Calle Alfonso XII<br>Museo, Sevilla<br>Sevilla, 41001, Spain</div>`)[0];
+                popup_895b48a06331ca0e4fb9dce22f027544.setContent(html_5e4b0fd0ea639f12325d0c06732dd62e);
+            
+        
+
+        marker_3198a52edf760b4fb4852584aa3e55c5.bindPopup(popup_895b48a06331ca0e4fb9dce22f027544)
+        ;
+
+        
+    
+    
+            marker_3198a52edf760b4fb4852584aa3e55c5.bindTooltip(
+                `<div>
+                     Numa Solea
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_2ec8f64cccb03ad644dcac90224bc001 = L.marker(
+                [40.4387246, -3.7128678],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_892aadb92a327733813ab0681044a1f5 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_29aab32fe256a650171ae2f28fa4c0eb = $(`<div id="html_29aab32fe256a650171ae2f28fa4c0eb" style="width: 100.0%; height: 100.0%;">Numa Jondo<br>nan, Calle de Guzmán el Bueno<br>nan, Madrid<br>Madrid, nan, Spain</div>`)[0];
+                popup_892aadb92a327733813ab0681044a1f5.setContent(html_29aab32fe256a650171ae2f28fa4c0eb);
+            
+        
+
+        marker_2ec8f64cccb03ad644dcac90224bc001.bindPopup(popup_892aadb92a327733813ab0681044a1f5)
+        ;
+
+        
+    
+    
+            marker_2ec8f64cccb03ad644dcac90224bc001.bindTooltip(
+                `<div>
+                     Numa Jondo
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_6e2e8eb469fff7db3ec638843d180866 = L.marker(
+                [37.3890924, -5.9844589],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_e437b2fb6642d060dd0f11bf3578faec = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_61ce150ad8d89e1799619ec707cf5e0a = $(`<div id="html_61ce150ad8d89e1799619ec707cf5e0a" style="width: 100.0%; height: 100.0%;">Numa Molina<br>nan, nan<br>nan, Seville<br>Seville, nan, Spain</div>`)[0];
+                popup_e437b2fb6642d060dd0f11bf3578faec.setContent(html_61ce150ad8d89e1799619ec707cf5e0a);
+            
+        
+
+        marker_6e2e8eb469fff7db3ec638843d180866.bindPopup(popup_e437b2fb6642d060dd0f11bf3578faec)
+        ;
+
+        
+    
+    
+            marker_6e2e8eb469fff7db3ec638843d180866.bindTooltip(
+                `<div>
+                     Numa Molina
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_a292ba1343fe940f7e7315848bebbc3c = L.marker(
+                [36.8950626, -3.1146888],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_e00c22181c6e13b0f38ffab977ce8818 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_610285e54c1582b59b403822efdd58b6 = $(`<div id="html_610285e54c1582b59b403822efdd58b6" style="width: 100.0%; height: 100.0%;">Numa Prestigio<br>41, Calle San Fernando<br>Casco Antiguo, Granada<br>Ugíjar, 18492, Spain</div>`)[0];
+                popup_e00c22181c6e13b0f38ffab977ce8818.setContent(html_610285e54c1582b59b403822efdd58b6);
+            
+        
+
+        marker_a292ba1343fe940f7e7315848bebbc3c.bindPopup(popup_e00c22181c6e13b0f38ffab977ce8818)
+        ;
+
+        
+    
+    
+            marker_a292ba1343fe940f7e7315848bebbc3c.bindTooltip(
+                `<div>
+                     Numa Prestigio
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_03a34b7bc4ff2ca97a9fe7b1baa1f122 = L.marker(
+                [47.380485, 8.525770099999999],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_4e68941f832356279323b435fca51fd3 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f4d9fdb00df054e10122496dc5d54436 = $(`<div id="html_f4d9fdb00df054e10122496dc5d54436" style="width: 100.0%; height: 100.0%;">Numa Turi<br>31, Schöneggstrasse<br>Schöneggstrasse, Zürich<br>Zürich, 8004, Switzerland</div>`)[0];
+                popup_4e68941f832356279323b435fca51fd3.setContent(html_f4d9fdb00df054e10122496dc5d54436);
+            
+        
+
+        marker_03a34b7bc4ff2ca97a9fe7b1baa1f122.bindPopup(popup_4e68941f832356279323b435fca51fd3)
+        ;
+
+        
+    
+    
+            marker_03a34b7bc4ff2ca97a9fe7b1baa1f122.bindTooltip(
+                `<div>
+                     Numa Turi
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_9f7e3d6a966dd9864197f3aa841c3a37 = L.marker(
+                [47.37405709999999, 8.529869399999999],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_47c3005f08aba427caa9a967179ded2f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_57310283d0f247ef9d70e03411defbf4 = $(`<div id="html_57310283d0f247ef9d70e03411defbf4" style="width: 100.0%; height: 100.0%;">Numa Craft<br>9, Bäckerstrasse<br>Langstrasse, Zürich<br>Zürich, 8004, Switzerland</div>`)[0];
+                popup_47c3005f08aba427caa9a967179ded2f.setContent(html_57310283d0f247ef9d70e03411defbf4);
+            
+        
+
+        marker_9f7e3d6a966dd9864197f3aa841c3a37.bindPopup(popup_47c3005f08aba427caa9a967179ded2f)
+        ;
+
+        
+    
+    
+            marker_9f7e3d6a966dd9864197f3aa841c3a37.bindTooltip(
+                `<div>
+                     Numa Craft
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_3c5527c1cdde77f5c7fbe6f02e3c23f4 = L.marker(
+                [51.5187722, -0.1320477],
+                {
+}
+            ).addTo(map_73fc339a61b060cf57d142e0162c362e);
+        
+    
+        var popup_ddf61b560809400981f7a431b9f322db = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_60c289e3ce546cc4c4f9d725f7728784 = $(`<div id="html_60c289e3ce546cc4c4f9d725f7728784" style="width: 100.0%; height: 100.0%;">Numa Bloomsbury<br>11, Bayley Street<br>Bayley Street, Greater London<br>Bloomsbury, WC1B 3HD, United Kingdom</div>`)[0];
+                popup_ddf61b560809400981f7a431b9f322db.setContent(html_60c289e3ce546cc4c4f9d725f7728784);
+            
+        
+
+        marker_3c5527c1cdde77f5c7fbe6f02e3c23f4.bindPopup(popup_ddf61b560809400981f7a431b9f322db)
+        ;
+
+        
+    
+    
+            marker_3c5527c1cdde77f5c7fbe6f02e3c23f4.bindTooltip(
+                `<div>
+                     Numa Bloomsbury
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+</script>
+</html>
