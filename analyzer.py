@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from hotel_risk_analyzer import HotelRiskAnalyzer  # Assuming your updated class is in hotel_risk_analyzer.py
 
 # Load data and initialize analyzer
-DATA_PATH = 'combined_reviews_all.csv'
+DATA_PATH = '../booking-reviews-scraper/data/combined_reviews_all.csv'
 #extract Month
 analyzer = HotelRiskAnalyzer(DATA_PATH)
 
