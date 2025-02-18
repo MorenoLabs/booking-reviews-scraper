@@ -1,0 +1,1686 @@
+stay_type,room_type,combined_name,risk_score,avg_rating,review_count
+Couple,1 Bedroom Apartment,Numa Docklands - yays-amsterdam-docklands,0.4714285714285714,8.928571428571429,14
+Couple,1 Bedroom Apartment,Numa Fiore - le-fiorentine-boutique-apartments,0.08000000000000002,9.2,10
+Couple,1 Bedroom Apartment,Numa Sol - numa-madrid-sol-apartments,0.05714285714285714,9.428571428571429,7
+Couple,1 Bedroom Apartment,Numa Strauss - sunrise-apartments,0.9963636363636362,8.727272727272727,11
+Couple,1 Bedroom Apartment,Numa Topp - frogner-house-apartments-skovveien-15,0.1507456937002392,9.25,12
+Couple,1 Bedroom Apartment,Numa YAYS Paris Issy by Numa - yays-paris-issy,0.2,9.0,5
+Couple,1 Bedroom Apartment,Numa YAYS Paris Zola by Numa - eiffel-village-apartments-paris-centre,0.30948744830037755,7.5,2
+Couple,1 Bedroom Apartment - Duplex,Numa YAYS Paris Issy by Numa - yays-paris-issy,0.3,9.0,4
+Couple,1 Bedroom Apartment with Balcony and Sofa Bed,Numa Leo - numa-i-leo-apartments,,9.0,1
+Couple,1 Bedroom Apartment with Balcony and Sofa Bed,Numa Loreto - loreto-rooms-amp-apartments,0.17222222222222225,9.11111111111111,9
+Couple,1 Bedroom Apartment with Balcony and Sofa Bed,Numa Topp - frogner-house-apartments-skovveien-15,0.46666666666666673,8.666666666666666,3
+Couple,1 Bedroom Apartment with Balcony and Sofa Bed,Numa Torstraße - alte-schonhauser-str-2-10119-berlin,0.08566168943159772,8.4,5
+Couple,1 Bedroom Apartment with Balcony and Sofa bed,Numa Sempione - numa-milan-sempione,3.255091404170161,7.75,4
+Couple,1 Bedroom Apartment with Sofa Bed,Numa Arc - numa-i-arc-rooms-amp-apartments,0.1,9.5,2
+Couple,1 Bedroom Apartment with Sofa Bed,Numa Docklands - yays-amsterdam-docklands,,10.0,1
+Couple,1 Bedroom Apartment with Sofa Bed,Numa Felice - numa-i-felice-rooms-amp-apartments,0.5521428571428572,9.0,6
+Couple,1 Bedroom Apartment with Sofa Bed,Numa Fiore - le-fiorentine-boutique-apartments,0.09454545454545457,9.454545454545455,11
+Couple,1 Bedroom Apartment with Sofa Bed,Numa Kater - berlin-eastside-apartments,,9.0,1
+Couple,1 Bedroom Apartment with Sofa Bed,Numa Saga - numa-l-saga-apartments,0.30000000000000004,9.333333333333334,3
+Couple,1 Bedroom Apartment with Sofa Bed,Numa Topp - frogner-house-apartments-skovveien-15,0.0,10.0,2
+Couple,1 Bedroom Apartment with Sofa Bed,Numa Vici - dolce-vita-residence,0.7279452395845827,8.142857142857142,7
+Couple,1 Bedroom Apartment with Sofa Bed - Duplex,Numa Palazzo Belfiore - palazzo-belfiore,0.45,8.75,4
+Couple,1 Bedroom Apartment with Sofa Bed - Duplex,Numa Vici - dolce-vita-residence,,3.0,1
+Couple,1 Bedroom Apartment with Sofa Bed - No Kitchen,Numa Felice - numa-i-felice-rooms-amp-apartments,0.0,10.0,2
+Couple,1 Bedroom Apartment with Sofa Bed - no AC,Numa Terra - numa-i-terra-apartments,0.13333333333333333,9.0,4
+Couple,1 Bedroom Apartment with Sofa Bed and AC,Numa Terra - numa-i-terra-apartments,,10.0,1
+Couple,1 Bedroom Apartment with Sofa Bed and Terrace,Numa Nook - frederics-serviced-apartment,,9.0,1
+Couple,1 Bedroom Apartment with Sofa Bed for 4 Guests,Numa Docklands - yays-amsterdam-docklands,,10.0,1
+Couple,1 Bedroom Apartment with Sofa bed,Numa Sempione - numa-milan-sempione,1.4656616894315977,8.4,5
+Couple,1 Bedroom Apartment with Terrace - no AC,Numa Terra - numa-i-terra-apartments,0.7772814311664844,8.771428571428572,35
+Couple,1 Bedroom Apartment with Terrace and AC,Numa Terra - numa-i-terra-apartments,,8.0,1
+Couple,1 Bedroom Apartment with Two Sofa Beds - Duplex,Numa Fiore - le-fiorentine-boutique-apartments,,10.0,1
+Couple,2 Bedroom Apartment,Numa Sol - numa-madrid-sol-apartments,0.15000000000000002,9.5,2
+Couple,2 Bedroom Apartment with Balcony and Sofa Bed,Numa Nora - townhouse-nora-salzburg,,8.0,1
+Couple,2 Bedroom Apartment with Sofa Bed,Numa Sempione - numa-milan-sempione,0.1,9.5,2
+Couple,2 Bedroom Apartment with Sofa Bed,Numa Vita - m7-contemporary-apartments-my-extra-home,0.15000000000000002,9.5,2
+Couple,3 Bedroom Apartment with Sofa Bed - Duplex,Numa Palazzo Belfiore - palazzo-belfiore,,9.0,1
+Couple,Apartment,Numa Alegre - alvarez-quintero-apartment,0.15000000000000002,9.5,2
+Couple,Apartment,Numa Verso - numa-i-verso-apartments,0.09603679653679656,9.7,10
+Couple,Apartment,Numa YAYS Amsterdam Maritime by Numa - yays-amsterdam-maritime,,9.0,1
+Couple,Apartment - Disability Access,Numa YAYS Antwerp Opera by Numa - yays-antwerp-opera,0.16,9.4,5
+Couple,Apartment - Split Level,Numa Jondo - sevilla-luxury-rentals-horno-santa-cruz,0.1,9.666666666666666,9
+Couple,Apartment with Balcony,Numa Jondo - sevilla-luxury-rentals-horno-santa-cruz,0.15000000000000002,9.5,2
+Couple,Apartment with Terrace,Numa Vega - urban-vida-granada-i,1.5201172359340196,8.125,8
+Couple,Business-Friendly Suite,Numa Bloc - numa-l-bloc-apartments,1.2646907060754933,7.705882352941177,17
+Couple,Classic Studio,Numa Bloc - numa-l-bloc-apartments,,10.0,1
+Couple,Comfort Suite,Numa Bloc - numa-l-bloc-apartments,1.5967814146440362,7.88,25
+Couple,Comfort Two-Bedroom Apartment with Shared Terrace (4 Adults + 2 Children),Numa YAYS Amsterdam Prince Island by Numa - amsterdam-prince-island-by-yays,0.0,10.0,2
+Couple,Comfort Two-Bedroom Family (4 Adults + 2 Children),Numa YAYS Amsterdam Prince Island by Numa - amsterdam-prince-island-by-yays,,7.0,1
+Couple,Deluxe Double Room,Numa Lief - numa-l-lief,0.670564988056025,8.373983739837398,123
+Couple,Deluxe Double Room with Bath,Numa Root - antik-city-prague,0.22459677419354843,8.8125,32
+Couple,Deluxe Double Room with Court View,Numa Palazzo Orseolo - palazzo-orseolo,0.07569536003994434,8.0,2
+Couple,Deluxe Room,Numa Potsdamer Platz - precise-tale-berlin,1.1561128105128093,7.529411764705882,17
+Couple,Deluxe Studio,Numa Bloc - numa-l-bloc-apartments,1.0353342087770459,8.047619047619047,21
+Couple,Deluxe Studio,Numa Camperio - camperio-house-suites-apartments,0.1,8.5,2
+Couple,Deluxe Studio,Numa Jondo - sevilla-luxury-rentals-horno-santa-cruz,0.7661541149670443,7.5,6
+Couple,Deluxe Studio,Numa Libusa - sunrise,0.12683982683982684,9.409090909090908,22
+Couple,Deluxe Studio,Numa Molina - sevilla-luxury-rentals-catedral-sevilla,0.4,9.0,2
+Couple,Deluxe Suite,Numa Camperio - camperio-house-suites-apartments,0.9400914041701611,7.75,4
+Couple,Deluxe Suite,Numa Libusa - sunrise,0.28490016383835676,9.307692307692308,26
+Couple,Deluxe Suite,Numa Molina - sevilla-luxury-rentals-catedral-sevilla,,9.0,1
+Couple,Deluxe Suite,Numa Nørrebro - numa-i-drejervej,,9.0,1
+Couple,Deluxe Suite,Numa Poise - numa-i-poise-rooms-and-apartments,0.535164835164835,8.928571428571429,14
+Couple,Deluxe Suite,Numa Republika - republika-amp-suites,,9.0,1
+Couple,Deluxe Suite,Numa Root - antik-city-prague,0.5238095238095238,9.0,7
+Couple,Deluxe Suite,Numa Solea - numa-l-solea-rooms-amp-apartments,0.9084081303312075,8.76923076923077,13
+Couple,Deluxe Suite with bath tub,Numa Libusa - sunrise,0.2,9.0,7
+Couple,Double Room,Numa Bloomsbury - bedfordcornerhotel,0.22447017797017796,8.7,10
+Couple,Double Room,Numa Brio - hcristina,0.5543400729321456,9.12,25
+Couple,Double Room,Numa Camperio - camperio-house-suites-apartments,0.43753753753753755,8.972972972972974,37
+Couple,Double Room,Numa Flow - fashion-dancing,0.42301587301587307,9.25,28
+Couple,Double Room,Numa Lief - numa-l-lief,1.0365590690772055,8.161290322580646,93
+Couple,Double Room,Numa Poise - numa-i-poise-rooms-and-apartments,0.4865794573643411,8.937984496124031,129
+Couple,Double Room,Numa Root - antik-city-prague,0.5652631578947368,8.9,20
+Couple,Double Room - Disability Access,Numa Lief - numa-l-lief,0.06000000000000001,8.6,5
+Couple,Double Room with Balcony,Numa Brio - hcristina,0.3456036090545244,8.1,10
+Couple,Double Room with Balcony,Numa Flow - fashion-dancing,0.1824561403508772,9.368421052631579,19
+Couple,Double Room with Balcony,Numa Poise - numa-i-poise-rooms-and-apartments,0.39435999816784406,8.789473684210526,19
+Couple,Double Room with Balcony,Numa Roca - retrome-barcelona,0.6909090909090909,8.454545454545455,11
+Couple,Double Room with City View,Numa Script - la-pepa-chic-bed,1.0288436515919157,8.133333333333333,15
+Couple,Duplex,Numa Bloc - numa-l-bloc-apartments,0.8108637130816772,6.0,2
+Couple,Duplex Studio,Numa YAYS Amsterdam Maritime by Numa - yays-amsterdam-maritime,0.1,8.5,2
+Couple,Duplex Studio (2 Adults),Numa YAYS Amsterdam Maritime by Numa - yays-amsterdam-maritime,,8.0,1
+Couple,Duplex Studio (2 adults + 2 children),Numa YAYS Amsterdam Maritime by Numa - yays-amsterdam-maritime,3.7298241543838433,3.5,2
+Couple,Excelsior Suite,Numa Potsdamer Platz - precise-tale-berlin,0.15526785714285715,8.875,8
+Couple,Extra Large 1 Bedroom Apartment with 2 Sofa Beds - no AC,Numa Terra - numa-i-terra-apartments,,10.0,1
+Couple,Extra Large 1 Bedroom Apartment with Sofa Bed,Numa Docklands - yays-amsterdam-docklands,,9.0,1
+Couple,Extra Large 1 Bedroom Apartment with Terrace and Sofa Bed - Duplex,Numa Vita - m7-contemporary-apartments-my-extra-home,,10.0,1
+Couple,Extra Large 2 Bedroom Apartment with AC and Terrace,Numa Terra - numa-i-terra-apartments,0.0,9.0,2
+Couple,Extra Large 2 Bedroom Apartment with Balcony and Sofa Bed,Numa Loreto - loreto-rooms-amp-apartments,0.15000000000000002,8.5,2
+Couple,Extra Large Room,Numa Potsdamer Platz - precise-tale-berlin,,7.0,1
+Couple,Extra Large Room with Balcony,Numa Kudamm - about-berlin-hotel,0.3918813131313132,8.75,16
+Couple,Extra Large Room with Bathtub,Numa Ivy - villa-ivy-by-heymcollections,0.11383078231292518,9.625,8
+Couple,Extra Large Room with Bathtub and Separate Living Area with Sofa Bed,Numa Mozart - tophotelmozart,,9.0,1
+Couple,Extra Large Room with Separate Living Area,Numa Potsdamer Platz - precise-tale-berlin,,8.0,1
+Couple,Extra Large Room with Sofa Bed,Numa Sketch - sketch-rooms-amp-apartments,0.07569536003994434,8.0,2
+Couple,Extra Large Room with Sofa Bed and Separate Living Area,Numa Vogelweider - numa-salzburg-vogelweider,0.2666666666666667,9.333333333333334,3
+Couple,Extra Large Studio with Kitchen,Numa Nook - frederics-serviced-apartment,0.9432795365608108,7.0,2
+Couple,Extra Large Studio with Kitchen,Numa Viktoria - joyn-munich-olympic-munchen,0.8723006355692825,8.232394366197184,142
+Couple,Extra Large Studio with Kitchen - Twin Beds,Numa Viktoria - joyn-munich-olympic-munchen,1.0271754949499496,7.84,25
+Couple,Extra Large Studio with Kitchen and Balcony,Numa Nook - frederics-serviced-apartment,0.6049603369687417,8.3,30
+Couple,Extra Large Studio with Kitchen and Separate Living Area,Numa Viktoria - joyn-munich-olympic-munchen,0.8685525028970873,8.0,8
+Couple,Extra Large Studio with Kitchen and Sofa Bed,Numa Loreto - loreto-rooms-amp-apartments,,8.0,1
+Couple,Extra Large Studio with Kitchen and Sofa Bed,Numa Nook - frederics-serviced-apartment,,10.0,1
+Couple,Extra Large Studio with Kitchen and Sofa Bed - no AC,Numa Terra - numa-i-terra-apartments,0.0,10.0,3
+Couple,Extra Large Studio with Kitchen and Terrace,Numa Vita - m7-contemporary-apartments-my-extra-home,2.235457264801849,8.0,7
+Couple,"Extra Large Studio with Kitchen, Sofa Bed and AC",Numa Terra - numa-i-terra-apartments,,9.0,1
+Couple,"Extra Large Studio with Kitchen, Terrace and AC",Numa Terra - numa-i-terra-apartments,1.7100859788359788,8.555555555555555,9
+Couple,Extra Large Studio with Kitchenette,Numa Arc - numa-i-arc-rooms-amp-apartments,2.4492280780125997,6.6,15
+Couple,Extra Large Studio with Kitchenette,Numa Obersendling - numa-munich-obersendling,0.40237312868721015,8.804878048780488,41
+Couple,Extra Large Studio with Kitchenette,Numa Saga - numa-l-saga-apartments,0.36821298104046907,8.710526315789474,38
+Couple,Extra Large Studio with Kitchenette - Loft,Numa Boxer - almodovarhotel-berlin-biohotel,,7.0,1
+Couple,Extra Large Studio with Kitchenette and Balcony,Numa Kudamm - about-berlin-hotel,0.1612614297467239,9.0,16
+Couple,Extra Large Studio with Kitchenette and Bathtub,Numa Bona - auerberg-galerie,0.09999999999999998,9.333333333333334,3
+Couple,Extra Large Studio with Kitchenette and Sofa Bed,Numa Artol - excelsiordusseldorf,,10.0,1
+Couple,Extra Large Studio with Kitchenette and Sofa Bed,Numa Blend - numa-i-blend-apartments,0.30000000000000004,9.333333333333334,3
+Couple,Extra Large Studio with Kitchenette and Sofa Bed,Numa Fore - my4walls-serviced-apartments-hamburg,,10.0,1
+Couple,Extra Large Studio with Kitchenette and Sofa Bed,Numa Hallen - oslo-apartments-dronningensgate-15,1.8756953600399444,8.0,2
+Couple,Extra Large Studio with Kitchenette and Sofa Bed,Numa Palazzo Orseolo - palazzo-orseolo,4.58741814438719,7.333333333333333,3
+Couple,Extra Large Studio with Kitchenette and Sofa Bed,Numa Saga - numa-l-saga-apartments,0.05714285714285714,9.428571428571429,7
+Couple,Extra Large Studio with Kitchenette and Sofa Bed - Accessible,Numa Fore - my4walls-serviced-apartments-hamburg,1.8964134567875361,5.833333333333333,6
+Couple,"Extra Large Studio with Kitchenette, Balcony and Sofa Bed",Numa Drift - gaijin,,10.0,1
+Couple,"Extra Large Studio with Kitchenette, Balcony and Sofa Bed",Numa Leo - numa-i-leo-apartments,,10.0,1
+Couple,Family Two-Bedroom Apartment Canal Side,Numa YAYS Amsterdam Salthouse Canal by Numa - yays-amsterdam-salthouse-canal,,10.0,1
+Couple,Imperial Suite,Numa Potsdamer Platz - precise-tale-berlin,,10.0,1
+Couple,Junior Suite,Numa Flow - fashion-dancing,0.17700115818247686,9.357142857142858,14
+Couple,Junior Suite,Numa Libusa - sunrise,0.44000000000000006,9.066666666666666,15
+Couple,Junior Suite,Numa Potsdamer Platz - precise-tale-berlin,0.14548372011564242,7.8,10
+Couple,Large 1 Bedroom Apartment,Numa YAYS The Hague Willemspark by Numa - yays-the-hague-willemspark,1.1073837713380683,8.416666666666666,12
+Couple,Large 1 Bedroom Apartment with Balcony,Numa Strauss - sunrise-apartments,0.21500000000000002,8.5,4
+Couple,Large 1 Bedroom Apartment with Balcony and Sofa Bed,Numa Loreto - loreto-rooms-amp-apartments,1.3328382171828017,8.0,7
+Couple,Large 1 Bedroom Apartment with Shared Terrace and Sofa Bed,Numa Vita - m7-contemporary-apartments-my-extra-home,0.13333333333333336,9.333333333333334,6
+Couple,Large 1 Bedroom Apartment with Sofa Bed,Numa Docklands - yays-amsterdam-docklands,4.494197046415011,6.0,3
+Couple,Large 1 Bedroom Apartment with Sofa Bed,Numa Sonate - townhouse-tessa-by-heymcollections,0.6506616894315977,8.4,5
+Couple,Large 1 Bedroom Apartment with Sofa Bed,Numa Vita - m7-contemporary-apartments-my-extra-home,0.46580880230880234,8.5,10
+Couple,Large 1 Bedroom Apartment with Sofa Bed,Numa YAYS Paris Issy by Numa - yays-paris-issy,,7.0,1
+Couple,Large 1 Bedroom Apartment with Sofa Bed - Duplex,Numa Fiore - le-fiorentine-boutique-apartments,0.0,9.0,2
+Couple,Large 1 Bedroom Apartment with Sofa Bed - Duplex,Numa Topp - frogner-house-apartments-skovveien-15,,10.0,1
+Couple,Large 1 Bedroom Apartment with Sofa Bed - no AC,Numa Terra - numa-i-terra-apartments,0.2,9.0,3
+Couple,Large 1 Bedroom Apartment with Sofa Bed and AC,Numa Terra - numa-i-terra-apartments,,10.0,1
+Couple,Large 1 Bedroom Apartment with Terrace and Sofa Bed,Numa Drift - gaijin,2.043279536560811,7.0,2
+Couple,Large 1 Bedroom Apartment with Terrace and Sofa Bed - no AC,Numa Terra - numa-i-terra-apartments,0.29930657221566315,8.636363636363637,11
+Couple,"Large 1 Bedroom Apartment, Sofa Bed and Bathtub",Numa Vici - dolce-vita-residence,1.2666666666666668,8.666666666666666,3
+Couple,Large 2 Bedroom Apartment - Duplex,Numa Vita - m7-contemporary-apartments-my-extra-home,,10.0,1
+Couple,Large 2 Bedroom Apartment with Sofa Bed,Numa Vita - m7-contemporary-apartments-my-extra-home,,9.0,1
+Couple,Large 2 Bedroom Apartment with Sofa Bed - Duplex,Numa Saga - numa-l-saga-apartments,,10.0,1
+Couple,Large Double Room,Numa Kudamm - about-berlin-hotel,0.4,9.0,2
+Couple,Large Room,Numa Belfort - belfort-berlin,0.7931932353817048,8.166666666666666,6
+Couple,Large Room,Numa Felice - numa-i-felice-rooms-amp-apartments,0.3756961354236641,8.766666666666667,60
+Couple,Large Room,Numa Ivy - villa-ivy-by-heymcollections,0.8706785247357712,8.2,5
+Couple,Large Room,Numa Mozart - tophotelmozart,0.9751036637358147,8.25,24
+Couple,Large Room,Numa Obersendling - numa-munich-obersendling,0.8307632652877864,8.392857142857142,28
+Couple,Large Room,Numa Vici - dolce-vita-residence,0.8500000000000002,8.916666666666666,12
+Couple,Large Room - Accessible,Numa Arc - numa-i-arc-rooms-amp-apartments,0.2525958726282269,8.333333333333334,6
+Couple,Large Room - Accessible,Numa Boxer - almodovarhotel-berlin-biohotel,1.6946216607158853,7.555555555555555,9
+Couple,Large Room - Accessible,Numa Savi - stilwerk-kantgaragen-berlin63,0.1635,9.2,5
+Couple,Large Room with Balcony,Numa Kudamm - about-berlin-hotel,0.2,9.0,7
+Couple,Large Room with Balcony,Numa Mozart - tophotelmozart,1.3181818181818186,8.666666666666666,12
+Couple,Large Room with Balcony - Accessible,Numa Torstraße - alte-schonhauser-str-2-10119-berlin,,8.0,1
+Couple,Large Room with Extra Single Bed,Numa Barberini - capriceroma,,2.0,1
+Couple,Large Room with Extra Single Bed,Numa Linea - capitol-roma,0.16204081632653058,9.142857142857142,7
+Couple,Large Room with Separate Living Area,Numa Forcola - numa-venice-forcola,0.2,9.0,5
+Couple,Large Room with Separate Living Area and Balcony,Numa Forcola - numa-venice-forcola,0.1,9.5,2
+Couple,Large Room with Terrace,Numa Wood - the-wood,0.3330912571772602,8.428571428571429,7
+Couple,Large Studio with Kitchen,Numa Craft - numa-i-craft-rooms-amp-apartments,0.1,8.5,2
+Couple,Large Studio with Kitchen,Numa Nook - frederics-serviced-apartment,1.1195003490683508,7.975,40
+Couple,Large Studio with Kitchen,Numa Stark - joyn-munich-rose,0.45,8.5,8
+Couple,Large Studio with Kitchen,Numa Topp - frogner-house-apartments-skovveien-15,0.2607783257591476,8.903225806451612,31
+Couple,Large Studio with Kitchen,Numa YAYS Paris Issy by Numa - yays-paris-issy,0.6337993159097277,8.25,8
+Couple,Large Studio with Kitchen - Accessible,Numa Sol - numa-madrid-sol-apartments,1.1099462032274774,7.0,4
+Couple,"Large Studio with Kitchen - Single Bed, Accessible",Numa Topp - frogner-house-apartments-skovveien-15,,9.0,1
+Couple,Large Studio with Kitchen and Sofa Bed,Numa Kater - berlin-eastside-apartments,,10.0,1
+Couple,Large Studio with Kitchen and Sofa Bed,Numa Palazzo Moro - palazzo-del-moro-firenze,0.8761904761904763,8.761904761904763,21
+Couple,"Large Studio with Kitchen, Balcony and Sofa Bed",Numa Nora - townhouse-nora-salzburg,,10.0,1
+Couple,Large Studio with Kitchenette,Numa Arc - numa-i-arc-rooms-amp-apartments,0.664013114687317,8.247619047619047,105
+Couple,Large Studio with Kitchenette,Numa Artol - excelsiordusseldorf,1.3788504823771357,7.230769230769231,13
+Couple,Large Studio with Kitchenette,Numa Blau - star-apart-hauptbahnhof,0.3333333333333334,8.666666666666666,3
+Couple,Large Studio with Kitchenette,Numa Blend - numa-i-blend-apartments,1.0787019190226568,8.4,30
+Couple,Large Studio with Kitchenette,Numa Bona - auerberg-galerie,1.803279536560811,7.0,5
+Couple,Large Studio with Kitchenette,Numa Boxer - almodovarhotel-berlin-biohotel,0.22222222222222224,8.88888888888889,9
+Couple,Large Studio with Kitchenette,Numa Drift - gaijin,0.9731252281095492,8.705882352941176,17
+Couple,Large Studio with Kitchenette,Numa Fore - my4walls-serviced-apartments-hamburg,1.11833142732194,7.855769230769231,104
+Couple,Large Studio with Kitchenette,Numa Hallen - oslo-apartments-dronningensgate-15,0.5185365853658537,8.829268292682928,41
+Couple,Large Studio with Kitchenette,Numa Munico - munico,0.4329710144927536,8.458333333333334,24
+Couple,Large Studio with Kitchenette,Numa Obersendling - numa-munich-obersendling,0.10250000000000001,9.0,5
+Couple,Large Studio with Kitchenette,Numa Rato - numa-i-voga-rooms-amp-apartments,,9.0,1
+Couple,Large Studio with Kitchenette,Numa Saga - numa-l-saga-apartments,0.1560535717656662,9.016949152542374,59
+Couple,Large Studio with Kitchenette,Numa Turi - numa-i-turi-apartments-zurich,0.34699285863220164,8.142857142857142,7
+Couple,Large Studio with Kitchenette,Numa Viktoria - joyn-munich-olympic-munchen,0.9712946065409382,7.9523809523809526,21
+Couple,Large Studio with Kitchenette - Accessible,Numa Blend - numa-i-blend-apartments,2.832811393261123,7.230769230769231,13
+Couple,Large Studio with Kitchenette - Accessible,Numa Champs-Élysées - numa-paris-champs-elysees,,7.0,1
+Couple,Large Studio with Kitchenette - Accessible,Numa Rato - numa-i-voga-rooms-amp-apartments,,8.0,1
+Couple,Large Studio with Kitchenette - Twin Beds,Numa Bona - auerberg-galerie,1.2009247375034944,7.75,4
+Couple,Large Studio with Kitchenette and Balcony,Numa Artol - excelsiordusseldorf,1.2292121953441177,7.8,5
+Couple,Large Studio with Kitchenette and Balcony,Numa Belfort - belfort-berlin,0.20583333333333334,9.25,4
+Couple,Large Studio with Kitchenette and Balcony,Numa Blau - star-apart-hauptbahnhof,2.350863713081677,6.0,5
+Couple,Large Studio with Kitchenette and Balcony,Numa Boxer - almodovarhotel-berlin-biohotel,0.11720663265306124,9.625,8
+Couple,Large Studio with Kitchenette and Balcony,Numa Munico - munico,1.5274909354101962,7.6,15
+Couple,Large Studio with Kitchenette and Balcony,Numa Novela - numa-i-novela-rooms-amp-apartments,0.1242564825667583,8.846153846153847,26
+Couple,Large Studio with Kitchenette and Balcony,Numa Vici - dolce-vita-residence,0.5266564587668706,8.25,8
+Couple,Large Studio with Kitchenette and Extra Bed,Numa Torstraße - alte-schonhauser-str-2-10119-berlin,0.05,9.25,4
+Couple,Large Studio with Kitchenette and Sofa Bed,Numa Belfort - belfort-berlin,,2.0,1
+Couple,Large Studio with Kitchenette and Sofa Bed,Numa Drift - gaijin,1.692128913053971,8.142857142857142,7
+Couple,Large Studio with Kitchenette and Sofa Bed,Numa Fore - my4walls-serviced-apartments-hamburg,0.26574404761904763,8.875,8
+Couple,Large Studio with Kitchenette and Sofa Bed,Numa Novela - numa-i-novela-rooms-amp-apartments,0.16190476190476188,9.142857142857142,7
+Couple,Large Studio with Kitchenette and Sofa Bed,Numa Rodo - rodo-hotel-fashion-delight,6.112239977862977,4.5,2
+Couple,Large Studio with Kitchenette and Sofa Bed,Numa Sketch - sketch-rooms-amp-apartments,2.0756953600399446,8.0,2
+Couple,Large Studio with Kitchenette and Terrace,Numa Wood - the-wood,0.1,9.0,5
+Couple,Large Studio with Kitchenette and Terrace - Accessible,Numa Wood - the-wood,0.324013605442177,8.714285714285714,7
+Couple,"Large Studio with Kitchenette, Balcony and Sofa Bed",Numa Belfort - belfort-berlin,,8.0,1
+Couple,"Large Studio with Kitchenette, Balcony and Sofa Bed",Numa Drift - gaijin,0.05,9.25,4
+Couple,"Large Studio with Kitchenette, Balcony and Sofa Bed",Numa Leo - numa-i-leo-apartments,0.17200000000000001,9.12,25
+Couple,"Large Studio with Kitchenette, Balcony and Sofa Bed",Numa Novela - numa-i-novela-rooms-amp-apartments,0.25150000000000006,8.8,5
+Couple,Large Studio with Shared Terrace,Numa Bloomsbury - bedfordcornerhotel,3.3298241543838434,3.5,4
+Couple,Maisonette,Numa Nørrebro - numa-i-drejervej,,8.0,1
+Couple,Maisonette,Numa YAYS Amsterdam Maritime by Numa - yays-amsterdam-maritime,0.9556953600399444,8.0,5
+Couple,Medium Double Room,Numa Kudamm - about-berlin-hotel,2.302759757211894,5.75,4
+Couple,Medium Room,Numa Arc - numa-i-arc-rooms-amp-apartments,0.9134003171975147,8.194174757281553,103
+Couple,Medium Room,Numa Barberini - capriceroma,1.5763070332760776,7.333333333333333,9
+Couple,Medium Room,Numa Belfort - belfort-berlin,0.48650063453298886,8.333333333333334,3
+Couple,Medium Room,Numa Bloomsbury - bedfordcornerhotel,0.28302521008403364,8.628571428571428,35
+Couple,Medium Room,Numa Boxer - almodovarhotel-berlin-biohotel,0.8008902641229441,8.03125,32
+Couple,Medium Room,Numa Champs-Élysées - numa-paris-champs-elysees,0.8909090909090909,8.545454545454545,11
+Couple,Medium Room,Numa Drift - gaijin,0.3422926447574336,8.680555555555555,72
+Couple,Medium Room,Numa Ivy - villa-ivy-by-heymcollections,1.3792242512140187,7.363636363636363,33
+Couple,Medium Room,Numa Kudamm - about-berlin-hotel,0.8255847663546747,8.4,40
+Couple,Medium Room,Numa Linea - capitol-roma,0.8593739061421746,7.82051282051282,117
+Couple,Medium Room,Numa Maximilian - the-maximilian-by-heymcollections,1.8043672521884002,6.7894736842105265,19
+Couple,Medium Room,Numa Mozart - tophotelmozart,0.9557048680680043,8.350877192982455,57
+Couple,Medium Room,Numa Nook - frederics-serviced-apartment,0.8572578507276152,8.222222222222221,27
+Couple,Medium Room,Numa Potsdamer Platz - precise-tale-berlin,2.256796371864984,6.8,5
+Couple,Medium Room,Numa Savi - stilwerk-kantgaragen-berlin63,0.3796610169491526,8.88135593220339,59
+Couple,Medium Room,Numa Sketch - sketch-rooms-amp-apartments,0.34590741660462165,7.928571428571429,14
+Couple,Medium Room,Numa Torstraße - alte-schonhauser-str-2-10119-berlin,0.4726044808319789,8.125,8
+Couple,Medium Room,Numa Vogelweider - numa-salzburg-vogelweider,0.5332206510835361,8.821989528795811,382
+Couple,Medium Room - Accessible,Numa Tullo - numa-i-tullo-rooms,0.46666666666666673,8.666666666666666,3
+Couple,Medium Room - Accessible,Numa Vogelweider - numa-salzburg-vogelweider,0.17312752655253064,9.3,20
+Couple,Medium Room - Canal View,Numa Palazzo Orseolo - palazzo-orseolo,1.4216408418309183,7.32,25
+Couple,Medium Room - Loft,Numa Boxer - almodovarhotel-berlin-biohotel,0.8242800303378557,8.083333333333334,24
+Couple,Medium Room - Twin Bed,Numa Vogelweider - numa-salzburg-vogelweider,1.2273433208130855,8.222222222222221,45
+Couple,Medium Room - Twin Beds,Numa Arc - numa-i-arc-rooms-amp-apartments,0.5396017162351284,8.277777777777779,18
+Couple,Medium Room with Balcony,Numa Drift - gaijin,1.2659152575222878,7.933333333333334,15
+Couple,Medium Room with Balcony,Numa Ivy - villa-ivy-by-heymcollections,1.285744953829907,7.88,25
+Couple,Medium Room with Balcony,Numa Kudamm - about-berlin-hotel,0.8702439024390245,8.487804878048781,41
+Couple,Medium Room with Balcony,Numa Maximilian - the-maximilian-by-heymcollections,,9.0,1
+Couple,Medium Room with Balcony,Numa Novela - numa-i-novela-rooms-amp-apartments,0.9542245927062,8.428571428571429,14
+Couple,Medium Room with Balcony,Numa Potsdamer Platz - precise-tale-berlin,5.089253164095589,5.333333333333333,3
+Couple,Medium Room with Balcony,Numa Savi - stilwerk-kantgaragen-berlin63,1.610982490764485,7.888888888888889,9
+Couple,Medium Room with Balcony,Numa Torstraße - alte-schonhauser-str-2-10119-berlin,,10.0,1
+Couple,Medium Room with Extra Single Bed,Numa Linea - capitol-roma,1.539193235381705,8.166666666666666,6
+Couple,Medium Room with Extra Single Bed,Numa Tullo - numa-i-tullo-rooms,0.748223418880233,7.666666666666667,3
+Couple,Medium Room with Sofa Bed,Numa Rodo - rodo-hotel-fashion-delight,1.7493490396936242,8.0,11
+Couple,Medium Room with Terrace,Numa Barberini - capriceroma,1.7717877652575296,8.222222222222221,9
+Couple,Medium Room with Terrace and Extra Single Bed,Numa Tullo - numa-i-tullo-rooms,,8.0,1
+Couple,Medium Studio with Kitchen,Numa Docklands - yays-amsterdam-docklands,0.4589743589743592,9.153846153846153,13
+Couple,Medium Studio with Kitchen,Numa Kater - berlin-eastside-apartments,0.48333333333333345,8.666666666666666,3
+Couple,Medium Studio with Kitchen,Numa Sol - numa-madrid-sol-apartments,0.07050000000000001,9.6,5
+Couple,Medium Studio with Kitchen,Numa YAYS Paris Issy by Numa - yays-paris-issy,0.4219624489762417,8.620689655172415,29
+Couple,Medium Studio with Kitchen,Numa YAYS Paris Zola by Numa - eiffel-village-apartments-paris-centre,1.0854023764868537,7.967741935483871,31
+Couple,Medium Studio with Kitchen - Accessible,Numa YAYS Paris Issy by Numa - yays-paris-issy,,9.0,1
+Couple,Medium Studio with Kitchen and Balcony,Numa Craft - numa-i-craft-rooms-amp-apartments,1.0021848435447238,8.371428571428572,35
+Couple,Medium Studio with Kitchen and Balcony,Numa Stark - joyn-munich-rose,0.05926445578231293,9.375,8
+Couple,Medium Studio with Kitchen and Balcony,Numa YAYS Paris Zola by Numa - eiffel-village-apartments-paris-centre,1.3349854830178371,8.333333333333334,12
+Couple,Medium Studio with Kitchen for 2 Guests,Numa Docklands - yays-amsterdam-docklands,0.4,9.0,2
+Couple,Medium Studio with Kitchenette,Numa Arc - numa-i-arc-rooms-amp-apartments,0.32422947616346487,8.46551724137931,58
+Couple,Medium Studio with Kitchenette,Numa Artol - excelsiordusseldorf,0.4831785247357713,8.2,5
+Couple,Medium Studio with Kitchenette,Numa Blau - star-apart-hauptbahnhof,1.365915562404952,7.76,25
+Couple,Medium Studio with Kitchenette,Numa Blend - numa-i-blend-apartments,1.663903132325774,7.916666666666667,12
+Couple,Medium Studio with Kitchenette,Numa Bona - auerberg-galerie,0.28540816326530616,8.75,8
+Couple,Medium Studio with Kitchenette,Numa Boxer - almodovarhotel-berlin-biohotel,1.0582152251299388,8.16,25
+Couple,Medium Studio with Kitchenette,Numa Champs-Élysées - numa-paris-champs-elysees,1.4253675933765955,8.413793103448276,29
+Couple,Medium Studio with Kitchenette,Numa Hallen - oslo-apartments-dronningensgate-15,0.4429864253393666,8.692307692307692,52
+Couple,Medium Studio with Kitchenette,Numa Novela - numa-i-novela-rooms-amp-apartments,0.134358821685668,9.26086956521739,23
+Couple,Medium Studio with Kitchenette,Numa Oben - star-gmbh,1.5665211189087245,7.1,10
+Couple,Medium Studio with Kitchenette,Numa Rato - numa-i-voga-rooms-amp-apartments,0.22967032967032971,9.071428571428571,14
+Couple,Medium Studio with Kitchenette,Numa Saga - numa-l-saga-apartments,0.3261398497831376,8.782608695652174,138
+Couple,Medium Studio with Kitchenette,Numa Savi - stilwerk-kantgaragen-berlin63,0.173,8.6,5
+Couple,Medium Studio with Kitchenette,Numa Sempione - numa-milan-sempione,0.10460997732426304,9.066666666666666,15
+Couple,Medium Studio with Kitchenette,Numa Sketch - sketch-rooms-amp-apartments,0.8335587764416157,8.26086956521739,23
+Couple,Medium Studio with Kitchenette,Numa Torstraße - alte-schonhauser-str-2-10119-berlin,0.17179487179487185,9.23076923076923,13
+Couple,Medium Studio with Kitchenette,Numa Turi - numa-i-turi-apartments-zurich,0.6204596123797014,8.435897435897436,39
+Couple,Medium Studio with Kitchenette,Numa Wood - the-wood,0.301557972184005,8.765432098765432,81
+Couple,Medium Studio with Kitchenette - Accessible,Numa Drift - gaijin,,1.0,1
+Couple,Medium Studio with Kitchenette - Single Bed,Numa Blend - numa-i-blend-apartments,,10.0,1
+Couple,Medium Studio with Kitchenette and Balcony,Numa Artol - excelsiordusseldorf,4.0658075954011,6.666666666666667,3
+Couple,Medium Studio with Kitchenette and Balcony,Numa Boxer - almodovarhotel-berlin-biohotel,0.9134441723196494,7.5588235294117645,34
+Couple,Medium Studio with Kitchenette and Balcony,Numa Champs-Élysées - numa-paris-champs-elysees,0.16488290137388975,9.418604651162791,43
+Couple,Medium Studio with Kitchenette and Balcony,Numa Craft - numa-i-craft-rooms-amp-apartments,0.47233607260259936,8.083333333333334,12
+Couple,Medium Studio with Kitchenette and Balcony,Numa Oben - star-gmbh,0.813954081632653,8.5,8
+Couple,Medium Studio with Kitchenette and Balcony,Numa Sempione - numa-milan-sempione,0.32046783625731,9.052631578947368,19
+Couple,Medium Studio with Kitchenette and Balcony,Numa Turi - numa-i-turi-apartments-zurich,1.1162458659524641,7.4,5
+Couple,Medium Studio with Kitchenette and Balcony - Single bed,Numa Oben - star-gmbh,,6.0,1
+Couple,Medium Studio with Kitchenette and Workspace,Numa Oben - star-gmbh,3.976781222935877,5.0,4
+Couple,"Medium Studio with Kitchenette, Balcony and Separate Living Area",Numa Sempione - numa-milan-sempione,0.7546258503401361,8.857142857142858,7
+Couple,One Bedroom (4 Persons),Numa YAYS Antwerp Opera by Numa - yays-antwerp-opera,0.8988618312117812,8.153846153846153,39
+Couple,One-Bedroom (2 Persons),Numa YAYS Amsterdam Vondelpark by Numa - amsterdam-vondelpark-by-yays,0.5,9.0,2
+Couple,One-Bedroom (2 Persons),Numa YAYS Antwerp Opera by Numa - yays-antwerp-opera,1.3083554246265432,8.07843137254902,51
+Couple,One-Bedroom Apartment,Numa Alegre - alvarez-quintero-apartment,1.2171326492430612,8.25,16
+Couple,One-Bedroom Apartment,Numa Colmena - numa-i-colmena-apartments,1.975661689431598,8.4,5
+Couple,One-Bedroom Apartment,Numa Lustre - friendly-rentals-mozart,0.1745,9.4,5
+Couple,One-Bedroom Apartment,Numa Molina - sevilla-luxury-rentals-catedral-sevilla,2.859487448300378,7.5,2
+Couple,One-Bedroom Apartment,Numa Oosterpark - eastern-park-apartment-suites,,10.0,1
+Couple,One-Bedroom Apartment,Numa Seda - friendly-rentals-hopper,0.7545454545454546,8.590909090909092,22
+Couple,One-Bedroom Apartment,Numa Solea - numa-l-solea-rooms-amp-apartments,0.3660000000000001,9.2,5
+Couple,One-Bedroom Apartment,Numa Vega - urban-vida-granada-i,3.5638300424733305,6.4,5
+Couple,One-Bedroom Apartment,Numa Verso - numa-i-verso-apartments,0.3525,8.75,4
+Couple,One-Bedroom Apartment,Numa YAYS Amsterdam North by Numa - ndsm-serviced-apartments,0.4,9.0,2
+Couple,One-Bedroom Apartment,Numa YAYS Amsterdam Salthouse Canal by Numa - yays-amsterdam-salthouse-canal,0.24446404605495514,8.583333333333334,12
+Couple,One-Bedroom Apartment,Numa YAYS The Hague Willemspark by Numa - yays-the-hague-willemspark,0.2534712588998303,8.666666666666666,15
+Couple,One-Bedroom Apartment (4 Adults),Numa YAYS Amsterdam Vondelpark by Numa - amsterdam-vondelpark-by-yays,,6.0,1
+Couple,One-Bedroom Apartment with Balcony,Numa YAYS The Hague Willemspark by Numa - yays-the-hague-willemspark,4.343279536560811,7.0,2
+Couple,One-Bedroom Apartment with View,Numa YAYS Amsterdam Salthouse Canal by Numa - yays-amsterdam-salthouse-canal,4.210863713081677,6.0,2
+Couple,One-Bedroom Comfort (2 persons),Numa YAYS Antwerp Opera by Numa - yays-antwerp-opera,,7.0,1
+Couple,One-Bedroom Comfort (4 Persons),Numa YAYS Antwerp Opera by Numa - yays-antwerp-opera,0.7005279034690799,8.557692307692308,52
+Couple,One-Bedroom Deluxe Apartment,Numa YAYS Amsterdam Salthouse Canal by Numa - yays-amsterdam-salthouse-canal,3.1136162426442766,3.0,2
+Couple,One-bedroom Attic (2 Persons),Numa YAYS Amsterdam Vondelpark by Numa - amsterdam-vondelpark-by-yays,4.343279536560811,7.0,2
+Couple,SUITE 5TH,Numa Palazzo Moro - palazzo-del-moro-firenze,,1.0,1
+Couple,Small Double Room,Numa Kudamm - about-berlin-hotel,1.3994600495803777,6.714285714285714,7
+Couple,Small Double Room,Numa Roca - retrome-barcelona,1.4426251338391096,8.090909090909092,11
+Couple,Small Double Room,Numa Script - la-pepa-chic-bed,1.798322839804276,7.066666666666666,45
+Couple,Small Room,Numa Bloomsbury - bedfordcornerhotel,0.3488429000646784,8.46875,32
+Couple,Small Room,Numa Champs-Élysées - numa-paris-champs-elysees,3.250712195344118,7.8,5
+Couple,Small Room,Numa Maximilian - the-maximilian-by-heymcollections,1.0758545119017262,7.884615384615385,26
+Couple,Small Room,Numa Sketch - sketch-rooms-amp-apartments,0.3144675844236652,8.444444444444445,18
+Couple,Small Room - Single Bed,Numa Portico - numa-i-portico-rooms,,8.0,1
+Couple,Small Room with Terrace,Numa Portico - numa-i-portico-rooms,1.6973470819502479,7.571428571428571,7
+Couple,Standard Apartment,Numa Alegre - alvarez-quintero-apartment,0.08333333333333337,8.666666666666666,3
+Couple,Standard Apartment,Numa Jondo - sevilla-luxury-rentals-horno-santa-cruz,0.06666666666666667,9.333333333333334,3
+Couple,Standard Apartment,Numa Vega - urban-vida-granada-i,0.2589813065722157,9.363636363636363,11
+Couple,Standard Apartment,Numa Verso - numa-i-verso-apartments,,9.0,1
+Couple,Standard Room,Numa Artol - excelsiordusseldorf,0.7527779430671311,7.125,8
+Couple,Standard Room,Numa Barberini - capriceroma,0.8320981492839506,8.291139240506329,79
+Couple,Standard Room,Numa Bloomsbury - bedfordcornerhotel,0.9157500470206785,8.080645161290322,62
+Couple,Standard Room,Numa Bona - auerberg-galerie,1.565048564925527,7.566666666666666,30
+Couple,Standard Room,Numa Champs-Élysées - numa-paris-champs-elysees,0.8268045943500241,8.703703703703704,27
+Couple,Standard Room,Numa Forcola - numa-venice-forcola,0.30298850574712644,9.0,30
+Couple,Standard Room,Numa Kudamm - about-berlin-hotel,0.2941927990708479,9.119047619047619,42
+Couple,Standard Room,Numa Maximilian - the-maximilian-by-heymcollections,1.6011668309986289,7.242424242424242,33
+Couple,Standard Room,Numa Mozart - tophotelmozart,0.5983530541802656,8.327586206896552,58
+Couple,Standard Room,Numa Novela - numa-i-novela-rooms-amp-apartments,0.6137566137566138,8.5,28
+Couple,Standard Room,Numa Palazzo Orseolo - palazzo-orseolo,1.9595055227495557,6.411764705882353,17
+Couple,Standard Room,Numa Portico - numa-i-portico-rooms,0.8085495824593112,8.254901960784315,51
+Couple,Standard Room,Numa Potsdamer Platz - precise-tale-berlin,0.5833406927676559,8.32484076433121,157
+Couple,Standard Room,Numa Rato - numa-i-voga-rooms-amp-apartments,0.2,9.0,3
+Couple,Standard Room,Numa Rodo - rodo-hotel-fashion-delight,0.6724830527104051,8.290322580645162,62
+Couple,Standard Room,Numa Sketch - sketch-rooms-amp-apartments,0.8607071250095761,8.133333333333333,30
+Couple,Standard Room,Numa Tullo - numa-i-tullo-rooms,0.6165210955469803,8.545454545454545,33
+Couple,Standard Room - Accessible,Numa Forcola - numa-venice-forcola,3.350863713081677,6.0,5
+Couple,Standard Room with Balcony,Numa Forcola - numa-venice-forcola,0.48571428571428577,8.857142857142858,7
+Couple,Standard Room with Balcony,Numa Torstraße - alte-schonhauser-str-2-10119-berlin,0.4198699712985427,8.666666666666666,15
+Couple,Standard Room with Terrace,Numa Portico - numa-i-portico-rooms,0.3735779059145764,7.875,8
+Couple,Standard Room with Terrace,Numa Rato - numa-i-voga-rooms-amp-apartments,,9.0,1
+Couple,Standard Room with Terrace,Numa Tullo - numa-i-tullo-rooms,0.770909090909091,8.454545454545455,11
+Couple,Standard Studio,Numa Goya - numa-i-goya-apartments,0.7841701094906836,8.193548387096774,31
+Couple,Standard Studio,Numa Luna - numa-i-luna-apartments,0.3588586923666535,9.095238095238095,21
+Couple,Standard Suite,Numa Camperio - camperio-house-suites-apartments,0.2,9.0,3
+Couple,Standard Suite,Numa Root - antik-city-prague,0.1855022675736962,8.933333333333334,15
+Couple,Standard room - Canal View,Numa Palazzo Orseolo - palazzo-orseolo,1.9399682694046412,7.5625,16
+Couple,Studio,Numa Goya - numa-i-goya-apartments,0.5851936811173446,8.333333333333334,21
+Couple,Studio,Numa Luna - numa-i-luna-apartments,0.20261875341583932,9.310344827586206,29
+Couple,Studio,Numa Nørrebro - numa-i-drejervej,0.3599578562498674,8.384615384615385,13
+Couple,Studio,Numa Oosterpark - eastern-park-apartment-suites,3.983391771921967,5.666666666666667,3
+Couple,Studio,Numa Potsdamer Platz - precise-tale-berlin,2.286638804076193,6.833333333333333,6
+Couple,Studio,Numa Vega - urban-vida-granada-i,0.15204678362573099,8.736842105263158,19
+Couple,Studio,Numa YAYS Antwerp Opera by Numa - yays-antwerp-opera,0.6380274656679152,8.566666666666666,90
+Couple,Studio,Numa YAYS The Hague Willemspark by Numa - yays-the-hague-willemspark,0.42984242550600277,8.3,10
+Couple,Studio (2 Adults),Numa YAYS Amsterdam Maritime by Numa - yays-amsterdam-maritime,1.079501697087126,7.848484848484849,33
+Couple,Studio - Disability Access,Numa Goya - numa-i-goya-apartments,1.560745865952464,7.4,5
+Couple,Studio - Disability Access,Numa Nørrebro - numa-i-drejervej,,8.0,1
+Couple,Studio with Balcony,Numa Kudamm - about-berlin-hotel,0.6270716248212439,6.5,2
+Couple,Studio with Balcony,Numa Luna - numa-i-luna-apartments,0.4,8.615384615384615,26
+Couple,Studio with Kitchenette - Accessible,Numa Palazzo Belfiore - palazzo-belfiore,0.5379489757736733,8.25,8
+Couple,Studio with Terrace,Numa Goya - numa-i-goya-apartments,0.15879251700680272,9.25,8
+Couple,Studio with Terrace,Numa Nørrebro - numa-i-drejervej,1.0201398044843888,8.0,9
+Couple,Studio with Terrace,Numa Roca - retrome-barcelona,0.48333333333333345,8.666666666666666,3
+Couple,Suite,Numa Flow - fashion-dancing,0.10583333333333333,9.5625,16
+Couple,Suite,Numa Poise - numa-i-poise-rooms-and-apartments,1.2846153846153845,8.461538461538462,13
+Couple,Suite,Numa Republika - republika-amp-suites,0.4136363636363635,8.916666666666666,12
+Couple,Suite with Balcony,Numa Flow - fashion-dancing,0.20714285714285716,9.0,7
+Couple,Suite with Balcony,Numa Nørrebro - numa-i-drejervej,0.2423370541489653,9.053191489361701,94
+Couple,Superior Apartment,Numa Vega - urban-vida-granada-i,0.33520588460477896,9.0,32
+Couple,Superior Double Room,Numa Bloomsbury - bedfordcornerhotel,0.46098249076448494,7.888888888888889,9
+Couple,Superior Double Room,Numa Lief - numa-l-lief,1.459369230583403,8.333333333333334,12
+Couple,Superior Double Room,Numa Republika - republika-amp-suites,0.11956878286548615,9.5,14
+Couple,Superior One-Bedroom Apartment,Numa Alegre - alvarez-quintero-apartment,,9.0,1
+Couple,Superior Room,Numa Potsdamer Platz - precise-tale-berlin,0.9684352765454549,8.055555555555555,36
+Couple,Superior Room with Terrace,Numa Potsdamer Platz - precise-tale-berlin,0.9044255822845124,7.555555555555555,18
+Couple,Superior Studio,Numa Camperio - camperio-house-suites-apartments,1.576088578548887,7.571428571428571,7
+Couple,Three Bedroom Apartment,Numa Colmena - numa-i-colmena-apartments,,8.0,1
+Couple,Tower Suite,Numa YAYS Amsterdam Maritime by Numa - yays-amsterdam-maritime,0.24296598257639446,8.25,4
+Couple,Two-Bedroom Apartment,Numa Colmena - numa-i-colmena-apartments,0.08333333333333337,8.666666666666666,3
+Couple,Two-Bedroom Apartment,Numa Jondo - sevilla-luxury-rentals-horno-santa-cruz,,7.0,1
+Couple,Two-Bedroom Apartment,Numa Prestigio - numa-i-prestigio-apartments,,9.0,1
+Couple,Two-Bedroom Apartment,Numa Solea - numa-l-solea-rooms-amp-apartments,,10.0,1
+Couple,Two-Bedroom Apartment,Numa YAYS The Hague Willemspark by Numa - yays-the-hague-willemspark,,10.0,1
+Couple,Two-Bedroom Apartment (4 Adults),Numa YAYS Amsterdam Prince Island by Numa - amsterdam-prince-island-by-yays,,10.0,1
+Couple,Two-Bedroom Apartment with Shared Terrace (4 Adults),Numa YAYS Amsterdam Prince Island by Numa - amsterdam-prince-island-by-yays,0.46666666666666673,8.666666666666666,3
+Couple,West Apartment,Numa Potsdamer Platz - precise-tale-berlin,,8.0,1
+Family,1 Bedroom Apartment,Numa Docklands - yays-amsterdam-docklands,0.1795,9.4,5
+Family,1 Bedroom Apartment,Numa Fiore - le-fiorentine-boutique-apartments,,10.0,1
+Family,1 Bedroom Apartment,Numa Sol - numa-madrid-sol-apartments,0.1,8.5,2
+Family,1 Bedroom Apartment,Numa Strauss - sunrise-apartments,0.35322128851540613,8.91764705882353,85
+Family,1 Bedroom Apartment,Numa Topp - frogner-house-apartments-skovveien-15,0.1,9.5,2
+Family,1 Bedroom Apartment,Numa YAYS Paris Issy by Numa - yays-paris-issy,,10.0,1
+Family,1 Bedroom Apartment,Numa YAYS Paris Zola by Numa - eiffel-village-apartments-paris-centre,,5.0,1
+Family,1 Bedroom Apartment - Duplex,Numa YAYS Paris Issy by Numa - yays-paris-issy,0.0,9.0,3
+Family,1 Bedroom Apartment with Balcony,Numa Blau - star-apart-hauptbahnhof,,1.0,1
+Family,1 Bedroom Apartment with Balcony and Sofa Bed,Numa Leo - numa-i-leo-apartments,0.8753488404739997,7.166666666666667,6
+Family,1 Bedroom Apartment with Balcony and Sofa Bed,Numa Loreto - loreto-rooms-amp-apartments,0.5748768472906404,8.89655172413793,29
+Family,1 Bedroom Apartment with Balcony and Sofa Bed,Numa Topp - frogner-house-apartments-skovveien-15,0.35222672064777333,8.64102564102564,39
+Family,1 Bedroom Apartment with Balcony and Sofa Bed,Numa Torstraße - alte-schonhauser-str-2-10119-berlin,1.5358177740876824,8.4,10
+Family,1 Bedroom Apartment with Balcony and Sofa bed,Numa Sempione - numa-milan-sempione,0.08000000000000002,9.5,16
+Family,1 Bedroom Apartment with Bunk Bed,Numa Kater - berlin-eastside-apartments,4.0658075954011,6.666666666666667,3
+Family,1 Bedroom Apartment with Sofa Bed,Numa Arc - numa-i-arc-rooms-amp-apartments,1.3942599707984324,8.615384615384615,13
+Family,1 Bedroom Apartment with Sofa Bed,Numa Docklands - yays-amsterdam-docklands,0.6168514080979964,8.548148148148147,135
+Family,1 Bedroom Apartment with Sofa Bed,Numa Felice - numa-i-felice-rooms-amp-apartments,0.15666666666666668,9.625,16
+Family,1 Bedroom Apartment with Sofa Bed,Numa Fiore - le-fiorentine-boutique-apartments,0.11639253131747129,9.326086956521738,46
+Family,1 Bedroom Apartment with Sofa Bed,Numa Flute - villa-riedenburg-boutique-apartments,1.9552278873382993,8.25,8
+Family,1 Bedroom Apartment with Sofa Bed,Numa Kater - berlin-eastside-apartments,2.3871064959194253,7.5,6
+Family,1 Bedroom Apartment with Sofa Bed,Numa Potsdamer Platz - precise-tale-berlin,0.48379931590972775,8.25,4
+Family,1 Bedroom Apartment with Sofa Bed,Numa Saga - numa-l-saga-apartments,0.41728475596743164,8.695652173913043,46
+Family,1 Bedroom Apartment with Sofa Bed,Numa Sketch - sketch-rooms-amp-apartments,0.5749771997591939,7.888888888888889,9
+Family,1 Bedroom Apartment with Sofa Bed,Numa Sol - numa-madrid-sol-apartments,0.0,9.0,2
+Family,1 Bedroom Apartment with Sofa Bed,Numa Topp - frogner-house-apartments-skovveien-15,0.17391304347826086,9.0,24
+Family,1 Bedroom Apartment with Sofa Bed,Numa Vici - dolce-vita-residence,0.3970809405783622,8.646153846153846,65
+Family,1 Bedroom Apartment with Sofa Bed,Numa YAYS Paris Issy by Numa - yays-paris-issy,0.22222222222222224,8.88888888888889,9
+Family,1 Bedroom Apartment with Sofa Bed,Numa YAYS Paris Zola by Numa - eiffel-village-apartments-paris-centre,0.5015939973176148,8.461538461538462,26
+Family,1 Bedroom Apartment with Sofa Bed - Duplex,Numa Palazzo Belfiore - palazzo-belfiore,0.3535000000000001,9.2,5
+Family,1 Bedroom Apartment with Sofa Bed - Duplex,Numa Vici - dolce-vita-residence,0.6266666666666666,9.0,6
+Family,1 Bedroom Apartment with Sofa Bed - Duplex - No Kitchen,Numa Felice - numa-i-felice-rooms-amp-apartments,1.1804841829444912,7.571428571428571,14
+Family,1 Bedroom Apartment with Sofa Bed - No Kitchen,Numa Felice - numa-i-felice-rooms-amp-apartments,0.8399999999999999,8.666666666666666,6
+Family,1 Bedroom Apartment with Sofa Bed - no AC,Numa Terra - numa-i-terra-apartments,0.23519668737060048,9.2,70
+Family,1 Bedroom Apartment with Sofa Bed and AC,Numa Terra - numa-i-terra-apartments,0.156,9.2,5
+Family,1 Bedroom Apartment with Sofa Bed and Terrace,Numa Nook - frederics-serviced-apartment,4.955002320908056,6.333333333333333,3
+Family,1 Bedroom Apartment with Sofa Bed for 4 Guests,Numa Docklands - yays-amsterdam-docklands,1.1605438448884293,8.0,12
+Family,1 Bedroom Apartment with Sofa bed,Numa Sempione - numa-milan-sempione,0.16583333333333336,9.1875,16
+Family,1 Bedroom Apartment with Terrace - no AC,Numa Terra - numa-i-terra-apartments,2.121275326800918,7.7,10
+Family,1 Bedroom Apartment with Terrace and AC,Numa Terra - numa-i-terra-apartments,,10.0,1
+Family,1 Bedroom Apartment with Terrace and Sofa Bed - Duplex,Numa Sonate - townhouse-tessa-by-heymcollections,0.43228338284062934,8.2,10
+Family,1 Bedroom Apartment with Two Sofa Beds - Duplex,Numa Fiore - le-fiorentine-boutique-apartments,0.5646153846153847,8.884615384615385,26
+Family,2 Bedroom Apartment,Numa Sol - numa-madrid-sol-apartments,0.25,9.0,9
+Family,2 Bedroom Apartment,Numa Strauss - sunrise-apartments,0.6568159591184356,8.678571428571429,28
+Family,2 Bedroom Apartment with Balcony,Numa Strauss - sunrise-apartments,0.5120879120879122,8.571428571428571,14
+Family,2 Bedroom Apartment with Balcony and Sofa Bed,Numa Nora - townhouse-nora-salzburg,0.11636479591836735,9.375,8
+Family,2 Bedroom Apartment with Sofa Bed,Numa Felice - numa-i-felice-rooms-amp-apartments,0.5240445665445667,8.916666666666666,12
+Family,2 Bedroom Apartment with Sofa Bed,Numa Palazzo Belfiore - palazzo-belfiore,0.9356953600399445,8.0,5
+Family,2 Bedroom Apartment with Sofa Bed,Numa Sempione - numa-milan-sempione,0.06363945578231292,9.571428571428571,7
+Family,2 Bedroom Apartment with Sofa Bed,Numa Vici - dolce-vita-residence,0.13888888888888887,8.777777777777779,9
+Family,2 Bedroom Apartment with Sofa Bed,Numa Vita - m7-contemporary-apartments-my-extra-home,0.18529662256934987,8.833333333333334,12
+Family,2 Bedroom Apartment with Terrace,Numa Nora - townhouse-nora-salzburg,0.13333333333333333,9.0,4
+Family,3 Bedroom Apartment with Sofa Bed - Duplex,Numa Palazzo Belfiore - palazzo-belfiore,0.43833333333333335,9.0,4
+Family,Apartment,Numa Alegre - alvarez-quintero-apartment,0.42724489795918374,8.857142857142858,7
+Family,Apartment,Numa Oosterpark - eastern-park-apartment-suites,0.8411497560797715,7.375,8
+Family,Apartment,Numa Verso - numa-i-verso-apartments,0.4254018206545636,9.0,80
+Family,Apartment,Numa YAYS Amsterdam Maritime by Numa - yays-amsterdam-maritime,0.6889636538674999,8.461538461538462,13
+Family,Apartment - Disability Access,Numa YAYS Antwerp Opera by Numa - yays-antwerp-opera,0.3826399519088086,8.696969696969697,33
+Family,Apartment - Split Level,Numa Jondo - sevilla-luxury-rentals-horno-santa-cruz,0.07569536003994434,8.0,2
+Family,Apartment with Balcony,Numa Colmena - numa-i-colmena-apartments,0.17159013605442178,9.25,8
+Family,Apartment with Balcony,Numa Jondo - sevilla-luxury-rentals-horno-santa-cruz,0.19041900407285026,9.461538461538462,13
+Family,Apartment with Balcony,Numa Molina - sevilla-luxury-rentals-catedral-sevilla,0.19583333333333336,8.75,4
+Family,Apartment with Terrace,Numa Vega - urban-vida-granada-i,1.2027842712842713,8.7,10
+Family,Berlin Penthouse,Numa Potsdamer Platz - precise-tale-berlin,,9.0,1
+Family,Business-Friendly Suite,Numa Bloc - numa-l-bloc-apartments,0.18583333333333335,8.5625,16
+Family,Classic Studio,Numa Bloc - numa-l-bloc-apartments,,6.0,1
+Family,Comfort One-Bedroom Apartment A,Numa YAYS Amsterdam Salthouse Canal by Numa - yays-amsterdam-salthouse-canal,0.4,9.0,4
+Family,Comfort One-Bedroom Apartment B,Numa YAYS Amsterdam Salthouse Canal by Numa - yays-amsterdam-salthouse-canal,0.10555555555555554,8.555555555555555,9
+Family,Comfort Suite,Numa Bloc - numa-l-bloc-apartments,0.6555032630252956,7.461538461538462,13
+Family,Comfort Two-Bedroom Apartment (4 Adults),Numa YAYS Amsterdam Prince Island by Numa - amsterdam-prince-island-by-yays,0.686116030050613,8.073170731707316,41
+Family,Comfort Two-Bedroom Apartment with Shared Terrace (4 Adults + 2 Children),Numa YAYS Amsterdam Prince Island by Numa - amsterdam-prince-island-by-yays,0.6451906607897199,8.0625,32
+Family,Comfort Two-Bedroom Family (4 Adults + 2 Children),Numa YAYS Amsterdam Prince Island by Numa - amsterdam-prince-island-by-yays,0.5667224129735876,8.285714285714286,42
+Family,"Connecting rooms - Two Bedrooms, One Bathroom",Numa Portico - numa-i-portico-rooms,1.1591481379628992,7.878787878787879,33
+Family,Deluxe Apartment,Numa Jondo - sevilla-luxury-rentals-horno-santa-cruz,0.4932245179063361,8.727272727272727,11
+Family,Deluxe Apartment,Numa Molina - sevilla-luxury-rentals-catedral-sevilla,0.6947660369933099,8.909090909090908,11
+Family,Deluxe Apartment,Numa Solea - numa-l-solea-rooms-amp-apartments,0.13333333333333333,9.0,4
+Family,Deluxe Apartment,Numa Verso - numa-i-verso-apartments,0.26580813013292237,9.105263157894736,19
+Family,Deluxe Double Room,Numa Kudamm - about-berlin-hotel,,8.0,1
+Family,Deluxe Double Room,Numa Lief - numa-l-lief,0.7569812187138492,8.233333333333333,60
+Family,Deluxe Double Room with Bath,Numa Root - antik-city-prague,0.41177069725146653,8.692307692307692,13
+Family,Deluxe Room,Numa Potsdamer Platz - precise-tale-berlin,0.8167579419142483,7.541666666666667,24
+Family,Deluxe Studio,Numa Bloc - numa-l-bloc-apartments,0.12380952380952381,9.571428571428571,7
+Family,Deluxe Studio,Numa Camperio - camperio-house-suites-apartments,1.8651566390591647,8.307692307692308,13
+Family,Deluxe Studio,Numa Jondo - sevilla-luxury-rentals-horno-santa-cruz,1.2666666666666668,8.666666666666666,3
+Family,Deluxe Studio,Numa Libusa - sunrise,0.04,9.2,5
+Family,Deluxe Studio,Numa Molina - sevilla-luxury-rentals-catedral-sevilla,0.15000000000000002,9.5,2
+Family,Deluxe Suite,Numa Camperio - camperio-house-suites-apartments,2.3320320505549863,7.2272727272727275,22
+Family,Deluxe Suite,Numa Libusa - sunrise,0.09826058201058202,9.222222222222221,9
+Family,Deluxe Suite,Numa Molina - sevilla-luxury-rentals-catedral-sevilla,0.4285763100535829,9.166666666666666,12
+Family,Deluxe Suite,Numa Nørrebro - numa-i-drejervej,0.25948744830037757,7.5,2
+Family,Deluxe Suite,Numa Poise - numa-i-poise-rooms-and-apartments,0.37613818348204076,8.98936170212766,94
+Family,Deluxe Suite,Numa Republika - republika-amp-suites,0.8508333333333334,8.75,4
+Family,Deluxe Suite,Numa Root - antik-city-prague,0.2571428571428572,8.571428571428571,7
+Family,Deluxe Suite,Numa Solea - numa-l-solea-rooms-amp-apartments,0.4255411255411255,8.681818181818182,22
+Family,Deluxe Suite with bath tub,Numa Libusa - sunrise,1.670802382441726,8.142857142857142,7
+Family,Deluxe Three-Bedroom Apartment,Numa Palazzo Belfiore - palazzo-belfiore,0.24,9.0,6
+Family,Double Room,Numa Bloomsbury - bedfordcornerhotel,0.08611819727891157,8.875,8
+Family,Double Room,Numa Brio - hcristina,0.08333333333333333,9.5,4
+Family,Double Room,Numa Camperio - camperio-house-suites-apartments,2.888405097608315,7.083333333333333,12
+Family,Double Room,Numa Flow - fashion-dancing,0.07300000000000002,9.6,5
+Family,Double Room,Numa Lief - numa-l-lief,0.49709606617357716,8.425531914893616,47
+Family,Double Room,Numa Poise - numa-i-poise-rooms-and-apartments,0.12326179124380318,8.96875,32
+Family,Double Room,Numa Root - antik-city-prague,0.7088888888888889,8.7,10
+Family,Double Room - Disability Access,Numa Lief - numa-l-lief,0.11983396786632208,8.333333333333334,3
+Family,Double Room with Balcony,Numa Brio - hcristina,,10.0,1
+Family,Double Room with Balcony,Numa Flow - fashion-dancing,0.1635,9.2,5
+Family,Double Room with Balcony,Numa Poise - numa-i-poise-rooms-and-apartments,0.2933333333333334,8.666666666666666,6
+Family,Double Room with City View,Numa Script - la-pepa-chic-bed,3.1157290306482914,7.6,5
+Family,Duplex,Numa Bloc - numa-l-bloc-apartments,0.4120665552396321,8.76923076923077,13
+Family,Duplex Apartment,Numa Jondo - sevilla-luxury-rentals-horno-santa-cruz,1.1911178669815035,8.454545454545455,11
+Family,Duplex Apartment,Numa Molina - sevilla-luxury-rentals-catedral-sevilla,0.6746361851524387,8.38888888888889,18
+Family,Duplex Apartment,Numa YAYS Amsterdam Maritime by Numa - yays-amsterdam-maritime,0.5056803914890919,8.214285714285714,14
+Family,Duplex Studio,Numa YAYS Amsterdam Maritime by Numa - yays-amsterdam-maritime,0.8405867979893414,7.982758620689655,58
+Family,Duplex Studio (2 adults + 2 children),Numa YAYS Amsterdam Maritime by Numa - yays-amsterdam-maritime,1.2459800343461291,7.55,40
+Family,Duplex Suite,Numa YAYS Amsterdam Maritime by Numa - yays-amsterdam-maritime,1.3895587013936894,7.5,16
+Family,East Apartment,Numa Potsdamer Platz - precise-tale-berlin,0.2885112962086646,9.0,19
+Family,Excelsior Suite,Numa Potsdamer Platz - precise-tale-berlin,0.4930124867887103,8.395604395604396,91
+Family,Extra Large 1 Bedroom Apartment with 2 Sofa Beds,Numa Sonate - townhouse-tessa-by-heymcollections,1.2603633859810741,6.846153846153846,13
+Family,Extra Large 1 Bedroom Apartment with 2 Sofa Beds - no AC,Numa Terra - numa-i-terra-apartments,0.04945054945054945,9.642857142857142,14
+Family,Extra Large 1 Bedroom Apartment with Sofa Bed,Numa Docklands - yays-amsterdam-docklands,0.15000000000000002,8.5,2
+Family,Extra Large 1 Bedroom Apartment with Terrace,Numa Strauss - sunrise-apartments,0.13333333333333333,9.0,4
+Family,Extra Large 1 Bedroom Apartment with Terrace and Sofa Bed,Numa Sempione - numa-milan-sempione,0.15000000000000002,8.5,2
+Family,Extra Large 1 Bedroom Apartment with Terrace and Sofa Bed - Duplex,Numa Vita - m7-contemporary-apartments-my-extra-home,2.3733313072751208,7.875,8
+Family,Extra Large 2 Bedroom Apartment with AC and Terrace,Numa Terra - numa-i-terra-apartments,0.9503877947449377,9.0,15
+Family,Extra Large 2 Bedroom Apartment with Balcony and Sofa Bed,Numa Loreto - loreto-rooms-amp-apartments,0.4345436261891135,8.78048780487805,41
+Family,Extra Large 2 Bedroom Apartment with Sofa Bed,Numa Docklands - yays-amsterdam-docklands,0.08,9.5,4
+Family,Extra Large 2 Bedroom Apartment with Sofa Bed,Numa Topp - frogner-house-apartments-skovveien-15,0.11428571428571431,9.285714285714286,7
+Family,Extra Large 2 Bedroom Apartment with Terrace,Numa Strauss - sunrise-apartments,,8.0,1
+Family,Extra Large 3 Bedroom Apartment,Numa Nora - townhouse-nora-salzburg,0.1688888888888889,8.8,10
+Family,Extra Large 3 Bedroom Apartment with Sofa Bed and Terrace,Numa Flute - villa-riedenburg-boutique-apartments,0.38303030303030294,9.071428571428571,14
+Family,Extra Large Room with Balcony,Numa Kudamm - about-berlin-hotel,1.4492524784160559,8.3,10
+Family,Extra Large Room with Bathtub and Separate Living Area with Sofa Bed,Numa Mozart - tophotelmozart,0.3105321633500967,8.416666666666666,12
+Family,Extra Large Room with Sofa Bed,Numa Sketch - sketch-rooms-amp-apartments,2.2275303797483437,6.0,3
+Family,Extra Large Room with Sofa Bed and Separate Living Area,Numa Vogelweider - numa-salzburg-vogelweider,0.6472370766488414,9.029411764705882,34
+Family,Extra Large Studio Sofa Bed and Shared Terrace,Numa Bloomsbury - bedfordcornerhotel,0.9928207816337109,7.5,4
+Family,Extra Large Studio with Kitchen,Numa Nook - frederics-serviced-apartment,5.415807595401099,6.666666666666667,3
+Family,Extra Large Studio with Kitchen,Numa Viktoria - joyn-munich-olympic-munchen,1.0695392988991381,7.933333333333334,90
+Family,Extra Large Studio with Kitchen - Twin Beds,Numa Viktoria - joyn-munich-olympic-munchen,0.34629898403483317,8.81132075471698,53
+Family,Extra Large Studio with Kitchen and 2 Sofa Beds - Duplex,Numa Craft - numa-i-craft-rooms-amp-apartments,0.1,9.5,2
+Family,Extra Large Studio with Kitchen and Balcony,Numa Nook - frederics-serviced-apartment,0.2733333333333334,8.833333333333334,6
+Family,Extra Large Studio with Kitchen and Separate Living Area,Numa Viktoria - joyn-munich-olympic-munchen,0.18983453583453586,9.0,10
+Family,Extra Large Studio with Kitchen and Sofa Bed,Numa Loreto - loreto-rooms-amp-apartments,0.3720588235294118,8.647058823529411,17
+Family,Extra Large Studio with Kitchen and Sofa Bed,Numa Nook - frederics-serviced-apartment,0.15934065934065939,8.785714285714286,14
+Family,Extra Large Studio with Kitchen and Sofa Bed - no AC,Numa Terra - numa-i-terra-apartments,0.4587978142076502,8.934426229508198,61
+Family,Extra Large Studio with Kitchen and Terrace,Numa Vita - m7-contemporary-apartments-my-extra-home,0.5,9.0,2
+Family,"Extra Large Studio with Kitchen, Sofa Bed and AC",Numa Terra - numa-i-terra-apartments,0.3333333333333334,8.666666666666666,3
+Family,"Extra Large Studio with Kitchen, Terrace and AC",Numa Terra - numa-i-terra-apartments,0.2564625850340136,9.285714285714286,7
+Family,Extra Large Studio with Kitchenette,Numa Arc - numa-i-arc-rooms-amp-apartments,1.2009247375034944,7.75,4
+Family,Extra Large Studio with Kitchenette,Numa Obersendling - numa-munich-obersendling,0.23111111111111116,8.6,10
+Family,Extra Large Studio with Kitchenette,Numa Rato - numa-i-voga-rooms-amp-apartments,0.0,10.0,5
+Family,Extra Large Studio with Kitchenette,Numa Saga - numa-l-saga-apartments,0.15000000000000002,9.25,12
+Family,Extra Large Studio with Kitchenette and Balcony,Numa Kudamm - about-berlin-hotel,0.3215655263884477,9.0,21
+Family,Extra Large Studio with Kitchenette and Bathtub,Numa Bona - auerberg-galerie,0.2,9.0,3
+Family,Extra Large Studio with Kitchenette and Sofa Bed,Numa Artol - excelsiordusseldorf,0.868095844501985,7.235294117647059,17
+Family,Extra Large Studio with Kitchenette and Sofa Bed,Numa Blend - numa-i-blend-apartments,0.8185925364950624,8.307692307692308,26
+Family,Extra Large Studio with Kitchenette and Sofa Bed,Numa Fore - my4walls-serviced-apartments-hamburg,0.6570678875503353,7.945652173913044,92
+Family,Extra Large Studio with Kitchenette and Sofa Bed,Numa Hallen - oslo-apartments-dronningensgate-15,0.12409382774860092,9.0,24
+Family,Extra Large Studio with Kitchenette and Sofa Bed,Numa Palazzo Orseolo - palazzo-orseolo,1.327475552229102,8.384615384615385,13
+Family,Extra Large Studio with Kitchenette and Sofa Bed,Numa Saga - numa-l-saga-apartments,0.30729166666666674,8.868217054263566,129
+Family,Extra Large Studio with Kitchenette and Sofa Bed - Accessible,Numa Fore - my4walls-serviced-apartments-hamburg,1.2292894499085663,7.4222222222222225,45
+Family,Extra Large Studio with Kitchenette and Sofa Bed - Duplex,Numa Munico - munico,0.3666480682764593,8.352941176470589,17
+Family,"Extra Large Studio with Kitchenette, Balcony and Sofa Bed",Numa Boxer - almodovarhotel-berlin-biohotel,0.22820512820512817,9.153846153846153,13
+Family,"Extra Large Studio with Kitchenette, Balcony and Sofa Bed",Numa Drift - gaijin,0.2091666666666667,9.25,4
+Family,"Extra Large Studio with Kitchenette, Balcony and Sofa Bed",Numa Leo - numa-i-leo-apartments,0.11071428571428572,9.375,8
+Family,"Extra Large Studio with Kitchenette, Balcony and Sofa Bed",Numa Novela - numa-i-novela-rooms-amp-apartments,0.21333333333333337,9.333333333333334,6
+Family,"Extra Large Studio with Kitchenette, Balcony and Sofa Bed",Numa Sempione - numa-milan-sempione,1.8812004191651428,2.0,2
+Family,"Extra Large Studio with Kitchenette, Terrace and Sofa Bed",Numa Belfort - belfort-berlin,,9.0,1
+Family,Family Suite,Numa Camperio - camperio-house-suites-apartments,0.4505518859646572,8.764705882352942,34
+Family,Family Suite,Numa Solea - numa-l-solea-rooms-amp-apartments,1.018396176331838,8.5625,16
+Family,Family Suite,Numa YAYS Amsterdam Maritime by Numa - yays-amsterdam-maritime,0.5004323568745769,7.285714285714286,7
+Family,Family Two-Bedroom Apartment,Numa YAYS Amsterdam Salthouse Canal by Numa - yays-amsterdam-salthouse-canal,1.543279536560811,7.0,4
+Family,Family Two-Bedroom Apartment Canal Side,Numa YAYS Amsterdam Salthouse Canal by Numa - yays-amsterdam-salthouse-canal,1.7962458659524643,7.4,5
+Family,Four-Bedroom Apartment (5 Adults),Numa Caja - gaderin,0.5278486394557823,8.5,8
+Family,Grand Apartment,Numa Potsdamer Platz - precise-tale-berlin,0.3357823129251702,8.571428571428571,7
+Family,Imperial Suite,Numa Potsdamer Platz - precise-tale-berlin,0.6260895065269066,8.190909090909091,110
+Family,Junior Suite,Numa Flow - fashion-dancing,0.04761904761904764,9.714285714285714,7
+Family,Junior Suite,Numa Libusa - sunrise,0.18333333333333335,9.25,4
+Family,Junior Suite,Numa Potsdamer Platz - precise-tale-berlin,0.2247942853266396,8.333333333333334,9
+Family,Large 1 Bedroom Apartment,Numa YAYS The Hague Willemspark by Numa - yays-the-hague-willemspark,0.4599258716518148,8.49056603773585,53
+Family,Large 1 Bedroom Apartment with Balcony,Numa Strauss - sunrise-apartments,0.364711203165338,8.428571428571429,14
+Family,Large 1 Bedroom Apartment with Balcony and Sofa Bed,Numa Loreto - loreto-rooms-amp-apartments,0.2926218653141731,8.928571428571429,14
+Family,Large 1 Bedroom Apartment with Shared Terrace and Sofa Bed,Numa Vita - m7-contemporary-apartments-my-extra-home,0.9116784712505343,8.68421052631579,19
+Family,Large 1 Bedroom Apartment with Sofa Bed,Numa Docklands - yays-amsterdam-docklands,0.5932658017526155,8.941176470588236,34
+Family,Large 1 Bedroom Apartment with Sofa Bed,Numa Kater - berlin-eastside-apartments,0.4449659863945579,8.714285714285714,7
+Family,Large 1 Bedroom Apartment with Sofa Bed,Numa Sonate - townhouse-tessa-by-heymcollections,2.734309281776165,4.666666666666667,3
+Family,Large 1 Bedroom Apartment with Sofa Bed,Numa Vita - m7-contemporary-apartments-my-extra-home,0.22563941721548245,9.142857142857142,49
+Family,Large 1 Bedroom Apartment with Sofa Bed,Numa YAYS Paris Issy by Numa - yays-paris-issy,0.7171326492430612,8.25,4
+Family,Large 1 Bedroom Apartment with Sofa Bed - Accessible,Numa Docklands - yays-amsterdam-docklands,0.1956785247357712,8.2,5
+Family,Large 1 Bedroom Apartment with Sofa Bed - Duplex,Numa Fiore - le-fiorentine-boutique-apartments,0.44999999999999984,9.083333333333334,12
+Family,Large 1 Bedroom Apartment with Sofa Bed - Duplex,Numa Topp - frogner-house-apartments-skovveien-15,0.6411912712746392,8.181818181818182,11
+Family,Large 1 Bedroom Apartment with Sofa Bed - no AC,Numa Terra - numa-i-terra-apartments,0.12098214285714287,9.328125,64
+Family,Large 1 Bedroom Apartment with Sofa Bed and AC,Numa Terra - numa-i-terra-apartments,0.1238095238095238,9.571428571428571,7
+Family,Large 1 Bedroom Apartment with Terrace and Sofa Bed,Numa Drift - gaijin,0.25600000000000006,9.2,5
+Family,Large 1 Bedroom Apartment with Terrace and Sofa Bed,Numa Sempione - numa-milan-sempione,0.2041666666666667,9.25,4
+Family,Large 1 Bedroom Apartment with Terrace and Sofa Bed - no AC,Numa Terra - numa-i-terra-apartments,0.2100632911392405,9.25,80
+Family,"Large 1 Bedroom Apartment with Terrace, Sofa Bed and AC",Numa Terra - numa-i-terra-apartments,0.07177358280845807,9.666666666666666,18
+Family,"Large 1 Bedroom Apartment, Sofa Bed and Bathtub",Numa Vici - dolce-vita-residence,1.2501575258572026,7.7894736842105265,19
+Family,Large 1 Bedroom Duplex with Sofa Bed & 2 Single Beds,Numa Palazzo Belfiore - palazzo-belfiore,0.48657612504588954,8.222222222222221,9
+Family,Large 2 Bedroom Apartment,Numa Flute - villa-riedenburg-boutique-apartments,0.42595125177340337,8.363636363636363,11
+Family,Large 2 Bedroom Apartment,Numa Vici - dolce-vita-residence,0.6827290306482909,7.6,5
+Family,Large 2 Bedroom Apartment - Duplex,Numa Vita - m7-contemporary-apartments-my-extra-home,0.24339285714285713,9.0,8
+Family,Large 2 Bedroom Apartment with Balcony and 2 Sofa Beds,Numa Flute - villa-riedenburg-boutique-apartments,1.6883717599665244,8.222222222222221,9
+Family,Large 2 Bedroom Apartment with Balcony and Sofa Bed,Numa Loreto - loreto-rooms-amp-apartments,0.5579189072197176,8.694444444444445,36
+Family,Large 2 Bedroom Apartment with Sofa Bed,Numa Kater - berlin-eastside-apartments,0.15689822213647536,7.9,10
+Family,Large 2 Bedroom Apartment with Sofa Bed,Numa Vita - m7-contemporary-apartments-my-extra-home,1.0256007477371112,8.545454545454545,11
+Family,Large 2 Bedroom Apartment with Sofa Bed,Numa YAYS Paris Issy by Numa - yays-paris-issy,0.05714285714285714,8.5,8
+Family,Large 2 Bedroom Apartment with Sofa Bed - Duplex,Numa Palazzo Belfiore - palazzo-belfiore,0.05,9.75,4
+Family,Large 2 Bedroom Apartment with Sofa Bed - Duplex,Numa Saga - numa-l-saga-apartments,0.08354978354978358,9.318181818181818,22
+Family,"Large 2 Bedroom Apartment,Terrace and Sofa Bed - Duplex",Numa Palazzo Belfiore - palazzo-belfiore,0.3410000000000001,9.2,5
+Family,Large 3 Bedroom Apartment with Sofa Bed,Numa Kater - berlin-eastside-apartments,0.7382458659524641,7.4,5
+Family,Large Double Room,Numa Kudamm - about-berlin-hotel,0.3009247375034943,7.75,4
+Family,Large One-Bedroom Apartment Canal View,Numa YAYS Amsterdam Salthouse Canal by Numa - yays-amsterdam-salthouse-canal,1.5767963718649844,6.8,5
+Family,Large Room,Numa Felice - numa-i-felice-rooms-amp-apartments,0.5343879205567124,8.65,20
+Family,Large Room,Numa Ivy - villa-ivy-by-heymcollections,,8.0,1
+Family,Large Room,Numa Mozart - tophotelmozart,0.41379059813518243,8.0,7
+Family,Large Room,Numa Obersendling - numa-munich-obersendling,1.0266128698941441,7.0,3
+Family,Large Room,Numa Vici - dolce-vita-residence,2.633738291487911,6.5,4
+Family,Large Room - Accessible,Numa Arc - numa-i-arc-rooms-amp-apartments,0.48650063453298886,8.333333333333334,3
+Family,Large Room - Accessible,Numa Boxer - almodovarhotel-berlin-biohotel,0.16649999999999998,8.8,5
+Family,Large Room - Accessible,Numa Savi - stilwerk-kantgaragen-berlin63,0.25999999999999995,8.6,5
+Family,Large Room with Balcony,Numa Kudamm - about-berlin-hotel,0.09523809523809523,9.142857142857142,7
+Family,Large Room with Balcony,Numa Mozart - tophotelmozart,0.18333333333333335,9.25,4
+Family,Large Room with Bathtub,Numa Ivy - villa-ivy-by-heymcollections,4.510863713081677,6.0,2
+Family,Large Room with Extra Bed,Numa Torstraße - alte-schonhauser-str-2-10119-berlin,0.0,9.0,2
+Family,Large Room with Extra Single Bed,Numa Barberini - capriceroma,0.36899291617473445,8.727272727272727,11
+Family,Large Room with Extra Single Bed,Numa Linea - capitol-roma,0.7670345753031719,8.166666666666666,30
+Family,Large Room with Portable AC and Extra Single Bed,Numa Barberini - capriceroma,0.11983396786632208,8.333333333333334,3
+Family,Large Room with Sofa Bed,Numa Sketch - sketch-rooms-amp-apartments,1.530745865952464,7.4,5
+Family,Large Room with Terrace,Numa Wood - the-wood,1.6355501590972608,7.25,4
+Family,Large Studio with Kitchen,Numa Craft - numa-i-craft-rooms-amp-apartments,0.4,9.0,2
+Family,Large Studio with Kitchen,Numa Nook - frederics-serviced-apartment,0.8987722831168675,8.0,13
+Family,Large Studio with Kitchen,Numa Stark - joyn-munich-rose,0.3,9.0,4
+Family,Large Studio with Kitchen,Numa Topp - frogner-house-apartments-skovveien-15,0.20512700389309477,8.631578947368421,19
+Family,Large Studio with Kitchen,Numa YAYS Paris Issy by Numa - yays-paris-issy,0.985996853654028,8.11111111111111,9
+Family,Large Studio with Kitchen - Accessible,Numa Sol - numa-madrid-sol-apartments,,8.0,1
+Family,Large Studio with Kitchen and Sofa Bed,Numa Kater - berlin-eastside-apartments,0.0,9.0,2
+Family,Large Studio with Kitchen and Sofa Bed,Numa Nora - townhouse-nora-salzburg,0.9,8.5,2
+Family,Large Studio with Kitchen and Sofa Bed,Numa Palazzo Moro - palazzo-del-moro-firenze,0.7222114351119037,8.48,25
+Family,"Large Studio with Kitchen, Balcony and Sofa Bed",Numa Nora - townhouse-nora-salzburg,0.18333333333333335,8.75,4
+Family,"Large Studio with Kitchen, Terrace and Sofa Bed",Numa Flute - villa-riedenburg-boutique-apartments,0.7091456163340856,8.166666666666666,6
+Family,Large Studio with Kitchenette,Numa Arc - numa-i-arc-rooms-amp-apartments,0.7965590991232696,8.244897959183673,49
+Family,Large Studio with Kitchenette,Numa Artol - excelsiordusseldorf,0.9336462546852381,8.25,8
+Family,Large Studio with Kitchenette,Numa Blau - star-apart-hauptbahnhof,0.26666666666666666,9.0,4
+Family,Large Studio with Kitchenette,Numa Blend - numa-i-blend-apartments,0.5623579515722372,8.666666666666666,15
+Family,Large Studio with Kitchenette,Numa Bona - auerberg-galerie,0.06866168943159773,8.4,5
+Family,Large Studio with Kitchenette,Numa Boxer - almodovarhotel-berlin-biohotel,0.07569536003994434,8.0,2
+Family,Large Studio with Kitchenette,Numa Drift - gaijin,0.2,9.0,3
+Family,Large Studio with Kitchenette,Numa Fore - my4walls-serviced-apartments-hamburg,0.39724961321428676,8.44927536231884,69
+Family,Large Studio with Kitchenette,Numa Hallen - oslo-apartments-dronningensgate-15,0.23516483516483522,8.571428571428571,14
+Family,Large Studio with Kitchenette,Numa Munico - munico,0.13374139749139752,9.083333333333334,12
+Family,Large Studio with Kitchenette,Numa Obersendling - numa-munich-obersendling,,8.0,1
+Family,Large Studio with Kitchenette,Numa Saga - numa-l-saga-apartments,0.07533333333333335,9.28,25
+Family,Large Studio with Kitchenette,Numa Turi - numa-i-turi-apartments-zurich,0.2,9.0,3
+Family,Large Studio with Kitchenette,Numa Viktoria - joyn-munich-olympic-munchen,1.1624346257775868,8.2,15
+Family,Large Studio with Kitchenette - Accessible,Numa Blend - numa-i-blend-apartments,0.06666666666666667,9.5,4
+Family,Large Studio with Kitchenette - Twin Beds,Numa Bona - auerberg-galerie,1.183510549604774,7.555555555555555,9
+Family,Large Studio with Kitchenette and Balcony,Numa Artol - excelsiordusseldorf,3.655919830762255,5.333333333333333,3
+Family,Large Studio with Kitchenette and Balcony,Numa Belfort - belfort-berlin,,9.0,1
+Family,Large Studio with Kitchenette and Balcony,Numa Blau - star-apart-hauptbahnhof,1.0778973836900239,5.6,5
+Family,Large Studio with Kitchenette and Balcony,Numa Boxer - almodovarhotel-berlin-biohotel,0.5,9.0,2
+Family,Large Studio with Kitchenette and Balcony,Numa Munico - munico,0.31695906432748533,8.578947368421053,19
+Family,Large Studio with Kitchenette and Balcony,Numa Novela - numa-i-novela-rooms-amp-apartments,0.21333333333333337,9.333333333333334,6
+Family,Large Studio with Kitchenette and Balcony,Numa Vici - dolce-vita-residence,0.15000000000000002,8.5,2
+Family,Large Studio with Kitchenette and Extra Bed,Numa Torstraße - alte-schonhauser-str-2-10119-berlin,0.2928226412820066,8.523809523809524,21
+Family,Large Studio with Kitchenette and Sofa Bed,Numa Belfort - belfort-berlin,0.8775456487839021,7.9,10
+Family,Large Studio with Kitchenette and Sofa Bed,Numa Drift - gaijin,0.39152165864494626,8.716216216216216,74
+Family,Large Studio with Kitchenette and Sofa Bed,Numa Fore - my4walls-serviced-apartments-hamburg,0.8719457578518128,7.732673267326732,202
+Family,Large Studio with Kitchenette and Sofa Bed,Numa Novela - numa-i-novela-rooms-amp-apartments,0.5538405579056211,8.701149425287356,87
+Family,Large Studio with Kitchenette and Sofa Bed,Numa Rodo - rodo-hotel-fashion-delight,2.235770183614048,7.111111111111111,9
+Family,Large Studio with Kitchenette and Sofa Bed,Numa Sketch - sketch-rooms-amp-apartments,0.17777777777777778,9.0,10
+Family,Large Studio with Kitchenette and Terrace - Accessible,Numa Wood - the-wood,,10.0,1
+Family,"Large Studio with Kitchenette, Balcony and Sofa Bed",Numa Belfort - belfort-berlin,0.19767557229095686,8.846153846153847,13
+Family,"Large Studio with Kitchenette, Balcony and Sofa Bed",Numa Drift - gaijin,0.5194121421146279,8.741935483870968,31
+Family,"Large Studio with Kitchenette, Balcony and Sofa Bed",Numa Leo - numa-i-leo-apartments,0.3119509703779367,9.089887640449438,89
+Family,"Large Studio with Kitchenette, Balcony and Sofa Bed",Numa Novela - numa-i-novela-rooms-amp-apartments,0.2227692307692308,8.923076923076923,26
+Family,Large Two-Bedroom Apartment,Numa Oosterpark - eastern-park-apartment-suites,1.493973895933279,6.428571428571429,7
+Family,Large Two-Bedroom Apartment,Numa YAYS Amsterdam North by Numa - ndsm-serviced-apartments,0.1977777777777778,9.1,10
+Family,Luxe Apartment,Numa Potsdamer Platz - precise-tale-berlin,0.5452017340146633,7.5,8
+Family,Maisonette,Numa Camperio - camperio-house-suites-apartments,0.493475690975691,9.0,14
+Family,Maisonette,Numa Jondo - sevilla-luxury-rentals-horno-santa-cruz,0.09454545454545454,9.545454545454545,11
+Family,Maisonette,Numa Nørrebro - numa-i-drejervej,0.5503089237031712,8.705882352941176,17
+Family,Maisonette,Numa Prestigio - numa-i-prestigio-apartments,0.24489795918367346,9.142857142857142,7
+Family,Maisonette,Numa Republika - republika-amp-suites,0.8960544217687074,8.857142857142858,7
+Family,Maisonette,Numa YAYS Amsterdam Maritime by Numa - yays-amsterdam-maritime,2.7083132071691574,6.6,5
+Family,Medium Double Room,Numa Kudamm - about-berlin-hotel,2.4108637130816772,6.0,2
+Family,Medium Room,Numa Arc - numa-i-arc-rooms-amp-apartments,0.9716256149931529,8.447368421052632,38
+Family,Medium Room,Numa Barberini - capriceroma,4.043279536560811,7.0,2
+Family,Medium Room,Numa Belfort - belfort-berlin,0.5756953600399444,8.0,2
+Family,Medium Room,Numa Bloomsbury - bedfordcornerhotel,0.5395118580691045,8.2,25
+Family,Medium Room,Numa Boxer - almodovarhotel-berlin-biohotel,1.9565748904189348,7.333333333333333,9
+Family,Medium Room,Numa Champs-Élysées - numa-paris-champs-elysees,8.79465580134211,5.5,2
+Family,Medium Room,Numa Drift - gaijin,0.6910769230769231,8.538461538461538,26
+Family,Medium Room,Numa Ivy - villa-ivy-by-heymcollections,1.7158060709877774,7.533333333333333,15
+Family,Medium Room,Numa Kudamm - about-berlin-hotel,0.29122904051204573,8.952380952380953,21
+Family,Medium Room,Numa Linea - capitol-roma,0.8601027708238992,7.963636363636364,55
+Family,Medium Room,Numa Maximilian - the-maximilian-by-heymcollections,0.3414965986394558,8.5,8
+Family,Medium Room,Numa Mozart - tophotelmozart,0.61540096797666,8.764705882352942,17
+Family,Medium Room,Numa Nook - frederics-serviced-apartment,0.22222222222222224,8.88888888888889,9
+Family,Medium Room,Numa Potsdamer Platz - precise-tale-berlin,0.9711715505161349,8.0,7
+Family,Medium Room,Numa Savi - stilwerk-kantgaragen-berlin63,0.5757633010500234,8.214285714285714,28
+Family,Medium Room,Numa Sketch - sketch-rooms-amp-apartments,1.1620096945073195,7.545454545454546,11
+Family,Medium Room,Numa Torstraße - alte-schonhauser-str-2-10119-berlin,0.0,9.0,4
+Family,Medium Room,Numa Vogelweider - numa-salzburg-vogelweider,0.21178821178821178,9.076923076923077,78
+Family,Medium Room - Accessible,Numa Champs-Élysées - numa-paris-champs-elysees,,10.0,1
+Family,Medium Room - Accessible,Numa Tullo - numa-i-tullo-rooms,0.25948744830037757,7.5,2
+Family,Medium Room - Accessible,Numa Vogelweider - numa-salzburg-vogelweider,0.2091666666666667,9.25,4
+Family,Medium Room - Canal View,Numa Palazzo Orseolo - palazzo-orseolo,0.4,9.0,4
+Family,Medium Room - Loft,Numa Boxer - almodovarhotel-berlin-biohotel,1.1125303797483437,6.0,4
+Family,Medium Room - Single Bed,Numa Stark - joyn-munich-rose,0.20583333333333334,9.25,4
+Family,Medium Room - Twin Bed,Numa Vogelweider - numa-salzburg-vogelweider,0.5309090909090908,8.454545454545455,11
+Family,Medium Room - Twin Beds,Numa Arc - numa-i-arc-rooms-amp-apartments,0.47587831478548925,8.11111111111111,27
+Family,Medium Room with Balcony,Numa Drift - gaijin,0.25598246838631455,8.461538461538462,13
+Family,Medium Room with Balcony,Numa Ivy - villa-ivy-by-heymcollections,1.1038176736179623,8.428571428571429,14
+Family,Medium Room with Balcony,Numa Kudamm - about-berlin-hotel,0.4846666666666668,8.52,25
+Family,Medium Room with Balcony,Numa Maximilian - the-maximilian-by-heymcollections,3.109487448300378,7.5,2
+Family,Medium Room with Balcony,Numa Novela - numa-i-novela-rooms-amp-apartments,0.16109799728646673,8.166666666666666,6
+Family,Medium Room with Balcony,Numa Savi - stilwerk-kantgaragen-berlin63,0.3198339678663222,8.333333333333334,3
+Family,Medium Room with Balcony,Numa Torstraße - alte-schonhauser-str-2-10119-berlin,,8.0,1
+Family,Medium Room with Extra Single Bed,Numa Linea - capitol-roma,0.9000469486752564,8.096153846153847,52
+Family,Medium Room with Extra Single Bed,Numa Tullo - numa-i-tullo-rooms,0.3112581065103374,8.555555555555555,18
+Family,Medium Room with Sofa Bed,Numa Rodo - rodo-hotel-fashion-delight,2.1530986505469727,7.75,24
+Family,Medium Room with Terrace,Numa Barberini - capriceroma,0.07569536003994434,8.0,3
+Family,Medium Room with Terrace and Extra Single Bed,Numa Tullo - numa-i-tullo-rooms,1.118050159097261,7.25,4
+Family,Medium Studio with Kitchen,Numa Docklands - yays-amsterdam-docklands,0.05714285714285714,9.428571428571429,7
+Family,Medium Studio with Kitchen,Numa Kater - berlin-eastside-apartments,0.25,9.0,3
+Family,Medium Studio with Kitchen,Numa YAYS Paris Issy by Numa - yays-paris-issy,0.8298701298701299,8.590909090909092,22
+Family,Medium Studio with Kitchen,Numa YAYS Paris Zola by Numa - eiffel-village-apartments-paris-centre,0.5157227891156463,8.5,8
+Family,Medium Studio with Kitchen - Single Bed,Numa Stark - joyn-munich-rose,,9.0,1
+Family,Medium Studio with Kitchen and Balcony,Numa Craft - numa-i-craft-rooms-amp-apartments,0.2377377016922471,8.818181818181818,11
+Family,Medium Studio with Kitchen and Balcony,Numa Stark - joyn-munich-rose,,9.0,1
+Family,Medium Studio with Kitchen and Balcony,Numa YAYS Paris Zola by Numa - eiffel-village-apartments-paris-centre,0.13333333333333333,9.0,4
+Family,Medium Studio with Kitchenette,Numa Arc - numa-i-arc-rooms-amp-apartments,1.0657822835725446,8.41025641025641,39
+Family,Medium Studio with Kitchenette,Numa Artol - excelsiordusseldorf,1.5568373406164544,4.333333333333333,3
+Family,Medium Studio with Kitchenette,Numa Blau - star-apart-hauptbahnhof,0.8859858594968839,7.76,25
+Family,Medium Studio with Kitchenette,Numa Blend - numa-i-blend-apartments,1.4887059100959492,8.0,12
+Family,Medium Studio with Kitchenette,Numa Bona - auerberg-galerie,0.13595238095238094,9.0,7
+Family,Medium Studio with Kitchenette,Numa Boxer - almodovarhotel-berlin-biohotel,0.330909090909091,8.545454545454545,11
+Family,Medium Studio with Kitchenette,Numa Champs-Élysées - numa-paris-champs-elysees,0.32509523809523816,8.5,6
+Family,Medium Studio with Kitchenette,Numa Hallen - oslo-apartments-dronningensgate-15,0.27843137254901956,9.11111111111111,18
+Family,Medium Studio with Kitchenette,Numa Novela - numa-i-novela-rooms-amp-apartments,0.12307692307692308,9.0,14
+Family,Medium Studio with Kitchenette,Numa Oben - star-gmbh,0.28217852473577126,8.2,5
+Family,Medium Studio with Kitchenette,Numa Saga - numa-l-saga-apartments,0.27573440643863173,8.816901408450704,71
+Family,Medium Studio with Kitchenette,Numa Savi - stilwerk-kantgaragen-berlin63,0.2,9.0,3
+Family,Medium Studio with Kitchenette,Numa Sketch - sketch-rooms-amp-apartments,0.7742717701968275,8.142857142857142,7
+Family,Medium Studio with Kitchenette,Numa Turi - numa-i-turi-apartments-zurich,1.1990369188830265,7.611111111111111,18
+Family,Medium Studio with Kitchenette,Numa Wood - the-wood,0.8388663967611337,8.564102564102564,39
+Family,Medium Studio with Kitchenette - Accessible,Numa Drift - gaijin,0.3256953600399443,8.0,3
+Family,Medium Studio with Kitchenette - Single Bed,Numa Blend - numa-i-blend-apartments,0.0,10.0,2
+Family,Medium Studio with Kitchenette - Single Bed,Numa Viktoria - joyn-munich-olympic-munchen,0.08379931590972775,8.25,4
+Family,Medium Studio with Kitchenette and Balcony,Numa Artol - excelsiordusseldorf,0.6270716248212439,6.5,2
+Family,Medium Studio with Kitchenette and Balcony,Numa Boxer - almodovarhotel-berlin-biohotel,0.5662322097019742,8.222222222222221,9
+Family,Medium Studio with Kitchenette and Balcony,Numa Champs-Élysées - numa-paris-champs-elysees,0.1711267006802721,9.375,8
+Family,Medium Studio with Kitchenette and Balcony,Numa Craft - numa-i-craft-rooms-amp-apartments,0.24676466395313343,8.166666666666666,6
+Family,Medium Studio with Kitchenette and Balcony,Numa Oben - star-gmbh,,8.0,1
+Family,Medium Studio with Kitchenette and Balcony,Numa Turi - numa-i-turi-apartments-zurich,,9.0,1
+Family,Medium Studio with Kitchenette and Workspace,Numa Oben - star-gmbh,0.3504659825763944,8.25,4
+Family,One Bedroom (4 Persons),Numa Docklands - yays-amsterdam-docklands,0.19050000000000006,8.6,5
+Family,One Bedroom (4 Persons),Numa YAYS Antwerp Opera by Numa - yays-antwerp-opera,0.5291355692017005,8.636986301369863,146
+Family,One-Bedroom (2 Persons),Numa YAYS Amsterdam Vondelpark by Numa - amsterdam-vondelpark-by-yays,,10.0,1
+Family,One-Bedroom (2 Persons),Numa YAYS Antwerp Opera by Numa - yays-antwerp-opera,0.14910289115646258,9.125,8
+Family,One-Bedroom (4 Persons),Numa YAYS The Hague Willemspark by Numa - yays-the-hague-willemspark,0.10867346938775509,8.857142857142858,7
+Family,One-Bedroom Apartment,Numa Alegre - alvarez-quintero-apartment,0.11983396786632208,8.333333333333334,3
+Family,One-Bedroom Apartment,Numa Caja - gaderin,0.16000000000000003,9.4,5
+Family,One-Bedroom Apartment,Numa Colmena - numa-i-colmena-apartments,0.13983962458441396,9.148936170212766,47
+Family,One-Bedroom Apartment,Numa Flow - fashion-dancing,0.907082053804873,8.777777777777779,18
+Family,One-Bedroom Apartment,Numa Lustre - friendly-rentals-mozart,,9.0,1
+Family,One-Bedroom Apartment,Numa Molina - sevilla-luxury-rentals-catedral-sevilla,1.650863713081677,6.0,5
+Family,One-Bedroom Apartment,Numa Oosterpark - eastern-park-apartment-suites,3.5648010022847942,6.25,4
+Family,One-Bedroom Apartment,Numa Solea - numa-l-solea-rooms-amp-apartments,0.06666666666666667,9.333333333333334,3
+Family,One-Bedroom Apartment,Numa Vega - urban-vida-granada-i,0.31666666666666665,8.75,4
+Family,One-Bedroom Apartment,Numa Verso - numa-i-verso-apartments,0.21459007513573744,9.238095238095237,42
+Family,One-Bedroom Apartment,Numa YAYS Amsterdam North by Numa - ndsm-serviced-apartments,0.6327163776441753,7.851851851851852,27
+Family,One-Bedroom Apartment,Numa YAYS Amsterdam Salthouse Canal by Numa - yays-amsterdam-salthouse-canal,0.7823620267066111,8.0,6
+Family,One-Bedroom Apartment,Numa YAYS The Hague Willemspark by Numa - yays-the-hague-willemspark,0.4531481481481482,8.604938271604938,81
+Family,One-Bedroom Apartment (4 Adults),Numa YAYS Amsterdam Vondelpark by Numa - amsterdam-vondelpark-by-yays,1.211777411902571,7.166666666666667,6
+Family,One-Bedroom Apartment (4 persons),Numa YAYS Amsterdam East by Numa - amsterdam-east-by-yays,0.8906954672265368,8.125,8
+Family,One-Bedroom Apartment (4 persons),Numa YAYS Paris Issy by Numa - yays-paris-issy,0.12637506937506943,9.2,15
+Family,One-Bedroom Apartment (6 Persons),Numa YAYS Amsterdam East by Numa - amsterdam-east-by-yays,0.569976715438386,7.875,16
+Family,One-Bedroom Apartment wheelchair accessible,Numa YAYS Amsterdam East by Numa - amsterdam-east-by-yays,0.2,9.0,3
+Family,One-Bedroom Apartment with Balcony,Numa YAYS The Hague Willemspark by Numa - yays-the-hague-willemspark,0.5670557594904829,8.277777777777779,18
+Family,One-Bedroom Apartment with View,Numa YAYS Amsterdam Salthouse Canal by Numa - yays-amsterdam-salthouse-canal,0.30626518526082136,8.625,32
+Family,One-Bedroom Comfort,Numa YAYS The Hague Willemspark by Numa - yays-the-hague-willemspark,,5.0,1
+Family,One-Bedroom Comfort (4 Persons),Numa YAYS Antwerp Opera by Numa - yays-antwerp-opera,0.5535551206784083,8.5578231292517,147
+Family,One-Bedroom Deluxe Apartment,Numa YAYS Amsterdam Salthouse Canal by Numa - yays-amsterdam-salthouse-canal,0.7046649408844273,8.076923076923077,91
+Family,One-bedroom Apartment Comfort (4 persons),Numa YAYS Paris Issy by Numa - yays-paris-issy,0.06666666666666667,9.333333333333334,3
+Family,Small Double Room,Numa Kudamm - about-berlin-hotel,,8.0,1
+Family,Small Double Room,Numa Roca - retrome-barcelona,0.16333333333333333,9.0,4
+Family,Small Double Room,Numa Script - la-pepa-chic-bed,2.255801688276828,6.7368421052631575,19
+Family,Small Room,Numa Bloomsbury - bedfordcornerhotel,0.25434976057862063,8.428571428571429,21
+Family,Small Room,Numa Champs-Élysées - numa-paris-champs-elysees,0.06083333333333334,9.75,4
+Family,Small Room,Numa Maximilian - the-maximilian-by-heymcollections,0.5140674603174603,8.666666666666666,9
+Family,Small Room,Numa Sketch - sketch-rooms-amp-apartments,1.4682627012566376,7.2,5
+Family,Small Room - Single Bed,Numa Barberini - capriceroma,,9.0,1
+Family,Small Room - Single Bed,Numa Bloomsbury - bedfordcornerhotel,0.2666666666666667,8.666666666666666,3
+Family,Small Room - Single Bed,Numa Rodo - rodo-hotel-fashion-delight,,3.0,1
+Family,Small Room with Terrace,Numa Portico - numa-i-portico-rooms,,8.0,1
+Family,Standard Apartment,Numa Alegre - alvarez-quintero-apartment,1.50133638568097,8.0,13
+Family,Standard Apartment,Numa Jondo - sevilla-luxury-rentals-horno-santa-cruz,0.09777777777777777,9.6,10
+Family,Standard Apartment,Numa Vega - urban-vida-granada-i,0.32264053832478573,9.25,28
+Family,Standard Apartment,Numa Verso - numa-i-verso-apartments,,9.0,1
+Family,Standard Room,Numa Artol - excelsiordusseldorf,0.41601009307687686,8.125,8
+Family,Standard Room,Numa Barberini - capriceroma,0.9290728743127299,8.257142857142858,35
+Family,Standard Room,Numa Bloomsbury - bedfordcornerhotel,0.28934828665081963,8.35483870967742,31
+Family,Standard Room,Numa Bona - auerberg-galerie,0.4436275992164144,8.192307692307692,26
+Family,Standard Room,Numa Champs-Élysées - numa-paris-champs-elysees,1.0907758694297156,8.461538461538462,13
+Family,Standard Room,Numa Forcola - numa-venice-forcola,,9.0,1
+Family,Standard Room,Numa Kudamm - about-berlin-hotel,0.4696696696696696,8.621621621621621,37
+Family,Standard Room,Numa Maximilian - the-maximilian-by-heymcollections,1.5048548574363383,8.357142857142858,14
+Family,Standard Room,Numa Mozart - tophotelmozart,0.5436781609195401,8.633333333333333,30
+Family,Standard Room,Numa Novela - numa-i-novela-rooms-amp-apartments,0.18563305741877173,9.0,14
+Family,Standard Room,Numa Palazzo Orseolo - palazzo-orseolo,0.26866168943159774,8.4,5
+Family,Standard Room,Numa Portico - numa-i-portico-rooms,0.7256911904788759,7.888888888888889,18
+Family,Standard Room,Numa Potsdamer Platz - precise-tale-berlin,0.4249570238911252,8.285714285714286,56
+Family,Standard Room,Numa Rodo - rodo-hotel-fashion-delight,1.2303323914283961,8.12,25
+Family,Standard Room,Numa Sketch - sketch-rooms-amp-apartments,0.3425170068027211,8.5,8
+Family,Standard Room,Numa Tullo - numa-i-tullo-rooms,1.8292121953441176,7.8,5
+Family,Standard Room with Balcony,Numa Forcola - numa-venice-forcola,,10.0,1
+Family,Standard Room with Balcony,Numa Torstraße - alte-schonhauser-str-2-10119-berlin,0.06666666666666667,9.666666666666666,3
+Family,Standard Room with Terrace,Numa Portico - numa-i-portico-rooms,0.8931953600399444,8.0,5
+Family,Standard Room with Terrace,Numa Tullo - numa-i-tullo-rooms,0.1,9.5,2
+Family,Standard Studio,Numa Goya - numa-i-goya-apartments,0.39271428571428574,8.666666666666666,6
+Family,Standard Studio,Numa Luna - numa-i-luna-apartments,,9.0,1
+Family,Standard Studio with Kitchenette - Single Bed,Numa Viktoria - joyn-munich-olympic-munchen,0.13333333333333333,9.0,4
+Family,Standard Suite,Numa Camperio - camperio-house-suites-apartments,0.30000000000000004,9.0,5
+Family,Standard Suite,Numa Root - antik-city-prague,1.9981561585007428,8.0,10
+Family,Standard room - Canal View,Numa Palazzo Orseolo - palazzo-orseolo,1.8756953600399444,8.0,2
+Family,Studio,Numa Goya - numa-i-goya-apartments,0.0,10.0,2
+Family,Studio,Numa Luna - numa-i-luna-apartments,0.14395238095238094,9.5,6
+Family,Studio,Numa Nørrebro - numa-i-drejervej,,8.0,1
+Family,Studio,Numa Oosterpark - eastern-park-apartment-suites,0.9432795365608108,7.0,2
+Family,Studio,Numa Palazzo Belfiore - palazzo-belfiore,,4.0,1
+Family,Studio,Numa Potsdamer Platz - precise-tale-berlin,2.5894138950707095,7.666666666666667,6
+Family,Studio,Numa Vega - urban-vida-granada-i,0.4,9.0,2
+Family,Studio,Numa YAYS Antwerp Opera by Numa - yays-antwerp-opera,0.6165134397033186,8.941176470588236,17
+Family,Studio,Numa YAYS The Hague Willemspark by Numa - yays-the-hague-willemspark,0.32317852473577124,8.2,5
+Family,Studio (2 Adults),Numa YAYS Amsterdam Maritime by Numa - yays-amsterdam-maritime,0.5318130452074135,7.733333333333333,15
+Family,Studio - Disability Access,Numa Nørrebro - numa-i-drejervej,0.7788842427367408,8.125,8
+Family,Studio with Balcony,Numa Luna - numa-i-luna-apartments,,7.0,1
+Family,Studio with Balcony,Numa Nørrebro - numa-i-drejervej,,9.0,1
+Family,Studio with Kitchenette - Accessible,Numa Palazzo Belfiore - palazzo-belfiore,0.5,9.0,2
+Family,Studio with Terrace,Numa Goya - numa-i-goya-apartments,1.3556616894315976,8.4,5
+Family,Studio with Terrace,Numa Roca - retrome-barcelona,0.08333333333333337,8.666666666666666,3
+Family,Suite,Numa Flow - fashion-dancing,0.13333333333333336,9.333333333333334,6
+Family,Suite,Numa Poise - numa-i-poise-rooms-and-apartments,0.0,10.0,4
+Family,Suite,Numa Republika - republika-amp-suites,0.8910472829879003,8.541666666666666,24
+Family,Suite with Balcony,Numa Flow - fashion-dancing,0.5746967291967292,9.2,10
+Family,Suite with Balcony,Numa Nørrebro - numa-i-drejervej,0.09523809523809523,9.142857142857142,7
+Family,Superior Apartment,Numa Vega - urban-vida-granada-i,0.8186011904761906,8.671875,64
+Family,Superior Double Room,Numa Bloomsbury - bedfordcornerhotel,0.4827290306482909,7.6,5
+Family,Superior Double Room,Numa Lief - numa-l-lief,2.1122399778629766,4.5,2
+Family,Superior Double Room,Numa Republika - republika-amp-suites,0.14952380952380948,8.952380952380953,21
+Family,Superior Four-Bedroom Apartment (5 Adults),Numa Caja - gaderin,0.7176755806910273,6.75,4
+Family,Superior One-Bedroom Apartment,Numa Alegre - alvarez-quintero-apartment,0.0,9.0,2
+Family,Superior Room,Numa Potsdamer Platz - precise-tale-berlin,0.5243120487819932,8.444444444444445,9
+Family,Superior Room with Terrace,Numa Potsdamer Platz - precise-tale-berlin,0.3238339678663222,8.333333333333334,6
+Family,Superior Studio,Numa Camperio - camperio-house-suites-apartments,0.13999999999999999,9.5,6
+Family,Three Bedroom Apartment,Numa Colmena - numa-i-colmena-apartments,0.13333333333333333,9.0,7
+Family,Three-Bedroom Apartment,Numa Caja - gaderin,0.5000972216257248,8.117647058823529,17
+Family,Three-Bedroom Apartment,Numa Jondo - sevilla-luxury-rentals-horno-santa-cruz,0.0,10.0,5
+Family,Three-Bedroom Apartment,Numa Molina - sevilla-luxury-rentals-catedral-sevilla,0.5692307692307691,9.23076923076923,13
+Family,Three-Bedroom Apartment,Numa Prestigio - numa-i-prestigio-apartments,0.5085714285714287,9.380952380952381,21
+Family,Tower Suite,Numa YAYS Amsterdam Maritime by Numa - yays-amsterdam-maritime,,9.0,1
+Family,Two Bedroom Suite with Bathtub - No Kitchen,Numa Palazzo Orseolo - palazzo-orseolo,0.3510761511216057,9.181818181818182,11
+Family,Two-Bedroom Apartment,Numa Colmena - numa-i-colmena-apartments,0.2871527392457076,9.042553191489361,47
+Family,Two-Bedroom Apartment,Numa Flow - fashion-dancing,0.0,9.0,2
+Family,Two-Bedroom Apartment,Numa Jondo - sevilla-luxury-rentals-horno-santa-cruz,0.0904327403365865,9.461538461538462,13
+Family,Two-Bedroom Apartment,Numa Oosterpark - eastern-park-apartment-suites,,3.0,1
+Family,Two-Bedroom Apartment,Numa Prestigio - numa-i-prestigio-apartments,0.11561649659863947,9.625,8
+Family,Two-Bedroom Apartment,Numa Solea - numa-l-solea-rooms-amp-apartments,0.07787150989452912,9.227272727272727,22
+Family,Two-Bedroom Apartment,Numa YAYS Amsterdam East by Numa - amsterdam-east-by-yays,0.6673518257757673,8.181818181818182,22
+Family,Two-Bedroom Apartment,Numa YAYS Amsterdam North by Numa - ndsm-serviced-apartments,1.1404599312420953,8.0,18
+Family,Two-Bedroom Apartment,Numa YAYS Amsterdam Salthouse Canal by Numa - yays-amsterdam-salthouse-canal,1.1984680881746863,7.4,10
+Family,Two-Bedroom Apartment,Numa YAYS Antwerp Opera by Numa - yays-antwerp-opera,1.7734247375034944,7.75,4
+Family,Two-Bedroom Apartment,Numa YAYS The Hague Willemspark by Numa - yays-the-hague-willemspark,0.06666666666666667,9.333333333333334,3
+Family,Two-Bedroom Apartment (4 Adults),Numa YAYS Amsterdam Prince Island by Numa - amsterdam-prince-island-by-yays,0.2713270366218368,8.266666666666667,15
+Family,Two-Bedroom Apartment (6 persons),Numa YAYS Paris Issy by Numa - yays-paris-issy,1.8756953600399444,8.0,2
+Family,Two-Bedroom Apartment Wheelchair Accessible,Numa YAYS Amsterdam North by Numa - ndsm-serviced-apartments,9.244655801342109,5.5,2
+Family,Two-Bedroom Apartment with Shared Terrace (4 Adults),Numa YAYS Amsterdam Prince Island by Numa - amsterdam-prince-island-by-yays,0.08333333333333337,8.666666666666666,3
+Family,Two-Bedroom Family Apartment,Numa YAYS Amsterdam Salthouse Canal by Numa - yays-amsterdam-salthouse-canal,1.1108637130816772,6.0,2
+Family,Two-Bedroom Penthouse - Panoramic Terrace (6 Persons),Numa YAYS Antwerp Opera by Numa - yays-antwerp-opera,0.2171326492430611,8.25,4
+Family,Two-Bedroom Penthouse - Terrace (6 Persons),Numa YAYS Antwerp Opera by Numa - yays-antwerp-opera,0.6661715505161347,8.0,7
+Family,West Apartment,Numa Potsdamer Platz - precise-tale-berlin,0.7706761333420705,8.433333333333334,30
+Family,"XL 1 Bedroom Apartment with Terrace, Sofa Bed & Extra Double Bed - Duplex",Numa Strauss - sunrise-apartments,0.9837993159097278,8.25,4
+Group,1 Bedroom Apartment,Numa Docklands - yays-amsterdam-docklands,0.20583333333333334,9.25,4
+Group,1 Bedroom Apartment,Numa Strauss - sunrise-apartments,0.5802674192835159,8.75,24
+Group,1 Bedroom Apartment,Numa Topp - frogner-house-apartments-skovveien-15,,9.0,1
+Group,1 Bedroom Apartment,Numa YAYS Paris Issy by Numa - yays-paris-issy,,8.0,1
+Group,1 Bedroom Apartment,Numa YAYS Paris Zola by Numa - eiffel-village-apartments-paris-centre,,10.0,1
+Group,1 Bedroom Apartment with Balcony and Sofa Bed,Numa Leo - numa-i-leo-apartments,,8.0,1
+Group,1 Bedroom Apartment with Balcony and Sofa Bed,Numa Loreto - loreto-rooms-amp-apartments,0.27631289081289084,9.3,10
+Group,1 Bedroom Apartment with Balcony and Sofa Bed,Numa Topp - frogner-house-apartments-skovveien-15,0.7374117364117366,9.1,10
+Group,1 Bedroom Apartment with Balcony and Sofa Bed,Numa Torstraße - alte-schonhauser-str-2-10119-berlin,0.963802909544668,8.785714285714286,14
+Group,1 Bedroom Apartment with Balcony and Sofa bed,Numa Sempione - numa-milan-sempione,0.30000000000000004,9.333333333333334,3
+Group,1 Bedroom Apartment with Bunk Bed,Numa Kater - berlin-eastside-apartments,,9.0,1
+Group,1 Bedroom Apartment with Sofa Bed,Numa Arc - numa-i-arc-rooms-amp-apartments,0.1964965986394558,8.571428571428571,7
+Group,1 Bedroom Apartment with Sofa Bed,Numa Docklands - yays-amsterdam-docklands,0.30588538704006535,9.08108108108108,74
+Group,1 Bedroom Apartment with Sofa Bed,Numa Felice - numa-i-felice-rooms-amp-apartments,0.08147619047619048,9.0,6
+Group,1 Bedroom Apartment with Sofa Bed,Numa Fiore - le-fiorentine-boutique-apartments,0.1593406593406594,9.214285714285714,14
+Group,1 Bedroom Apartment with Sofa Bed,Numa Flute - villa-riedenburg-boutique-apartments,1.3847168257639275,7.25,4
+Group,1 Bedroom Apartment with Sofa Bed,Numa Potsdamer Platz - precise-tale-berlin,0.5,9.0,2
+Group,1 Bedroom Apartment with Sofa Bed,Numa Saga - numa-l-saga-apartments,0.09454545454545457,9.454545454545455,11
+Group,1 Bedroom Apartment with Sofa Bed,Numa Sketch - sketch-rooms-amp-apartments,0.9432795365608108,7.0,2
+Group,1 Bedroom Apartment with Sofa Bed,Numa Topp - frogner-house-apartments-skovveien-15,0.5,9.0,2
+Group,1 Bedroom Apartment with Sofa Bed,Numa Vici - dolce-vita-residence,0.25025462962962963,9.222222222222221,9
+Group,1 Bedroom Apartment with Sofa Bed,Numa YAYS Paris Issy by Numa - yays-paris-issy,0.30000000000000004,9.333333333333334,3
+Group,1 Bedroom Apartment with Sofa Bed,Numa YAYS Paris Zola by Numa - eiffel-village-apartments-paris-centre,0.6472727272727273,8.454545454545455,11
+Group,1 Bedroom Apartment with Sofa Bed - Duplex,Numa Palazzo Belfiore - palazzo-belfiore,,9.0,1
+Group,1 Bedroom Apartment with Sofa Bed - Duplex,Numa Vici - dolce-vita-residence,,8.0,1
+Group,1 Bedroom Apartment with Sofa Bed - Duplex - No Kitchen,Numa Felice - numa-i-felice-rooms-amp-apartments,,9.0,1
+Group,1 Bedroom Apartment with Sofa Bed - No Kitchen,Numa Felice - numa-i-felice-rooms-amp-apartments,0.15000000000000002,9.5,2
+Group,1 Bedroom Apartment with Sofa Bed - no AC,Numa Terra - numa-i-terra-apartments,0.06634617304190243,9.722222222222221,18
+Group,1 Bedroom Apartment with Sofa Bed and AC,Numa Terra - numa-i-terra-apartments,5.415807595401099,6.666666666666667,3
+Group,1 Bedroom Apartment with Sofa Bed for 4 Guests,Numa Docklands - yays-amsterdam-docklands,0.25357142857142856,8.875,8
+Group,1 Bedroom Apartment with Sofa bed,Numa Sempione - numa-milan-sempione,0.0911111111111111,9.7,10
+Group,1 Bedroom Apartment with Terrace - no AC,Numa Terra - numa-i-terra-apartments,0.0,9.0,3
+Group,1 Bedroom Apartment with Terrace and Sofa Bed - Duplex,Numa Sonate - townhouse-tessa-by-heymcollections,0.05,9.25,4
+Group,1 Bedroom Apartment with Two Sofa Beds - Duplex,Numa Fiore - le-fiorentine-boutique-apartments,0.06666666666666667,9.666666666666666,3
+Group,2 Bedroom Apartment,Numa Sol - numa-madrid-sol-apartments,0.20244048076465662,9.285714285714286,14
+Group,2 Bedroom Apartment,Numa Strauss - sunrise-apartments,0.12444444444444447,9.2,10
+Group,2 Bedroom Apartment with Balcony,Numa Strauss - sunrise-apartments,0.19333333333333336,8.833333333333334,6
+Group,2 Bedroom Apartment with Balcony and Sofa Bed,Numa Nora - townhouse-nora-salzburg,1.0482627012566375,7.2,5
+Group,2 Bedroom Apartment with Sofa Bed,Numa Felice - numa-i-felice-rooms-amp-apartments,0.12000000000000001,9.0,5
+Group,2 Bedroom Apartment with Sofa Bed,Numa Sempione - numa-milan-sempione,0.03888888888888889,9.777777777777779,9
+Group,2 Bedroom Apartment with Sofa Bed,Numa Vici - dolce-vita-residence,0.26122448979591834,9.285714285714286,7
+Group,2 Bedroom Apartment with Sofa Bed,Numa Vita - m7-contemporary-apartments-my-extra-home,1.129632649243061,8.25,4
+Group,2 Bedroom Apartment with Terrace,Numa Nora - townhouse-nora-salzburg,0.48650063453298886,8.333333333333334,3
+Group,3 Bedroom Apartment with Sofa Bed - Duplex,Numa Palazzo Belfiore - palazzo-belfiore,0.15000000000000002,8.5,2
+Group,Apartment,Numa Alegre - alvarez-quintero-apartment,,8.0,1
+Group,Apartment,Numa Oosterpark - eastern-park-apartment-suites,1.1078282540118927,7.714285714285714,7
+Group,Apartment,Numa Verso - numa-i-verso-apartments,0.10455194805194806,9.5,10
+Group,Apartment,Numa YAYS Amsterdam Maritime by Numa - yays-amsterdam-maritime,0.4813756278915274,8.176470588235293,17
+Group,Apartment - Disability Access,Numa YAYS Antwerp Opera by Numa - yays-antwerp-opera,0.41538461538461546,8.615384615384615,13
+Group,Apartment with Balcony,Numa Colmena - numa-i-colmena-apartments,0.0,10.0,2
+Group,Apartment with Balcony,Numa Jondo - sevilla-luxury-rentals-horno-santa-cruz,0.18888888888888888,9.5,10
+Group,Apartment with Balcony,Numa Molina - sevilla-luxury-rentals-catedral-sevilla,0.06666666666666667,9.5,4
+Group,Apartment with Terrace,Numa Vega - urban-vida-granada-i,,10.0,1
+Group,Business-Friendly Suite,Numa Bloc - numa-l-bloc-apartments,0.7346785706411202,8.133333333333333,15
+Group,Classic Studio,Numa Bloc - numa-l-bloc-apartments,,3.0,1
+Group,Comfort Suite,Numa Bloc - numa-l-bloc-apartments,2.4386045733541923,6.5,10
+Group,Comfort Two-Bedroom Apartment (4 Adults),Numa YAYS Amsterdam Prince Island by Numa - amsterdam-prince-island-by-yays,0.4439584251021338,8.26086956521739,46
+Group,Comfort Two-Bedroom Apartment with Shared Terrace (4 Adults + 2 Children),Numa YAYS Amsterdam Prince Island by Numa - amsterdam-prince-island-by-yays,0.7593415581606657,8.451612903225806,31
+Group,Comfort Two-Bedroom Family (4 Adults + 2 Children),Numa YAYS Amsterdam Prince Island by Numa - amsterdam-prince-island-by-yays,0.620994114463879,8.222222222222221,36
+Group,"Connecting rooms - Two Bedrooms, One Bathroom",Numa Portico - numa-i-portico-rooms,1.1536389799131082,7.928571428571429,14
+Group,Deluxe Apartment,Numa Jondo - sevilla-luxury-rentals-horno-santa-cruz,0.983,8.6,5
+Group,Deluxe Apartment,Numa Molina - sevilla-luxury-rentals-catedral-sevilla,0.13333333333333336,9.333333333333334,6
+Group,Deluxe Apartment,Numa Solea - numa-l-solea-rooms-amp-apartments,,10.0,1
+Group,Deluxe Apartment,Numa Verso - numa-i-verso-apartments,,9.0,1
+Group,Deluxe Double Room,Numa Kudamm - about-berlin-hotel,1.4270716248212438,6.5,2
+Group,Deluxe Double Room,Numa Lief - numa-l-lief,0.7480711445328407,8.25925925925926,27
+Group,Deluxe Double Room with Bath,Numa Root - antik-city-prague,0.2581818181818182,8.909090909090908,11
+Group,Deluxe Room,Numa Potsdamer Platz - precise-tale-berlin,0.49416666666666664,8.75,4
+Group,Deluxe Studio,Numa Bloc - numa-l-bloc-apartments,0.12068714246949672,8.333333333333334,9
+Group,Deluxe Studio,Numa Camperio - camperio-house-suites-apartments,0.6252279945248915,8.375,8
+Group,Deluxe Studio,Numa Jondo - sevilla-luxury-rentals-horno-santa-cruz,,10.0,1
+Group,Deluxe Studio,Numa Libusa - sunrise,0.4,9.0,2
+Group,Deluxe Suite,Numa Camperio - camperio-house-suites-apartments,0.3433333333333334,8.5,4
+Group,Deluxe Suite,Numa Libusa - sunrise,0.15000000000000002,9.5,2
+Group,Deluxe Suite,Numa Molina - sevilla-luxury-rentals-catedral-sevilla,0.1,9.5,2
+Group,Deluxe Suite,Numa Nørrebro - numa-i-drejervej,0.2756953600399443,8.0,3
+Group,Deluxe Suite,Numa Poise - numa-i-poise-rooms-and-apartments,0.5276227935913804,8.775,40
+Group,Deluxe Suite,Numa Republika - republika-amp-suites,0.0,10.0,2
+Group,Deluxe Suite,Numa Solea - numa-l-solea-rooms-amp-apartments,0.407108843537415,9.0,8
+Group,Deluxe Three-Bedroom Apartment,Numa Palazzo Belfiore - palazzo-belfiore,,10.0,1
+Group,Double Room,Numa Bloomsbury - bedfordcornerhotel,0.055833333333333346,8.75,4
+Group,Double Room,Numa Brio - hcristina,3.293424737503494,7.75,4
+Group,Double Room,Numa Camperio - camperio-house-suites-apartments,0.05,9.25,4
+Group,Double Room,Numa Flow - fashion-dancing,0.1,8.5,2
+Group,Double Room,Numa Lief - numa-l-lief,1.052048976312779,7.476190476190476,21
+Group,Double Room,Numa Poise - numa-i-poise-rooms-and-apartments,0.38028784818429895,9.0,21
+Group,Double Room,Numa Root - antik-city-prague,0.15710894660894661,8.9,10
+Group,Double Room - Disability Access,Numa Lief - numa-l-lief,,7.0,1
+Group,Double Room with Balcony,Numa Brio - hcristina,,9.0,1
+Group,Double Room with Balcony,Numa Flow - fashion-dancing,,10.0,1
+Group,Double Room with Balcony,Numa Poise - numa-i-poise-rooms-and-apartments,,10.0,1
+Group,Double Room with Balcony,Numa Roca - retrome-barcelona,0.4756953600399444,8.0,2
+Group,Double Room with City View,Numa Script - la-pepa-chic-bed,,9.0,1
+Group,Duplex,Numa Bloc - numa-l-bloc-apartments,0.8573576678193384,7.875,8
+Group,Duplex Apartment,Numa Jondo - sevilla-luxury-rentals-horno-santa-cruz,0.1,8.5,2
+Group,Duplex Apartment,Numa Molina - sevilla-luxury-rentals-catedral-sevilla,0.12628241629359907,8.375,8
+Group,Duplex Apartment,Numa YAYS Amsterdam Maritime by Numa - yays-amsterdam-maritime,0.5256493254220527,8.666666666666666,12
+Group,Duplex Studio,Numa YAYS Amsterdam Maritime by Numa - yays-amsterdam-maritime,0.4348457350272232,8.586206896551724,58
+Group,Duplex Studio (2 adults + 2 children),Numa YAYS Amsterdam Maritime by Numa - yays-amsterdam-maritime,,7.0,1
+Group,Duplex Suite,Numa YAYS Amsterdam Maritime by Numa - yays-amsterdam-maritime,1.6900742346064093,8.11111111111111,9
+Group,East Apartment,Numa Potsdamer Platz - precise-tale-berlin,0.16190476190476188,9.142857142857142,7
+Group,Excelsior Suite,Numa Potsdamer Platz - precise-tale-berlin,0.4,9.0,2
+Group,Extra Large 1 Bedroom Apartment with 2 Sofa Beds,Numa Sonate - townhouse-tessa-by-heymcollections,1.9292121953441177,7.8,5
+Group,Extra Large 1 Bedroom Apartment with 2 Sofa Beds - no AC,Numa Terra - numa-i-terra-apartments,0.0,10.0,3
+Group,Extra Large 1 Bedroom Apartment with Sofa Bed,Numa Docklands - yays-amsterdam-docklands,0.13333333333333333,9.0,4
+Group,Extra Large 1 Bedroom Apartment with Terrace and Sofa Bed - Duplex,Numa Vita - m7-contemporary-apartments-my-extra-home,,6.0,1
+Group,Extra Large 2 Bedroom Apartment with AC and Terrace,Numa Terra - numa-i-terra-apartments,0.13454545454545458,9.545454545454545,11
+Group,Extra Large 2 Bedroom Apartment with Balcony and Sofa Bed,Numa Loreto - loreto-rooms-amp-apartments,1.541511812209017,7.928571428571429,14
+Group,Extra Large 2 Bedroom Apartment with Sofa Bed,Numa Docklands - yays-amsterdam-docklands,0.3958504088504089,9.2,10
+Group,Extra Large 2 Bedroom Apartment with Sofa Bed,Numa Topp - frogner-house-apartments-skovveien-15,0.46549999999999997,8.6,5
+Group,Extra Large 2 Bedroom Apartment with Terrace,Numa Strauss - sunrise-apartments,,8.0,1
+Group,Extra Large 3 Bedroom Apartment,Numa Nora - townhouse-nora-salzburg,0.15000000000000002,9.5,2
+Group,Extra Large 3 Bedroom Apartment with Sofa Bed and Terrace,Numa Flute - villa-riedenburg-boutique-apartments,0.19333333333333336,8.833333333333334,6
+Group,Extra Large Room with Balcony,Numa Kudamm - about-berlin-hotel,0.30000000000000004,9.333333333333334,3
+Group,Extra Large Room with Bathtub and Separate Living Area with Sofa Bed,Numa Mozart - tophotelmozart,0.055833333333333346,9.75,4
+Group,Extra Large Room with Sofa Bed,Numa Sketch - sketch-rooms-amp-apartments,,9.0,1
+Group,Extra Large Room with Sofa Bed and Separate Living Area,Numa Vogelweider - numa-salzburg-vogelweider,0.23088235294117646,9.176470588235293,17
+Group,Extra Large Studio Sofa Bed and Shared Terrace,Numa Bloomsbury - bedfordcornerhotel,,8.0,1
+Group,Extra Large Studio with Kitchen,Numa Nook - frederics-serviced-apartment,,8.0,1
+Group,Extra Large Studio with Kitchen,Numa Viktoria - joyn-munich-olympic-munchen,1.0804053233905555,8.027777777777779,36
+Group,Extra Large Studio with Kitchen - Twin Beds,Numa Viktoria - joyn-munich-olympic-munchen,0.40105235282999735,8.619047619047619,42
+Group,Extra Large Studio with Kitchen and 2 Sofa Beds - Duplex,Numa Craft - numa-i-craft-rooms-amp-apartments,0.372,9.4,5
+Group,Extra Large Studio with Kitchen and Balcony,Numa Nook - frederics-serviced-apartment,0.08333333333333337,9.666666666666666,3
+Group,Extra Large Studio with Kitchen and Separate Living Area,Numa Viktoria - joyn-munich-olympic-munchen,0.4,9.0,2
+Group,Extra Large Studio with Kitchen and Sofa Bed,Numa Loreto - loreto-rooms-amp-apartments,0.085,9.5,4
+Group,Extra Large Studio with Kitchen and Sofa Bed,Numa Nook - frederics-serviced-apartment,1.219356975626884,8.4,10
+Group,Extra Large Studio with Kitchen and Sofa Bed - no AC,Numa Terra - numa-i-terra-apartments,0.1,9.25,8
+Group,"Extra Large Studio with Kitchen, Sofa Bed and AC",Numa Terra - numa-i-terra-apartments,,10.0,1
+Group,"Extra Large Studio with Kitchen, Terrace and AC",Numa Terra - numa-i-terra-apartments,,10.0,1
+Group,Extra Large Studio with Kitchenette,Numa Arc - numa-i-arc-rooms-amp-apartments,0.06666666666666667,9.333333333333334,3
+Group,Extra Large Studio with Kitchenette,Numa Obersendling - numa-munich-obersendling,1.1281239314685156,8.0,6
+Group,Extra Large Studio with Kitchenette,Numa Rato - numa-i-voga-rooms-amp-apartments,,9.0,1
+Group,Extra Large Studio with Kitchenette,Numa Saga - numa-l-saga-apartments,0.7171326492430612,8.25,4
+Group,Extra Large Studio with Kitchenette and Balcony,Numa Kudamm - about-berlin-hotel,0.06666666666666667,9.333333333333334,3
+Group,Extra Large Studio with Kitchenette and Sofa Bed,Numa Artol - excelsiordusseldorf,1.6769501714814457,7.0,9
+Group,Extra Large Studio with Kitchenette and Sofa Bed,Numa Blend - numa-i-blend-apartments,0.3082380952380953,8.666666666666666,6
+Group,Extra Large Studio with Kitchenette and Sofa Bed,Numa Fore - my4walls-serviced-apartments-hamburg,0.46552706552706563,8.481481481481481,27
+Group,Extra Large Studio with Kitchenette and Sofa Bed,Numa Hallen - oslo-apartments-dronningensgate-15,0.5837993159097278,8.25,8
+Group,Extra Large Studio with Kitchenette and Sofa Bed,Numa Palazzo Orseolo - palazzo-orseolo,1.0480612244897958,8.714285714285714,7
+Group,Extra Large Studio with Kitchenette and Sofa Bed,Numa Saga - numa-l-saga-apartments,0.4580612847608589,8.827586206896552,29
+Group,Extra Large Studio with Kitchenette and Sofa Bed - Accessible,Numa Fore - my4walls-serviced-apartments-hamburg,1.8767439427304584,6.857142857142857,7
+Group,Extra Large Studio with Kitchenette and Sofa Bed - Duplex,Numa Munico - munico,4.326612869894145,7.0,3
+Group,"Extra Large Studio with Kitchenette, Balcony and Sofa Bed",Numa Boxer - almodovarhotel-berlin-biohotel,0.8200000000000001,8.833333333333334,6
+Group,"Extra Large Studio with Kitchenette, Balcony and Sofa Bed",Numa Drift - gaijin,,10.0,1
+Group,"Extra Large Studio with Kitchenette, Balcony and Sofa Bed",Numa Leo - numa-i-leo-apartments,0.7812327773901316,8.333333333333334,9
+Group,"Extra Large Studio with Kitchenette, Balcony and Sofa Bed",Numa Novela - numa-i-novela-rooms-amp-apartments,0.4,9.0,2
+Group,"Extra Large Studio with Kitchenette, Balcony and Sofa Bed",Numa Sempione - numa-milan-sempione,0.2666666666666667,9.333333333333334,3
+Group,"Extra Large Studio with Kitchenette, Terrace and Sofa Bed",Numa Belfort - belfort-berlin,0.4756953600399444,8.0,2
+Group,Family Suite,Numa Camperio - camperio-house-suites-apartments,0.29523809523809524,8.857142857142858,7
+Group,Family Suite,Numa Solea - numa-l-solea-rooms-amp-apartments,0.5309676832566665,8.25,8
+Group,Family Two-Bedroom Apartment,Numa YAYS Amsterdam Salthouse Canal by Numa - yays-amsterdam-salthouse-canal,,8.0,1
+Group,Family Two-Bedroom Apartment Canal Side,Numa YAYS Amsterdam Salthouse Canal by Numa - yays-amsterdam-salthouse-canal,2.0756953600399446,8.0,2
+Group,Four-Bedroom Apartment (5 Adults),Numa Caja - gaderin,0.06,9.6,5
+Group,Grand Apartment,Numa Potsdamer Platz - precise-tale-berlin,0.21750000000000003,9.0,5
+Group,Imperial Suite,Numa Potsdamer Platz - precise-tale-berlin,0.6732097283903643,8.45945945945946,37
+Group,Junior Suite,Numa Flow - fashion-dancing,,10.0,1
+Group,Junior Suite,Numa Libusa - sunrise,,8.0,1
+Group,Large 1 Bedroom Apartment,Numa YAYS The Hague Willemspark by Numa - yays-the-hague-willemspark,0.5066666666666666,8.466666666666667,15
+Group,Large 1 Bedroom Apartment with Balcony,Numa Strauss - sunrise-apartments,0.48650063453298886,8.333333333333334,3
+Group,Large 1 Bedroom Apartment with Balcony and Sofa Bed,Numa Loreto - loreto-rooms-amp-apartments,0.5639455782312925,9.142857142857142,7
+Group,Large 1 Bedroom Apartment with Shared Terrace and Sofa Bed,Numa Vita - m7-contemporary-apartments-my-extra-home,2.6362993159097283,8.25,4
+Group,Large 1 Bedroom Apartment with Sofa Bed,Numa Docklands - yays-amsterdam-docklands,0.29714285714285726,8.933333333333334,15
+Group,Large 1 Bedroom Apartment with Sofa Bed,Numa Kater - berlin-eastside-apartments,0.4,9.0,2
+Group,Large 1 Bedroom Apartment with Sofa Bed,Numa Vita - m7-contemporary-apartments-my-extra-home,0.17940613873306183,9.23076923076923,13
+Group,Large 1 Bedroom Apartment with Sofa Bed,Numa YAYS Paris Issy by Numa - yays-paris-issy,0.15000000000000002,9.5,2
+Group,Large 1 Bedroom Apartment with Sofa Bed - Accessible,Numa Docklands - yays-amsterdam-docklands,0.21166666666666667,9.5,4
+Group,Large 1 Bedroom Apartment with Sofa Bed - Duplex,Numa Fiore - le-fiorentine-boutique-apartments,,8.0,1
+Group,Large 1 Bedroom Apartment with Sofa Bed - Duplex,Numa Topp - frogner-house-apartments-skovveien-15,0.21500000000000002,9.5,4
+Group,Large 1 Bedroom Apartment with Sofa Bed - no AC,Numa Terra - numa-i-terra-apartments,0.05673328523328524,9.5,10
+Group,Large 1 Bedroom Apartment with Sofa Bed and AC,Numa Terra - numa-i-terra-apartments,0.08650063453298878,8.333333333333334,3
+Group,Large 1 Bedroom Apartment with Terrace and Sofa Bed,Numa Sempione - numa-milan-sempione,0.18333333333333335,9.25,4
+Group,Large 1 Bedroom Apartment with Terrace and Sofa Bed - no AC,Numa Terra - numa-i-terra-apartments,0.3417371041656756,9.0,15
+Group,"Large 1 Bedroom Apartment with Terrace, Sofa Bed and AC",Numa Terra - numa-i-terra-apartments,0.0,10.0,2
+Group,"Large 1 Bedroom Apartment, Sofa Bed and Bathtub",Numa Vici - dolce-vita-residence,0.2666666666666667,9.333333333333334,3
+Group,Large 1 Bedroom Duplex with Sofa Bed & 2 Single Beds,Numa Palazzo Belfiore - palazzo-belfiore,0.3067690593640037,8.444444444444445,9
+Group,Large 2 Bedroom Apartment,Numa Flute - villa-riedenburg-boutique-apartments,0.1,8.75,8
+Group,Large 2 Bedroom Apartment,Numa Vici - dolce-vita-residence,0.2,9.0,3
+Group,Large 2 Bedroom Apartment - Duplex,Numa Vita - m7-contemporary-apartments-my-extra-home,0.06,9.6,5
+Group,Large 2 Bedroom Apartment with Balcony and Sofa Bed,Numa Loreto - loreto-rooms-amp-apartments,0.6945454545454546,8.909090909090908,11
+Group,Large 2 Bedroom Apartment with Sofa Bed,Numa Kater - berlin-eastside-apartments,0.46617155051613485,8.0,7
+Group,Large 2 Bedroom Apartment with Sofa Bed,Numa Vita - m7-contemporary-apartments-my-extra-home,0.5056122448979592,9.142857142857142,7
+Group,Large 2 Bedroom Apartment with Sofa Bed,Numa YAYS Paris Issy by Numa - yays-paris-issy,0.08379931590972775,8.25,4
+Group,Large 2 Bedroom Apartment with Sofa Bed - Duplex,Numa Palazzo Belfiore - palazzo-belfiore,,10.0,1
+Group,Large 2 Bedroom Apartment with Sofa Bed - Duplex,Numa Saga - numa-l-saga-apartments,0.18633414204842777,9.0,14
+Group,"Large 2 Bedroom Apartment,Terrace and Sofa Bed - Duplex",Numa Palazzo Belfiore - palazzo-belfiore,3.277071624821244,6.5,2
+Group,Large 3 Bedroom Apartment with Sofa Bed,Numa Kater - berlin-eastside-apartments,1.9768750155667727,6.714285714285714,7
+Group,Large Room,Numa Felice - numa-i-felice-rooms-amp-apartments,0.37200000000000005,9.4,5
+Group,Large Room,Numa Ivy - villa-ivy-by-heymcollections,,4.0,1
+Group,Large Room,Numa Mozart - tophotelmozart,1.896796371864984,6.8,5
+Group,Large Room,Numa Obersendling - numa-munich-obersendling,0.15000000000000002,8.5,2
+Group,Large Room,Numa Vici - dolce-vita-residence,,9.0,1
+Group,Large Room - Accessible,Numa Arc - numa-i-arc-rooms-amp-apartments,,6.0,1
+Group,Large Room - Accessible,Numa Boxer - almodovarhotel-berlin-biohotel,1.8556953600399444,8.0,4
+Group,Large Room - Accessible,Numa Savi - stilwerk-kantgaragen-berlin63,,10.0,1
+Group,Large Room with Balcony,Numa Kudamm - about-berlin-hotel,0.48650063453298886,8.333333333333334,3
+Group,Large Room with Balcony - Accessible,Numa Torstraße - alte-schonhauser-str-2-10119-berlin,,7.0,1
+Group,Large Room with Extra Bed,Numa Torstraße - alte-schonhauser-str-2-10119-berlin,1.1200042452909673,8.214285714285714,14
+Group,Large Room with Extra Single Bed,Numa Barberini - capriceroma,0.13333333333333333,9.0,4
+Group,Large Room with Extra Single Bed,Numa Linea - capitol-roma,2.2313747746560493,7.0,7
+Group,Large Room with Portable AC and Extra Single Bed,Numa Barberini - capriceroma,2.6883356542413885,6.333333333333333,3
+Group,Large Room with Sofa Bed,Numa Sketch - sketch-rooms-amp-apartments,2.155002320908055,6.333333333333333,3
+Group,Large Room with Terrace,Numa Wood - the-wood,0.30000000000000004,9.333333333333334,3
+Group,Large Studio with Kitchen,Numa Nook - frederics-serviced-apartment,0.25,8.666666666666666,9
+Group,Large Studio with Kitchen,Numa Stark - joyn-munich-rose,0.24833333333333335,8.5,4
+Group,Large Studio with Kitchen,Numa Topp - frogner-house-apartments-skovveien-15,0.13572089947089946,8.88888888888889,9
+Group,Large Studio with Kitchen,Numa YAYS Paris Issy by Numa - yays-paris-issy,0.21489008554689978,7.666666666666667,3
+Group,Large Studio with Kitchen and Sofa Bed,Numa Kater - berlin-eastside-apartments,0.15000000000000002,9.5,2
+Group,Large Studio with Kitchen and Sofa Bed,Numa Palazzo Moro - palazzo-del-moro-firenze,0.4285714285714286,8.818181818181818,22
+Group,"Large Studio with Kitchen, Balcony and Sofa Bed",Numa Nora - townhouse-nora-salzburg,4.043279536560811,7.0,2
+Group,"Large Studio with Kitchen, Terrace and Sofa Bed",Numa Flute - villa-riedenburg-boutique-apartments,,10.0,1
+Group,Large Studio with Kitchenette,Numa Arc - numa-i-arc-rooms-amp-apartments,1.7146907060754935,7.705882352941177,17
+Group,Large Studio with Kitchenette,Numa Artol - excelsiordusseldorf,0.9,8.5,2
+Group,Large Studio with Kitchenette,Numa Blend - numa-i-blend-apartments,0.14152380952380955,9.333333333333334,6
+Group,Large Studio with Kitchenette,Numa Fore - my4walls-serviced-apartments-hamburg,0.628718574339645,8.210526315789474,19
+Group,Large Studio with Kitchenette,Numa Hallen - oslo-apartments-dronningensgate-15,0.22222222222222224,8.88888888888889,9
+Group,Large Studio with Kitchenette,Numa Munico - munico,0.30503566759291406,8.2,15
+Group,Large Studio with Kitchenette,Numa Obersendling - numa-munich-obersendling,,9.0,1
+Group,Large Studio with Kitchenette,Numa Saga - numa-l-saga-apartments,0.04,9.8,5
+Group,Large Studio with Kitchenette,Numa Turi - numa-i-turi-apartments-zurich,0.0,10.0,2
+Group,Large Studio with Kitchenette,Numa Viktoria - joyn-munich-olympic-munchen,0.16662296918021566,8.2,10
+Group,Large Studio with Kitchenette - Accessible,Numa Blend - numa-i-blend-apartments,0.2171326492430611,8.25,4
+Group,Large Studio with Kitchenette - Single Bed,Numa Fore - my4walls-serviced-apartments-hamburg,0.07569536003994434,8.0,2
+Group,Large Studio with Kitchenette and Balcony,Numa Boxer - almodovarhotel-berlin-biohotel,0.08333333333333333,9.5,4
+Group,Large Studio with Kitchenette and Balcony,Numa Munico - munico,0.18333333333333335,8.75,4
+Group,Large Studio with Kitchenette and Balcony,Numa Novela - numa-i-novela-rooms-amp-apartments,0.0,10.0,2
+Group,Large Studio with Kitchenette and Balcony,Numa Vici - dolce-vita-residence,,10.0,1
+Group,Large Studio with Kitchenette and Extra Bed,Numa Torstraße - alte-schonhauser-str-2-10119-berlin,0.8499999999999999,8.515151515151516,33
+Group,Large Studio with Kitchenette and Sofa Bed,Numa Belfort - belfort-berlin,0.40963264924306103,8.25,4
+Group,Large Studio with Kitchenette and Sofa Bed,Numa Drift - gaijin,0.49458128078817754,8.758620689655173,29
+Group,Large Studio with Kitchenette and Sofa Bed,Numa Fore - my4walls-serviced-apartments-hamburg,0.5509379710181652,8.395833333333334,48
+Group,Large Studio with Kitchenette and Sofa Bed,Numa Novela - numa-i-novela-rooms-amp-apartments,0.30663341070057387,8.857142857142858,28
+Group,Large Studio with Kitchenette and Sofa Bed,Numa Rodo - rodo-hotel-fashion-delight,2.448223418880233,7.666666666666667,3
+Group,Large Studio with Kitchenette and Sofa Bed,Numa Sketch - sketch-rooms-amp-apartments,0.3267346938775511,8.571428571428571,7
+Group,Large Studio with Kitchenette and Terrace,Numa Rato - numa-i-voga-rooms-amp-apartments,0.5,9.0,2
+Group,Large Studio with Kitchenette and Terrace - Accessible,Numa Wood - the-wood,,7.0,1
+Group,"Large Studio with Kitchenette, Balcony and Sofa Bed",Numa Belfort - belfort-berlin,0.48650063453298886,8.333333333333334,3
+Group,"Large Studio with Kitchenette, Balcony and Sofa Bed",Numa Drift - gaijin,1.1106800552179688,8.181818181818182,11
+Group,"Large Studio with Kitchenette, Balcony and Sofa Bed",Numa Leo - numa-i-leo-apartments,0.19970000300377125,9.022727272727273,44
+Group,"Large Studio with Kitchenette, Balcony and Sofa Bed",Numa Novela - numa-i-novela-rooms-amp-apartments,0.19434976057862063,8.428571428571429,7
+Group,Large Studio with Shared Terrace,Numa Bloomsbury - bedfordcornerhotel,,9.0,1
+Group,Large Two-Bedroom Apartment,Numa Oosterpark - eastern-park-apartment-suites,0.8009247375034944,7.75,4
+Group,Large Two-Bedroom Apartment,Numa YAYS Amsterdam North by Numa - ndsm-serviced-apartments,0.3566666666666667,8.5,4
+Group,Luxe Apartment,Numa Potsdamer Platz - precise-tale-berlin,1.4094874483003776,7.5,2
+Group,Maisonette,Numa Camperio - camperio-house-suites-apartments,0.17700000000000002,9.4,5
+Group,Maisonette,Numa Jondo - sevilla-luxury-rentals-horno-santa-cruz,0.1745,9.4,5
+Group,Maisonette,Numa Nørrebro - numa-i-drejervej,0.14235449735449734,8.777777777777779,9
+Group,Maisonette,Numa Prestigio - numa-i-prestigio-apartments,0.08,9.5,4
+Group,Maisonette,Numa Republika - republika-amp-suites,1.4400000000000002,8.6,5
+Group,Medium Double Room,Numa Kudamm - about-berlin-hotel,0.21489008554689978,7.666666666666667,3
+Group,Medium Room,Numa Arc - numa-i-arc-rooms-amp-apartments,0.6004574024627657,8.117647058823529,17
+Group,Medium Room,Numa Barberini - capriceroma,,10.0,1
+Group,Medium Room,Numa Belfort - belfort-berlin,,10.0,1
+Group,Medium Room,Numa Bloomsbury - bedfordcornerhotel,1.3322147210276503,7.5,12
+Group,Medium Room,Numa Boxer - almodovarhotel-berlin-biohotel,1.04989220638303,7.916666666666667,12
+Group,Medium Room,Numa Champs-Élysées - numa-paris-champs-elysees,0.15000000000000002,8.5,2
+Group,Medium Room,Numa Drift - gaijin,2.1690247168955086,7.285714285714286,14
+Group,Medium Room,Numa Ivy - villa-ivy-by-heymcollections,1.1869404294976766,8.2,15
+Group,Medium Room,Numa Kudamm - about-berlin-hotel,1.1417582417582413,8.785714285714286,14
+Group,Medium Room,Numa Linea - capitol-roma,0.5098933742231239,8.310344827586206,29
+Group,Medium Room,Numa Maximilian - the-maximilian-by-heymcollections,3.0657963718649843,6.8,5
+Group,Medium Room,Numa Mozart - tophotelmozart,1.2246417279638797,8.363636363636363,11
+Group,Medium Room,Numa Nook - frederics-serviced-apartment,0.4321289130539704,8.142857142857142,7
+Group,Medium Room,Numa Savi - stilwerk-kantgaragen-berlin63,0.18224637681159422,8.958333333333334,24
+Group,Medium Room,Numa Sketch - sketch-rooms-amp-apartments,3.027071624821244,6.5,2
+Group,Medium Room,Numa Torstraße - alte-schonhauser-str-2-10119-berlin,0.4,9.0,2
+Group,Medium Room,Numa Vogelweider - numa-salzburg-vogelweider,0.6738514728964877,8.763636363636364,55
+Group,Medium Room - Accessible,Numa Champs-Élysées - numa-paris-champs-elysees,,8.0,1
+Group,Medium Room - Accessible,Numa Tullo - numa-i-tullo-rooms,,7.0,1
+Group,Medium Room - Canal View,Numa Palazzo Orseolo - palazzo-orseolo,0.1,9.5,2
+Group,Medium Room - Loft,Numa Boxer - almodovarhotel-berlin-biohotel,0.1575757575757576,8.666666666666666,12
+Group,Medium Room - Single Bed,Numa Stark - joyn-munich-rose,0.08333333333333337,8.666666666666666,3
+Group,Medium Room - Twin Bed,Numa Vogelweider - numa-salzburg-vogelweider,0.3106854838709678,8.84375,32
+Group,Medium Room - Twin Beds,Numa Arc - numa-i-arc-rooms-amp-apartments,0.467174944367115,8.56,25
+Group,Medium Room with Balcony,Numa Drift - gaijin,0.053333333333333344,9.666666666666666,6
+Group,Medium Room with Balcony,Numa Ivy - villa-ivy-by-heymcollections,,10.0,1
+Group,Medium Room with Balcony,Numa Kudamm - about-berlin-hotel,1.8217877652575296,8.222222222222221,9
+Group,Medium Room with Balcony,Numa Maximilian - the-maximilian-by-heymcollections,1.4041666666666668,8.75,4
+Group,Medium Room with Balcony,Numa Potsdamer Platz - precise-tale-berlin,,8.0,1
+Group,Medium Room with Balcony - Single Bed,Numa Stark - joyn-munich-rose,,10.0,1
+Group,Medium Room with Extra Single Bed,Numa Linea - capitol-roma,0.5651566390591649,8.307692307692308,13
+Group,Medium Room with Extra Single Bed,Numa Tullo - numa-i-tullo-rooms,0.21023809523809528,9.166666666666666,6
+Group,Medium Room with Sofa Bed,Numa Rodo - rodo-hotel-fashion-delight,0.06752380952380951,9.5,6
+Group,Medium Room with Terrace,Numa Barberini - capriceroma,,9.0,1
+Group,Medium Room with Terrace and Extra Single Bed,Numa Tullo - numa-i-tullo-rooms,,10.0,1
+Group,Medium Studio with Kitchen,Numa Kater - berlin-eastside-apartments,1.4094874483003776,7.5,2
+Group,Medium Studio with Kitchen,Numa Sol - numa-madrid-sol-apartments,,10.0,1
+Group,Medium Studio with Kitchen,Numa YAYS Paris Issy by Numa - yays-paris-issy,0.40629931590972773,8.25,4
+Group,Medium Studio with Kitchen,Numa YAYS Paris Zola by Numa - eiffel-village-apartments-paris-centre,0.38614614749864556,8.125,8
+Group,Medium Studio with Kitchen - Single Bed,Numa Stark - joyn-munich-rose,0.15000000000000002,9.5,2
+Group,Medium Studio with Kitchen and Balcony,Numa Craft - numa-i-craft-rooms-amp-apartments,1.2717877652575298,8.222222222222221,9
+Group,Medium Studio with Kitchen and Balcony,Numa Stark - joyn-munich-rose,0.4,9.0,2
+Group,Medium Studio with Kitchen and Balcony,Numa YAYS Paris Zola by Numa - eiffel-village-apartments-paris-centre,1.8812004191651428,2.0,2
+Group,Medium Studio with Kitchen and Balcony - Single Bed,Numa Stark - joyn-munich-rose,,2.0,1
+Group,Medium Studio with Kitchenette,Numa Arc - numa-i-arc-rooms-amp-apartments,0.3579386724386725,9.0,10
+Group,Medium Studio with Kitchenette,Numa Artol - excelsiordusseldorf,0.06666666666666667,8.666666666666666,3
+Group,Medium Studio with Kitchenette,Numa Blau - star-apart-hauptbahnhof,0.760400708838098,6.833333333333333,6
+Group,Medium Studio with Kitchenette,Numa Blend - numa-i-blend-apartments,1.3868900855469,7.666666666666667,6
+Group,Medium Studio with Kitchenette,Numa Bona - auerberg-galerie,,9.0,1
+Group,Medium Studio with Kitchenette,Numa Boxer - almodovarhotel-berlin-biohotel,0.288824234606409,8.11111111111111,9
+Group,Medium Studio with Kitchenette,Numa Champs-Élysées - numa-paris-champs-elysees,0.48250000000000004,8.75,4
+Group,Medium Studio with Kitchenette,Numa Hallen - oslo-apartments-dronningensgate-15,0.13818181818181816,9.090909090909092,11
+Group,Medium Studio with Kitchenette,Numa Novela - numa-i-novela-rooms-amp-apartments,0.28650063453298885,8.333333333333334,3
+Group,Medium Studio with Kitchenette,Numa Oben - star-gmbh,0.4,9.0,2
+Group,Medium Studio with Kitchenette,Numa Saga - numa-l-saga-apartments,0.5097647279472546,8.733333333333333,30
+Group,Medium Studio with Kitchenette,Numa Sempione - numa-milan-sempione,,8.0,1
+Group,Medium Studio with Kitchenette,Numa Sketch - sketch-rooms-amp-apartments,0.48333333333333345,8.666666666666666,3
+Group,Medium Studio with Kitchenette,Numa Torstraße - alte-schonhauser-str-2-10119-berlin,,8.0,1
+Group,Medium Studio with Kitchenette,Numa Turi - numa-i-turi-apartments-zurich,1.503279536560811,7.0,5
+Group,Medium Studio with Kitchenette,Numa Wood - the-wood,0.2383671397166207,8.88888888888889,18
+Group,Medium Studio with Kitchenette - Accessible,Numa Drift - gaijin,,10.0,1
+Group,Medium Studio with Kitchenette - Single Bed,Numa Blend - numa-i-blend-apartments,,9.0,1
+Group,Medium Studio with Kitchenette - Single Bed,Numa Viktoria - joyn-munich-olympic-munchen,,10.0,1
+Group,Medium Studio with Kitchenette and Balcony,Numa Artol - excelsiordusseldorf,2.859487448300378,7.5,2
+Group,Medium Studio with Kitchenette and Balcony,Numa Boxer - almodovarhotel-berlin-biohotel,0.13683673469387753,9.428571428571429,7
+Group,Medium Studio with Kitchenette and Balcony,Numa Champs-Élysées - numa-paris-champs-elysees,0.6654999999999999,8.6,5
+Group,Medium Studio with Kitchenette and Balcony,Numa Craft - numa-i-craft-rooms-amp-apartments,0.4,9.0,2
+Group,Medium Studio with Kitchenette and Balcony,Numa Oben - star-gmbh,,10.0,1
+Group,Medium Studio with Kitchenette and Balcony,Numa Sempione - numa-milan-sempione,0.0,10.0,2
+Group,Medium Studio with Kitchenette and Balcony,Numa Turi - numa-i-turi-apartments-zurich,,10.0,1
+Group,Medium Studio with Kitchenette and Balcony - Single bed,Numa Oben - star-gmbh,3.44465580134211,5.5,2
+Group,Medium Studio with Kitchenette and Workspace,Numa Oben - star-gmbh,,5.0,1
+Group,One Bedroom (4 Persons),Numa Docklands - yays-amsterdam-docklands,,9.0,1
+Group,One Bedroom (4 Persons),Numa YAYS Antwerp Opera by Numa - yays-antwerp-opera,0.1772946859903382,8.847826086956522,46
+Group,One-Bedroom (2 Persons),Numa YAYS Antwerp Opera by Numa - yays-antwerp-opera,0.11983396786632208,8.333333333333334,3
+Group,One-Bedroom (4 Persons),Numa YAYS The Hague Willemspark by Numa - yays-the-hague-willemspark,0.39822341888023316,7.666666666666667,3
+Group,One-Bedroom Apartment,Numa Alegre - alvarez-quintero-apartment,0.4,9.0,2
+Group,One-Bedroom Apartment,Numa Caja - gaderin,,8.0,1
+Group,One-Bedroom Apartment,Numa Colmena - numa-i-colmena-apartments,0.16000000000000003,9.0,6
+Group,One-Bedroom Apartment,Numa Flow - fashion-dancing,0.0,10.0,2
+Group,One-Bedroom Apartment,Numa Lustre - friendly-rentals-mozart,0.5588235294117647,8.941176470588236,17
+Group,One-Bedroom Apartment,Numa Oosterpark - eastern-park-apartment-suites,0.19428571428571428,8.6,15
+Group,One-Bedroom Apartment,Numa Seda - friendly-rentals-hopper,0.3333333333333334,8.666666666666666,3
+Group,One-Bedroom Apartment,Numa Solea - numa-l-solea-rooms-amp-apartments,1.8756953600399444,8.0,2
+Group,One-Bedroom Apartment,Numa Verso - numa-i-verso-apartments,0.7666666666666666,8.88888888888889,9
+Group,One-Bedroom Apartment,Numa YAYS Amsterdam North by Numa - ndsm-serviced-apartments,0.3177777777777778,8.5,10
+Group,One-Bedroom Apartment,Numa YAYS Amsterdam Salthouse Canal by Numa - yays-amsterdam-salthouse-canal,0.4046326492430611,8.25,4
+Group,One-Bedroom Apartment,Numa YAYS The Hague Willemspark by Numa - yays-the-hague-willemspark,0.13833992094861658,8.652173913043478,23
+Group,One-Bedroom Apartment (4 Adults),Numa YAYS Amsterdam Vondelpark by Numa - amsterdam-vondelpark-by-yays,0.40021481067648124,7.875,8
+Group,One-Bedroom Apartment (4 persons),Numa YAYS Amsterdam East by Numa - amsterdam-east-by-yays,1.3257077456586612,8.1,10
+Group,One-Bedroom Apartment (4 persons),Numa YAYS Paris Issy by Numa - yays-paris-issy,0.08333333333333337,9.666666666666666,3
+Group,One-Bedroom Apartment (6 Persons),Numa YAYS Amsterdam East by Numa - amsterdam-east-by-yays,0.39457237677191126,8.75,28
+Group,One-Bedroom Apartment wheelchair accessible,Numa YAYS Amsterdam East by Numa - amsterdam-east-by-yays,0.0,10.0,2
+Group,One-Bedroom Apartment with Balcony,Numa YAYS The Hague Willemspark by Numa - yays-the-hague-willemspark,1.0072710379278522,7.666666666666667,6
+Group,One-Bedroom Apartment with View,Numa YAYS Amsterdam Salthouse Canal by Numa - yays-amsterdam-salthouse-canal,0.28662853717708725,9.0,22
+Group,One-Bedroom Comfort (4 Persons),Numa YAYS Antwerp Opera by Numa - yays-antwerp-opera,0.448116622834216,8.76,75
+Group,One-Bedroom Deluxe Apartment,Numa YAYS Amsterdam Salthouse Canal by Numa - yays-amsterdam-salthouse-canal,0.7848702911955427,7.9818181818181815,55
+Group,One-bedroom Attic (2 Persons),Numa YAYS Amsterdam Vondelpark by Numa - amsterdam-vondelpark-by-yays,,6.0,1
+Group,Single Room,Numa Bloc - numa-l-bloc-apartments,0.9,8.5,2
+Group,Single Room,Numa Bloomsbury - bedfordcornerhotel,,7.0,1
+Group,Single Room,Numa Script - la-pepa-chic-bed,0.2756953600399443,8.0,3
+Group,Single Room - Disability Access,Numa Potsdamer Platz - precise-tale-berlin,0.9432795365608108,7.0,2
+Group,Small Double Room,Numa Kudamm - about-berlin-hotel,0.30948744830037755,7.5,2
+Group,Small Double Room,Numa Roca - retrome-barcelona,0.15000000000000002,8.5,2
+Group,Small Double Room,Numa Script - la-pepa-chic-bed,2.145498031747651,6.5,10
+Group,Small Room,Numa Bloomsbury - bedfordcornerhotel,2.357876899314289,6.833333333333333,6
+Group,Small Room,Numa Ivy - villa-ivy-by-heymcollections,,10.0,1
+Group,Small Room,Numa Maximilian - the-maximilian-by-heymcollections,3.281826057204967,6.285714285714286,7
+Group,Small Room,Numa Sketch - sketch-rooms-amp-apartments,2.7018422473576944,6.75,4
+Group,Small Room - Single Bed,Numa Artol - excelsiordusseldorf,,7.0,1
+Group,Small Room - Single Bed,Numa Barberini - capriceroma,2.210863713081677,6.0,2
+Group,Small Room - Single Bed,Numa Bloomsbury - bedfordcornerhotel,0.0,9.0,2
+Group,Small Room - Single Bed,Numa Linea - capitol-roma,0.25374297908756344,8.0,6
+Group,Small Room - Single Bed,Numa Rodo - rodo-hotel-fashion-delight,0.07569536003994434,8.0,2
+Group,Small Room with Balcony - Single Bed,Numa Forcola - numa-venice-forcola,,8.0,1
+Group,Small Room with Terrace,Numa Portico - numa-i-portico-rooms,0.07569536003994434,8.0,2
+Group,Standard Apartment,Numa Alegre - alvarez-quintero-apartment,0.07569536003994434,8.0,5
+Group,Standard Apartment,Numa Jondo - sevilla-luxury-rentals-horno-santa-cruz,0.5,9.0,2
+Group,Standard Apartment,Numa Vega - urban-vida-granada-i,0.1257575757575758,9.416666666666666,12
+Group,Standard Room,Numa Artol - excelsiordusseldorf,2.3041970464150108,6.0,6
+Group,Standard Room,Numa Barberini - capriceroma,1.0467198202445993,8.058823529411764,17
+Group,Standard Room,Numa Bloomsbury - bedfordcornerhotel,0.9484226327672172,8.0,11
+Group,Standard Room,Numa Bona - auerberg-galerie,1.1060544217687074,8.857142857142858,7
+Group,Standard Room,Numa Champs-Élysées - numa-paris-champs-elysees,0.2368654703881977,8.916666666666666,12
+Group,Standard Room,Numa Forcola - numa-venice-forcola,0.06800000000000002,9.6,5
+Group,Standard Room,Numa Kudamm - about-berlin-hotel,0.1355555555555556,9.3,10
+Group,Standard Room,Numa Maximilian - the-maximilian-by-heymcollections,0.212362026706611,8.0,4
+Group,Standard Room,Numa Mozart - tophotelmozart,0.39569536003994443,8.0,6
+Group,Standard Room,Numa Novela - numa-i-novela-rooms-amp-apartments,0.20949062021056453,8.444444444444445,9
+Group,Standard Room,Numa Palazzo Orseolo - palazzo-orseolo,3.19465580134211,5.5,2
+Group,Standard Room,Numa Portico - numa-i-portico-rooms,0.1,9.5,2
+Group,Standard Room,Numa Potsdamer Platz - precise-tale-berlin,0.8013870596446875,8.0,23
+Group,Standard Room,Numa Rodo - rodo-hotel-fashion-delight,0.5269727891156463,8.571428571428571,7
+Group,Standard Room,Numa Sketch - sketch-rooms-amp-apartments,0.6299905846251623,8.272727272727273,11
+Group,Standard Room,Numa Tullo - numa-i-tullo-rooms,0.5333333333333334,8.666666666666666,3
+Group,Standard Room - Single Bed,Numa Mozart - tophotelmozart,,9.0,1
+Group,Standard Room - Single Bed,Numa Wood - the-wood,,10.0,1
+Group,Standard Room with Balcony,Numa Torstraße - alte-schonhauser-str-2-10119-berlin,,10.0,1
+Group,Standard Room with Terrace,Numa Portico - numa-i-portico-rooms,,10.0,1
+Group,Standard Room with Terrace,Numa Tullo - numa-i-tullo-rooms,0.15000000000000002,9.5,2
+Group,Standard Studio,Numa Goya - numa-i-goya-apartments,0.48650063453298886,8.333333333333334,3
+Group,Standard Studio,Numa Luna - numa-i-luna-apartments,0.08333333333333337,8.666666666666666,3
+Group,Standard Studio with Kitchenette - Single Bed,Numa Viktoria - joyn-munich-olympic-munchen,0.9,8.5,2
+Group,Standard Suite,Numa Camperio - camperio-house-suites-apartments,0.07569536003994434,8.0,2
+Group,Standard Suite,Numa Root - antik-city-prague,0.15000000000000002,9.5,2
+Group,Studio,Numa Goya - numa-i-goya-apartments,,10.0,1
+Group,Studio,Numa Luna - numa-i-luna-apartments,0.05,9.75,4
+Group,Studio,Numa Nørrebro - numa-i-drejervej,0.0,9.0,2
+Group,Studio,Numa Oosterpark - eastern-park-apartment-suites,0.25948744830037757,7.5,2
+Group,Studio,Numa Potsdamer Platz - precise-tale-berlin,,9.0,1
+Group,Studio,Numa Vega - urban-vida-granada-i,0.0,10.0,2
+Group,Studio,Numa YAYS Antwerp Opera by Numa - yays-antwerp-opera,1.4668284628261863,7.666666666666667,12
+Group,Studio (2 Adults),Numa YAYS Amsterdam Maritime by Numa - yays-amsterdam-maritime,0.15180952380952378,8.5,6
+Group,Studio - Disability Access,Numa Goya - numa-i-goya-apartments,,5.0,1
+Group,Studio - Disability Access,Numa Nørrebro - numa-i-drejervej,0.225,8.625,8
+Group,Studio with Balcony,Numa Luna - numa-i-luna-apartments,0.06550000000000002,8.6,5
+Group,Studio with Balcony,Numa Nørrebro - numa-i-drejervej,,10.0,1
+Group,Studio with Terrace,Numa Goya - numa-i-goya-apartments,,9.0,1
+Group,Suite,Numa Flow - fashion-dancing,0.1,9.5,2
+Group,Suite,Numa Poise - numa-i-poise-rooms-and-apartments,0.1,9.5,2
+Group,Suite,Numa Republika - republika-amp-suites,0.15000000000000002,9.333333333333334,9
+Group,Suite with Balcony,Numa Nørrebro - numa-i-drejervej,0.1781818181818182,9.090909090909092,11
+Group,Superior Apartment,Numa Vega - urban-vida-granada-i,0.11271525371863489,9.15,20
+Group,Superior Double Room,Numa Bloomsbury - bedfordcornerhotel,0.9784478896025435,5.0,3
+Group,Superior Double Room,Numa Lief - numa-l-lief,3.4451145562692105,5.0,3
+Group,Superior Double Room,Numa Republika - republika-amp-suites,0.4866666666666667,9.3,10
+Group,Superior Four-Bedroom Apartment (5 Adults),Numa Caja - gaderin,1.782729030648291,7.6,5
+Group,Superior One-Bedroom Apartment,Numa Alegre - alvarez-quintero-apartment,0.5,9.0,2
+Group,Superior Room,Numa Potsdamer Platz - precise-tale-berlin,1.05,8.5,2
+Group,Superior Room with Terrace,Numa Potsdamer Platz - precise-tale-berlin,,9.0,1
+Group,Superior Studio,Numa Camperio - camperio-house-suites-apartments,,9.0,1
+Group,Three Bedroom Apartment,Numa Colmena - numa-i-colmena-apartments,0.10555555555555554,9.444444444444445,9
+Group,Three-Bedroom Apartment,Numa Caja - gaderin,0.3485714285714286,8.619047619047619,21
+Group,Three-Bedroom Apartment,Numa Jondo - sevilla-luxury-rentals-horno-santa-cruz,0.06083333333333334,9.75,4
+Group,Three-Bedroom Apartment,Numa Molina - sevilla-luxury-rentals-catedral-sevilla,0.07300000000000001,9.6,5
+Group,Three-Bedroom Apartment,Numa Prestigio - numa-i-prestigio-apartments,0.12121212121212124,9.333333333333334,12
+Group,Tower Suite,Numa YAYS Amsterdam Maritime by Numa - yays-amsterdam-maritime,,5.0,1
+Group,Two Bedroom Suite with Bathtub - No Kitchen,Numa Palazzo Orseolo - palazzo-orseolo,0.15000000000000002,9.5,2
+Group,Two-Bedroom Apartment,Numa Colmena - numa-i-colmena-apartments,0.7802742174142363,8.909090909090908,22
+Group,Two-Bedroom Apartment,Numa Flow - fashion-dancing,0.0,10.0,2
+Group,Two-Bedroom Apartment,Numa Jondo - sevilla-luxury-rentals-horno-santa-cruz,0.08,9.5,4
+Group,Two-Bedroom Apartment,Numa Oosterpark - eastern-park-apartment-suites,4.043279536560811,7.0,2
+Group,Two-Bedroom Apartment,Numa Prestigio - numa-i-prestigio-apartments,0.21333333333333337,9.333333333333334,6
+Group,Two-Bedroom Apartment,Numa Solea - numa-l-solea-rooms-amp-apartments,0.3124900793650794,9.0,9
+Group,Two-Bedroom Apartment,Numa YAYS Amsterdam East by Numa - amsterdam-east-by-yays,0.8716781037885156,8.25,12
+Group,Two-Bedroom Apartment,Numa YAYS Amsterdam North by Numa - ndsm-serviced-apartments,0.36025772762036506,8.571428571428571,14
+Group,Two-Bedroom Apartment,Numa YAYS Amsterdam Salthouse Canal by Numa - yays-amsterdam-salthouse-canal,1.3596950313275642,6.625,8
+Group,Two-Bedroom Apartment,Numa YAYS Antwerp Opera by Numa - yays-antwerp-opera,0.1,9.5,2
+Group,Two-Bedroom Apartment,Numa YAYS The Hague Willemspark by Numa - yays-the-hague-willemspark,,10.0,1
+Group,Two-Bedroom Apartment (4 Adults),Numa YAYS Amsterdam Prince Island by Numa - amsterdam-prince-island-by-yays,1.6411979062919508,7.333333333333333,9
+Group,Two-Bedroom Apartment Wheelchair Accessible,Numa YAYS Amsterdam North by Numa - ndsm-serviced-apartments,3.7449310542983696,5.2,5
+Group,Two-Bedroom Apartment with Shared Terrace (4 Adults),Numa YAYS Amsterdam Prince Island by Numa - amsterdam-prince-island-by-yays,0.7550023209080551,6.333333333333333,3
+Group,Two-Bedroom Family Apartment,Numa YAYS Amsterdam Salthouse Canal by Numa - yays-amsterdam-salthouse-canal,0.17550000000000002,8.6,5
+Group,Two-Bedroom Penthouse - Panoramic Terrace (6 Persons),Numa YAYS Antwerp Opera by Numa - yays-antwerp-opera,0.4756953600399444,8.0,2
+Group,Two-Bedroom Penthouse - Terrace (6 Persons),Numa YAYS Antwerp Opera by Numa - yays-antwerp-opera,0.07047619047619048,9.266666666666667,15
+Group,West Apartment,Numa Potsdamer Platz - precise-tale-berlin,0.30398466782961214,8.444444444444445,9
+Group,"XL 1 Bedroom Apartment with Terrace, Sofa Bed & Extra Double Bed - Duplex",Numa Strauss - sunrise-apartments,,9.0,1
+Solo traveller,1 Bedroom Apartment,Numa Docklands - yays-amsterdam-docklands,0.3175,8.75,4
+Solo traveller,1 Bedroom Apartment,Numa Fiore - le-fiorentine-boutique-apartments,,10.0,1
+Solo traveller,1 Bedroom Apartment,Numa Sol - numa-madrid-sol-apartments,0.30000000000000004,9.333333333333334,3
+Solo traveller,1 Bedroom Apartment,Numa Strauss - sunrise-apartments,1.067591404170161,7.75,4
+Solo traveller,1 Bedroom Apartment,Numa Topp - frogner-house-apartments-skovveien-15,0.22615411496704424,7.5,4
+Solo traveller,1 Bedroom Apartment,Numa YAYS Paris Issy by Numa - yays-paris-issy,2.2126755806910277,6.75,4
+Solo traveller,1 Bedroom Apartment,Numa YAYS Paris Zola by Numa - eiffel-village-apartments-paris-centre,0.5,9.0,2
+Solo traveller,1 Bedroom Apartment - Duplex,Numa YAYS Paris Issy by Numa - yays-paris-issy,6.112239977862977,4.5,2
+Solo traveller,1 Bedroom Apartment for 2 Guests,Numa Docklands - yays-amsterdam-docklands,,10.0,1
+Solo traveller,1 Bedroom Apartment with Balcony and Sofa Bed,Numa Loreto - loreto-rooms-amp-apartments,0.1,8.5,2
+Solo traveller,1 Bedroom Apartment with Balcony and Sofa bed,Numa Sempione - numa-milan-sempione,0.06666666666666667,9.333333333333334,3
+Solo traveller,1 Bedroom Apartment with Sofa Bed,Numa Docklands - yays-amsterdam-docklands,,9.0,1
+Solo traveller,1 Bedroom Apartment with Sofa Bed,Numa Felice - numa-i-felice-rooms-amp-apartments,,10.0,1
+Solo traveller,1 Bedroom Apartment with Sofa Bed,Numa Fiore - le-fiorentine-boutique-apartments,,6.0,1
+Solo traveller,1 Bedroom Apartment with Sofa Bed,Numa Kater - berlin-eastside-apartments,0.9,8.5,2
+Solo traveller,1 Bedroom Apartment with Sofa Bed,Numa Saga - numa-l-saga-apartments,0.4756953600399444,8.0,2
+Solo traveller,1 Bedroom Apartment with Sofa Bed,Numa Sketch - sketch-rooms-amp-apartments,,10.0,1
+Solo traveller,1 Bedroom Apartment with Sofa Bed,Numa Vici - dolce-vita-residence,,7.0,1
+Solo traveller,1 Bedroom Apartment with Sofa Bed - Duplex - No Kitchen,Numa Felice - numa-i-felice-rooms-amp-apartments,4.343279536560811,7.0,2
+Solo traveller,1 Bedroom Apartment with Sofa Bed - no AC,Numa Terra - numa-i-terra-apartments,0.06666666666666667,9.666666666666666,3
+Solo traveller,1 Bedroom Apartment with Sofa bed,Numa Sempione - numa-milan-sempione,0.16499999999999998,9.0,4
+Solo traveller,1 Bedroom Apartment with Terrace,Numa Sol - numa-madrid-sol-apartments,,8.0,1
+Solo traveller,1 Bedroom Apartment with Terrace - no AC,Numa Terra - numa-i-terra-apartments,0.13233333333333336,9.166666666666666,6
+Solo traveller,1 Bedroom Apartment- Single Bed,Numa Topp - frogner-house-apartments-skovveien-15,0.25333333333333335,8.75,16
+Solo traveller,2 Bedroom Apartment,Numa Sol - numa-madrid-sol-apartments,,10.0,1
+Solo traveller,2 Bedroom Apartment,Numa Strauss - sunrise-apartments,,8.0,1
+Solo traveller,2 Bedroom Apartment with Sofa Bed,Numa Sempione - numa-milan-sempione,0.4,9.0,2
+Solo traveller,Apartment,Numa Verso - numa-i-verso-apartments,2.623279536560811,7.0,5
+Solo traveller,Apartment - Disability Access,Numa YAYS Antwerp Opera by Numa - yays-antwerp-opera,0.2,9.0,3
+Solo traveller,Apartment with Balcony,Numa Jondo - sevilla-luxury-rentals-horno-santa-cruz,,10.0,1
+Solo traveller,Business-Friendly Suite,Numa Bloc - numa-l-bloc-apartments,1.7525474937376573,6.125,8
+Solo traveller,Classic Studio,Numa Bloc - numa-l-bloc-apartments,1.0381253479073422,7.888888888888889,36
+Solo traveller,Comfort Suite,Numa Bloc - numa-l-bloc-apartments,1.7212987643002198,6.7368421052631575,19
+Solo traveller,Deluxe Double Room,Numa Lief - numa-l-lief,1.0085768767529129,8.140845070422536,71
+Solo traveller,Deluxe Double Room with Bath,Numa Root - antik-city-prague,0.668621058871924,8.705882352941176,17
+Solo traveller,Deluxe Double Room with Court View,Numa Palazzo Orseolo - palazzo-orseolo,,3.0,1
+Solo traveller,Deluxe Room,Numa Potsdamer Platz - precise-tale-berlin,1.1766128698941443,7.0,3
+Solo traveller,Deluxe Studio,Numa Bloc - numa-l-bloc-apartments,1.8443012068857345,7.36,25
+Solo traveller,Deluxe Studio,Numa Camperio - camperio-house-suites-apartments,,8.0,1
+Solo traveller,Deluxe Studio,Numa Jondo - sevilla-luxury-rentals-horno-santa-cruz,0.2,9.0,3
+Solo traveller,Deluxe Studio,Numa Libusa - sunrise,0.059571428571428574,9.666666666666666,6
+Solo traveller,Deluxe Suite,Numa Camperio - camperio-house-suites-apartments,,9.0,1
+Solo traveller,Deluxe Suite,Numa Libusa - sunrise,0.04363636363636364,9.727272727272727,11
+Solo traveller,Deluxe Suite,Numa Poise - numa-i-poise-rooms-and-apartments,0.3107142857142857,8.875,8
+Solo traveller,Deluxe Suite,Numa Republika - republika-amp-suites,,9.0,1
+Solo traveller,Deluxe Suite,Numa Root - antik-city-prague,0.141,9.2,5
+Solo traveller,Deluxe Suite,Numa Solea - numa-l-solea-rooms-amp-apartments,0.06000000000000001,9.6,5
+Solo traveller,Deluxe Suite with bath tub,Numa Libusa - sunrise,0.15000000000000002,9.5,2
+Solo traveller,Double Room,Numa Bloomsbury - bedfordcornerhotel,,8.0,1
+Solo traveller,Double Room,Numa Brio - hcristina,1.179976715438386,7.875,16
+Solo traveller,Double Room,Numa Camperio - camperio-house-suites-apartments,1.9887158045138527,7.866666666666666,15
+Solo traveller,Double Room,Numa Flow - fashion-dancing,0.1711267006802721,9.375,8
+Solo traveller,Double Room,Numa Lief - numa-l-lief,1.3334151580733575,7.651162790697675,43
+Solo traveller,Double Room,Numa Poise - numa-i-poise-rooms-and-apartments,0.2185483870967742,9.0625,32
+Solo traveller,Double Room,Numa Root - antik-city-prague,0.16190476190476188,9.142857142857142,7
+Solo traveller,Double Room - Disability Access,Numa Lief - numa-l-lief,1.4041666666666668,8.75,4
+Solo traveller,Double Room with Balcony,Numa Brio - hcristina,2.7090286933732783,8.0,3
+Solo traveller,Double Room with Balcony,Numa Flow - fashion-dancing,0.12906084656084657,9.11111111111111,9
+Solo traveller,Double Room with Balcony,Numa Poise - numa-i-poise-rooms-and-apartments,0.14776190476190473,9.5,6
+Solo traveller,Double Room with Balcony,Numa Roca - retrome-barcelona,1.183858410972882,7.75,8
+Solo traveller,Double Room with City View,Numa Script - la-pepa-chic-bed,2.5062710379278523,7.666666666666667,6
+Solo traveller,Duplex Studio,Numa YAYS Amsterdam Maritime by Numa - yays-amsterdam-maritime,,8.0,1
+Solo traveller,Excelsior Suite,Numa Potsdamer Platz - precise-tale-berlin,1.832362026706611,8.0,4
+Solo traveller,Extra Large 1 Bedroom Apartment with Terrace and Sofa Bed,Numa Sempione - numa-milan-sempione,,8.0,1
+Solo traveller,Extra Large 2 Bedroom Apartment with Balcony and Sofa Bed,Numa Loreto - loreto-rooms-amp-apartments,,8.0,1
+Solo traveller,Extra Large Room - Accessible,Numa Obersendling - numa-munich-obersendling,0.15000000000000002,9.5,2
+Solo traveller,Extra Large Room with Balcony,Numa Kudamm - about-berlin-hotel,1.0431614498978588,7.7272727272727275,11
+Solo traveller,Extra Large Room with Bathtub,Numa Ivy - villa-ivy-by-heymcollections,1.2000000000000002,8.666666666666666,3
+Solo traveller,Extra Large Studio with Kitchen,Numa Nook - frederics-serviced-apartment,0.4,9.0,2
+Solo traveller,Extra Large Studio with Kitchen,Numa Viktoria - joyn-munich-olympic-munchen,0.42627197039778003,8.680851063829786,47
+Solo traveller,Extra Large Studio with Kitchen - Twin Beds,Numa Viktoria - joyn-munich-olympic-munchen,0.7077646639531332,8.166666666666666,6
+Solo traveller,Extra Large Studio with Kitchen and 2 Sofa Beds - Duplex,Numa Craft - numa-i-craft-rooms-amp-apartments,,4.0,1
+Solo traveller,Extra Large Studio with Kitchen and Balcony,Numa Nook - frederics-serviced-apartment,2.4482234188802328,7.666666666666667,3
+Solo traveller,Extra Large Studio with Kitchen and Separate Living Area,Numa Viktoria - joyn-munich-olympic-munchen,0.08333333333333337,8.666666666666666,3
+Solo traveller,Extra Large Studio with Kitchen and Sofa Bed - no AC,Numa Terra - numa-i-terra-apartments,0.25948744830037757,7.5,2
+Solo traveller,"Extra Large Studio with Kitchen, Terrace and AC",Numa Terra - numa-i-terra-apartments,0.08333333333333337,9.666666666666666,3
+Solo traveller,Extra Large Studio with Kitchenette,Numa Arc - numa-i-arc-rooms-amp-apartments,0.5854192666258647,7.4,10
+Solo traveller,Extra Large Studio with Kitchenette,Numa Obersendling - numa-munich-obersendling,0.23823529411764707,8.764705882352942,17
+Solo traveller,Extra Large Studio with Kitchenette,Numa Rato - numa-i-voga-rooms-amp-apartments,,9.0,1
+Solo traveller,Extra Large Studio with Kitchenette,Numa Saga - numa-l-saga-apartments,0.5156037414965986,8.5,8
+Solo traveller,Extra Large Studio with Kitchenette and Balcony,Numa Kudamm - about-berlin-hotel,1.047592270065674,8.176470588235293,17
+Solo traveller,Extra Large Studio with Kitchenette and Sofa Bed,Numa Blend - numa-i-blend-apartments,,8.0,1
+Solo traveller,Extra Large Studio with Kitchenette and Sofa Bed,Numa Fore - my4walls-serviced-apartments-hamburg,0.1,8.5,2
+Solo traveller,Extra Large Studio with Kitchenette and Sofa Bed,Numa Hallen - oslo-apartments-dronningensgate-15,,10.0,1
+Solo traveller,Extra Large Studio with Kitchenette and Sofa Bed,Numa Saga - numa-l-saga-apartments,0.17342473750349427,7.75,4
+Solo traveller,"Extra Large Studio with Kitchenette, Balcony and Sofa Bed",Numa Boxer - almodovarhotel-berlin-biohotel,,8.0,1
+Solo traveller,"Extra Large Studio with Kitchenette, Balcony and Sofa Bed",Numa Sempione - numa-milan-sempione,0.15000000000000002,8.5,2
+Solo traveller,Four-Bedroom Apartment (5 Adults),Numa Caja - gaderin,,9.0,1
+Solo traveller,Junior Suite,Numa Flow - fashion-dancing,1.1571260150106302,8.928571428571429,14
+Solo traveller,Junior Suite,Numa Libusa - sunrise,0.25,9.0,3
+Solo traveller,Junior Suite,Numa Potsdamer Platz - precise-tale-berlin,0.15000000000000002,9.5,2
+Solo traveller,Large 1 Bedroom Apartment,Numa YAYS The Hague Willemspark by Numa - yays-the-hague-willemspark,0.8423620267066111,8.0,4
+Solo traveller,Large 1 Bedroom Apartment with Balcony,Numa Strauss - sunrise-apartments,0.2666666666666667,9.333333333333334,3
+Solo traveller,Large 1 Bedroom Apartment with Shared Terrace and Sofa Bed,Numa Vita - m7-contemporary-apartments-my-extra-home,,10.0,1
+Solo traveller,Large 1 Bedroom Apartment with Sofa Bed,Numa Kater - berlin-eastside-apartments,,8.0,1
+Solo traveller,Large 1 Bedroom Apartment with Sofa Bed,Numa Sonate - townhouse-tessa-by-heymcollections,,8.0,1
+Solo traveller,Large 1 Bedroom Apartment with Sofa Bed,Numa Vita - m7-contemporary-apartments-my-extra-home,,8.0,1
+Solo traveller,Large 1 Bedroom Apartment with Sofa Bed,Numa YAYS Paris Issy by Numa - yays-paris-issy,7.178447889602544,5.0,2
+Solo traveller,Large 1 Bedroom Apartment with Sofa Bed - Duplex,Numa Topp - frogner-house-apartments-skovveien-15,,7.0,1
+Solo traveller,Large 1 Bedroom Apartment with Terrace and Sofa Bed,Numa Sempione - numa-milan-sempione,,9.0,1
+Solo traveller,Large 1 Bedroom Apartment with Terrace and Sofa Bed - no AC,Numa Terra - numa-i-terra-apartments,0.055833333333333346,8.75,4
+Solo traveller,"Large 1 Bedroom Apartment with Terrace, Sofa Bed and AC",Numa Terra - numa-i-terra-apartments,,9.0,1
+Solo traveller,Large 1 Bedroom Duplex with Sofa Bed & 2 Single Beds,Numa Palazzo Belfiore - palazzo-belfiore,,8.0,1
+Solo traveller,Large 2 Bedroom Apartment - Duplex,Numa Vita - m7-contemporary-apartments-my-extra-home,,9.0,1
+Solo traveller,Large 2 Bedroom Apartment with Sofa Bed,Numa Kater - berlin-eastside-apartments,,8.0,1
+Solo traveller,Large 2 Bedroom Apartment with Sofa Bed,Numa Vita - m7-contemporary-apartments-my-extra-home,,10.0,1
+Solo traveller,Large Double Room,Numa Kudamm - about-berlin-hotel,2.79511455626921,5.0,3
+Solo traveller,Large Room,Numa Belfort - belfort-berlin,0.06083333333333334,9.75,4
+Solo traveller,Large Room,Numa Felice - numa-i-felice-rooms-amp-apartments,1.4516197557710109,7.818181818181818,11
+Solo traveller,Large Room,Numa Ivy - villa-ivy-by-heymcollections,0.15000000000000002,9.5,2
+Solo traveller,Large Room,Numa Mozart - tophotelmozart,0.48650063453298886,8.333333333333334,3
+Solo traveller,Large Room,Numa Obersendling - numa-munich-obersendling,0.5820512820512821,8.461538461538462,13
+Solo traveller,Large Room,Numa Vici - dolce-vita-residence,0.9,8.5,2
+Solo traveller,Large Room - Accessible,Numa Boxer - almodovarhotel-berlin-biohotel,0.25598107432565864,8.0,6
+Solo traveller,Large Room - Accessible,Numa Savi - stilwerk-kantgaragen-berlin63,0.3333333333333334,8.666666666666666,3
+Solo traveller,Large Room with Balcony,Numa Kudamm - about-berlin-hotel,1.0251671617459184,7.75,12
+Solo traveller,Large Room with Balcony,Numa Mozart - tophotelmozart,,7.0,1
+Solo traveller,Large Room with Balcony - Accessible,Numa Torstraße - alte-schonhauser-str-2-10119-berlin,,3.0,1
+Solo traveller,Large Room with Extra Single Bed,Numa Linea - capitol-roma,,6.0,1
+Solo traveller,Large Room with Separate Living Area,Numa Forcola - numa-venice-forcola,,7.0,1
+Solo traveller,Large Room with Sofa Bed,Numa Sketch - sketch-rooms-amp-apartments,,10.0,1
+Solo traveller,Large Room with Terrace,Numa Wood - the-wood,0.33000000000000007,9.0,5
+Solo traveller,Large Studio with Kitchen,Numa Nook - frederics-serviced-apartment,0.6044806481742688,8.5,20
+Solo traveller,Large Studio with Kitchen,Numa Stark - joyn-munich-rose,0.06666666666666667,9.333333333333334,3
+Solo traveller,Large Studio with Kitchen,Numa Topp - frogner-house-apartments-skovveien-15,0.14503896103896102,9.4,10
+Solo traveller,Large Studio with Kitchen,Numa YAYS Paris Issy by Numa - yays-paris-issy,0.49822903064829094,7.6,5
+Solo traveller,Large Studio with Kitchen - Accessible,Numa Sol - numa-madrid-sol-apartments,,9.0,1
+Solo traveller,"Large Studio with Kitchen - Single Bed, Accessible",Numa Topp - frogner-house-apartments-skovveien-15,0.2447130312470714,8.866666666666667,30
+Solo traveller,Large Studio with Kitchen and Sofa Bed,Numa Kater - berlin-eastside-apartments,,3.0,1
+Solo traveller,Large Studio with Kitchen and Sofa Bed,Numa Palazzo Moro - palazzo-del-moro-firenze,2.2041357157750587,8.142857142857142,7
+Solo traveller,"Large Studio with Kitchen, Balcony and Sofa Bed",Numa Nora - townhouse-nora-salzburg,,10.0,1
+Solo traveller,Large Studio with Kitchenette,Numa Anjos - numa-lisbon-anjos,0.0,10.0,2
+Solo traveller,Large Studio with Kitchenette,Numa Arc - numa-i-arc-rooms-amp-apartments,0.7714657760437375,8.106382978723405,47
+Solo traveller,Large Studio with Kitchenette,Numa Artol - excelsiordusseldorf,4.2162663503281985,6.166666666666667,6
+Solo traveller,Large Studio with Kitchenette,Numa Blau - star-apart-hauptbahnhof,,10.0,1
+Solo traveller,Large Studio with Kitchenette,Numa Blend - numa-i-blend-apartments,1.3285958925501895,8.416666666666666,12
+Solo traveller,Large Studio with Kitchenette,Numa Bona - auerberg-galerie,0.06666666666666667,9.333333333333334,3
+Solo traveller,Large Studio with Kitchenette,Numa Boxer - almodovarhotel-berlin-biohotel,2.5796431717489727,7.818181818181818,11
+Solo traveller,Large Studio with Kitchenette,Numa Drift - gaijin,1.4808738123677487,7.2,10
+Solo traveller,Large Studio with Kitchenette,Numa Fore - my4walls-serviced-apartments-hamburg,0.42941970310391353,8.487179487179487,39
+Solo traveller,Large Studio with Kitchenette,Numa Hallen - oslo-apartments-dronningensgate-15,1.2936728427559616,8.3125,16
+Solo traveller,Large Studio with Kitchenette,Numa Munico - munico,1.3074631028436061,6.875,8
+Solo traveller,Large Studio with Kitchenette,Numa Obersendling - numa-munich-obersendling,0.2,9.0,3
+Solo traveller,Large Studio with Kitchenette,Numa Saga - numa-l-saga-apartments,0.0,10.0,3
+Solo traveller,Large Studio with Kitchenette,Numa Turi - numa-i-turi-apartments-zurich,0.08333333333333337,9.666666666666666,3
+Solo traveller,Large Studio with Kitchenette,Numa Viktoria - joyn-munich-olympic-munchen,2.6198632312602292,6.571428571428571,7
+Solo traveller,Large Studio with Kitchenette - Accessible,Numa Blend - numa-i-blend-apartments,,9.0,1
+Solo traveller,Large Studio with Kitchenette - Accessible,Numa Champs-Élysées - numa-paris-champs-elysees,,9.0,1
+Solo traveller,Large Studio with Kitchenette - Accessible,Numa Savi - stilwerk-kantgaragen-berlin63,0.07569536003994434,8.0,2
+Solo traveller,Large Studio with Kitchenette - Single Bed,Numa Fore - my4walls-serviced-apartments-hamburg,1.291763545556439,8.076923076923077,52
+Solo traveller,Large Studio with Kitchenette - Twin Beds,Numa Bona - auerberg-galerie,,5.0,1
+Solo traveller,Large Studio with Kitchenette and Balcony,Numa Artol - excelsiordusseldorf,,5.0,1
+Solo traveller,Large Studio with Kitchenette and Balcony,Numa Belfort - belfort-berlin,2.2628298209680335,8.125,8
+Solo traveller,Large Studio with Kitchenette and Balcony,Numa Blau - star-apart-hauptbahnhof,0.8009247375034944,7.75,4
+Solo traveller,Large Studio with Kitchenette and Balcony,Numa Boxer - almodovarhotel-berlin-biohotel,3.320751477720522,7.333333333333333,3
+Solo traveller,Large Studio with Kitchenette and Balcony,Numa Munico - munico,1.0204456411024554,7.666666666666667,9
+Solo traveller,Large Studio with Kitchenette and Balcony,Numa Novela - numa-i-novela-rooms-amp-apartments,0.45313607332838113,9.076923076923077,13
+Solo traveller,Large Studio with Kitchenette and Balcony,Numa Vici - dolce-vita-residence,2.1874181443871885,7.333333333333333,3
+Solo traveller,Large Studio with Kitchenette and Extra Bed,Numa Torstraße - alte-schonhauser-str-2-10119-berlin,0.40480952380952384,8.5,6
+Solo traveller,Large Studio with Kitchenette and Sofa Bed,Numa Belfort - belfort-berlin,,8.0,1
+Solo traveller,Large Studio with Kitchenette and Sofa Bed,Numa Drift - gaijin,2.455712195344118,7.8,5
+Solo traveller,Large Studio with Kitchenette and Sofa Bed,Numa Fore - my4walls-serviced-apartments-hamburg,1.5515048838494683,8.0,6
+Solo traveller,Large Studio with Kitchenette and Sofa Bed,Numa Novela - numa-i-novela-rooms-amp-apartments,0.15000000000000002,9.5,2
+Solo traveller,Large Studio with Kitchenette and Sofa Bed,Numa Rodo - rodo-hotel-fashion-delight,,1.0,1
+Solo traveller,Large Studio with Kitchenette and Terrace,Numa Anjos - numa-lisbon-anjos,,10.0,1
+Solo traveller,Large Studio with Kitchenette and Terrace,Numa Wood - the-wood,,9.0,1
+Solo traveller,Large Studio with Kitchenette and Terrace - Accessible,Numa Wood - the-wood,,10.0,1
+Solo traveller,"Large Studio with Kitchenette, Balcony and Sofa Bed",Numa Belfort - belfort-berlin,,8.0,1
+Solo traveller,"Large Studio with Kitchenette, Balcony and Sofa Bed",Numa Drift - gaijin,0.2,9.0,3
+Solo traveller,"Large Studio with Kitchenette, Balcony and Sofa Bed",Numa Leo - numa-i-leo-apartments,0.16703296703296708,9.285714285714286,14
+Solo traveller,Large Two-Bedroom Apartment,Numa Oosterpark - eastern-park-apartment-suites,,8.0,1
+Solo traveller,Maisonette,Numa YAYS Amsterdam Maritime by Numa - yays-amsterdam-maritime,3.983391771921967,5.666666666666667,3
+Solo traveller,Medium Room,Numa Arc - numa-i-arc-rooms-amp-apartments,1.238019223731915,7.957446808510638,47
+Solo traveller,Medium Room,Numa Barberini - capriceroma,1.2559198307622546,5.333333333333333,3
+Solo traveller,Medium Room,Numa Belfort - belfort-berlin,2.169799096768141,7.333333333333333,6
+Solo traveller,Medium Room,Numa Bloomsbury - bedfordcornerhotel,0.8416976108257195,7.6875,16
+Solo traveller,Medium Room,Numa Boxer - almodovarhotel-berlin-biohotel,0.7263890510515605,8.2,20
+Solo traveller,Medium Room,Numa Champs-Élysées - numa-paris-champs-elysees,0.2,8.5,4
+Solo traveller,Medium Room,Numa Drift - gaijin,0.7740792540792543,8.606060606060606,66
+Solo traveller,Medium Room,Numa Ivy - villa-ivy-by-heymcollections,0.33333333333333337,8.5,4
+Solo traveller,Medium Room,Numa Kudamm - about-berlin-hotel,1.3209360698771857,8.268292682926829,41
+Solo traveller,Medium Room,Numa Linea - capitol-roma,1.079194609415167,7.857142857142857,42
+Solo traveller,Medium Room,Numa Maximilian - the-maximilian-by-heymcollections,0.07316730119965546,8.333333333333334,6
+Solo traveller,Medium Room,Numa Mozart - tophotelmozart,0.597592270065674,8.176470588235293,17
+Solo traveller,Medium Room,Numa Nook - frederics-serviced-apartment,1.1586959552311442,7.294117647058823,17
+Solo traveller,Medium Room,Numa Potsdamer Platz - precise-tale-berlin,0.24712393146851577,8.0,8
+Solo traveller,Medium Room,Numa Savi - stilwerk-kantgaragen-berlin63,0.5097854833970028,8.759036144578314,83
+Solo traveller,Medium Room,Numa Sketch - sketch-rooms-amp-apartments,0.5676750917812322,7.85,20
+Solo traveller,Medium Room,Numa Torstraße - alte-schonhauser-str-2-10119-berlin,1.3496435548528845,7.484848484848484,33
+Solo traveller,Medium Room,Numa Vogelweider - numa-salzburg-vogelweider,0.6085732889587512,8.701754385964913,114
+Solo traveller,Medium Room - Accessible,Numa Champs-Élysées - numa-paris-champs-elysees,,1.0,1
+Solo traveller,Medium Room - Accessible,Numa Tullo - numa-i-tullo-rooms,,8.0,1
+Solo traveller,Medium Room - Accessible,Numa Vogelweider - numa-salzburg-vogelweider,1.038223418880233,7.666666666666667,6
+Solo traveller,Medium Room - Loft,Numa Boxer - almodovarhotel-berlin-biohotel,0.3907578268394459,8.76,25
+Solo traveller,Medium Room - Single Bed,Numa Stark - joyn-munich-rose,0.4341111048686303,8.79245283018868,53
+Solo traveller,Medium Room - Twin Bed,Numa Vogelweider - numa-salzburg-vogelweider,0.15757575757575754,8.666666666666666,12
+Solo traveller,Medium Room - Twin Beds,Numa Arc - numa-i-arc-rooms-amp-apartments,1.3139546942528897,7.157894736842105,19
+Solo traveller,Medium Room with Balcony,Numa Drift - gaijin,1.0514285714285716,8.466666666666667,15
+Solo traveller,Medium Room with Balcony,Numa Ivy - villa-ivy-by-heymcollections,0.2,9.0,5
+Solo traveller,Medium Room with Balcony,Numa Kudamm - about-berlin-hotel,1.231630562110516,8.204081632653061,49
+Solo traveller,Medium Room with Balcony,Numa Maximilian - the-maximilian-by-heymcollections,1.8266128698941444,7.0,3
+Solo traveller,Medium Room with Balcony,Numa Novela - numa-i-novela-rooms-amp-apartments,1.0588211249088095,8.25,12
+Solo traveller,Medium Room with Balcony,Numa Savi - stilwerk-kantgaragen-berlin63,1.162729030648291,7.6,5
+Solo traveller,Medium Room with Balcony,Numa Torstraße - alte-schonhauser-str-2-10119-berlin,,8.0,1
+Solo traveller,Medium Room with Balcony - Single Bed,Numa Stark - joyn-munich-rose,0.32904137377261633,8.363636363636363,22
+Solo traveller,Medium Room with Extra Single Bed,Numa Linea - capitol-roma,,7.0,1
+Solo traveller,Medium Room with Extra Single Bed,Numa Tullo - numa-i-tullo-rooms,,9.0,1
+Solo traveller,Medium Room with Sofa Bed,Numa Rodo - rodo-hotel-fashion-delight,,8.0,1
+Solo traveller,Medium Room with Terrace,Numa Barberini - capriceroma,1.2594874483003777,7.5,2
+Solo traveller,Medium Studio with Kitchen,Numa Docklands - yays-amsterdam-docklands,0.0,10.0,5
+Solo traveller,Medium Studio with Kitchen,Numa Kater - berlin-eastside-apartments,0.945199243221936,7.428571428571429,7
+Solo traveller,Medium Studio with Kitchen,Numa YAYS Paris Issy by Numa - yays-paris-issy,1.6144028651527527,7.933333333333334,15
+Solo traveller,Medium Studio with Kitchen,Numa YAYS Paris Zola by Numa - eiffel-village-apartments-paris-centre,1.9468223449505782,7.454545454545454,11
+Solo traveller,Medium Studio with Kitchen - Accessible,Numa YAYS Paris Issy by Numa - yays-paris-issy,,8.0,1
+Solo traveller,Medium Studio with Kitchen - Single Bed,Numa Stark - joyn-munich-rose,0.8342264106999796,8.5,22
+Solo traveller,Medium Studio with Kitchen and Balcony,Numa Craft - numa-i-craft-rooms-amp-apartments,0.15384615384615385,8.538461538461538,13
+Solo traveller,Medium Studio with Kitchen and Balcony,Numa Stark - joyn-munich-rose,0.15000000000000002,9.5,2
+Solo traveller,Medium Studio with Kitchen and Balcony,Numa YAYS Paris Zola by Numa - eiffel-village-apartments-paris-centre,0.25,9.0,3
+Solo traveller,Medium Studio with Kitchen and Balcony - Single Bed,Numa Stark - joyn-munich-rose,1.0856953600399444,8.0,16
+Solo traveller,Medium Studio with Kitchen for 2 Guests,Numa Docklands - yays-amsterdam-docklands,,10.0,1
+Solo traveller,Medium Studio with Kitchenette,Numa Arc - numa-i-arc-rooms-amp-apartments,0.6425793091086377,8.05,20
+Solo traveller,Medium Studio with Kitchenette,Numa Artol - excelsiordusseldorf,0.18217852473577117,8.2,5
+Solo traveller,Medium Studio with Kitchenette,Numa Blau - star-apart-hauptbahnhof,1.9454360489304576,6.290322580645161,31
+Solo traveller,Medium Studio with Kitchenette,Numa Blend - numa-i-blend-apartments,0.30948744830037755,7.5,2
+Solo traveller,Medium Studio with Kitchenette,Numa Bona - auerberg-galerie,1.6962696214890258,7.777777777777778,9
+Solo traveller,Medium Studio with Kitchenette,Numa Boxer - almodovarhotel-berlin-biohotel,0.8335134555296224,7.638888888888889,36
+Solo traveller,Medium Studio with Kitchenette,Numa Champs-Élysées - numa-paris-champs-elysees,0.859447303926538,8.421052631578947,19
+Solo traveller,Medium Studio with Kitchenette,Numa Hallen - oslo-apartments-dronningensgate-15,1.149009092547656,8.052631578947368,19
+Solo traveller,Medium Studio with Kitchenette,Numa Novela - numa-i-novela-rooms-amp-apartments,1.0409265948187332,8.272727272727273,22
+Solo traveller,Medium Studio with Kitchenette,Numa Oben - star-gmbh,1.3881953600399444,8.0,5
+Solo traveller,Medium Studio with Kitchenette,Numa Rato - numa-i-voga-rooms-amp-apartments,0.11794871794871793,9.384615384615385,13
+Solo traveller,Medium Studio with Kitchenette,Numa Saga - numa-l-saga-apartments,0.4029229286829403,8.822222222222223,45
+Solo traveller,Medium Studio with Kitchenette,Numa Savi - stilwerk-kantgaragen-berlin63,0.6957212942219937,7.833333333333333,6
+Solo traveller,Medium Studio with Kitchenette,Numa Sempione - numa-milan-sempione,0.5106060606060606,8.75,12
+Solo traveller,Medium Studio with Kitchenette,Numa Sketch - sketch-rooms-amp-apartments,0.29010989010989013,8.714285714285714,14
+Solo traveller,Medium Studio with Kitchenette,Numa Torstraße - alte-schonhauser-str-2-10119-berlin,0.08333333333333337,9.666666666666666,3
+Solo traveller,Medium Studio with Kitchenette,Numa Turi - numa-i-turi-apartments-zurich,0.5066245229165341,8.384615384615385,26
+Solo traveller,Medium Studio with Kitchenette,Numa Wood - the-wood,0.31052914286806144,8.578947368421053,38
+Solo traveller,Medium Studio with Kitchenette - Accessible,Numa Drift - gaijin,,7.0,1
+Solo traveller,Medium Studio with Kitchenette - Single Bed,Numa Blend - numa-i-blend-apartments,0.3124327244266691,9.058823529411764,17
+Solo traveller,Medium Studio with Kitchenette - Single Bed,Numa Obersendling - numa-munich-obersendling,1.990413100181101,7.571428571428571,14
+Solo traveller,Medium Studio with Kitchenette - Single Bed,Numa Viktoria - joyn-munich-olympic-munchen,0.8080342675013282,8.209677419354838,62
+Solo traveller,Medium Studio with Kitchenette and Balcony,Numa Artol - excelsiordusseldorf,0.7026755806910273,6.75,4
+Solo traveller,Medium Studio with Kitchenette and Balcony,Numa Boxer - almodovarhotel-berlin-biohotel,1.3216323619406176,7.6875,16
+Solo traveller,Medium Studio with Kitchenette and Balcony,Numa Champs-Élysées - numa-paris-champs-elysees,1.948458060097403,8.142857142857142,14
+Solo traveller,Medium Studio with Kitchenette and Balcony,Numa Craft - numa-i-craft-rooms-amp-apartments,0.3504659825763944,8.25,4
+Solo traveller,Medium Studio with Kitchenette and Balcony,Numa Oben - star-gmbh,2.328110745235904,7.166666666666667,6
+Solo traveller,Medium Studio with Kitchenette and Balcony,Numa Sempione - numa-milan-sempione,0.09454545454545457,9.454545454545455,11
+Solo traveller,Medium Studio with Kitchenette and Balcony,Numa Turi - numa-i-turi-apartments-zurich,0.9,8.5,2
+Solo traveller,Medium Studio with Kitchenette and Balcony - Single bed,Numa Oben - star-gmbh,0.4695724085065097,8.285714285714286,14
+Solo traveller,Medium Studio with Kitchenette and Terrace,Numa Rato - numa-i-voga-rooms-amp-apartments,0.46666666666666673,8.666666666666666,3
+Solo traveller,Medium Studio with Kitchenette and Workspace,Numa Oben - star-gmbh,0.25948744830037757,7.5,2
+Solo traveller,"Medium Studio with Kitchenette, Balcony and Separate Living Area",Numa Sempione - numa-milan-sempione,0.10727891156462586,9.142857142857142,7
+Solo traveller,One Bedroom (4 Persons),Numa YAYS Antwerp Opera by Numa - yays-antwerp-opera,1.0427680432312785,8.875,16
+Solo traveller,One-Bedroom (2 Persons),Numa YAYS Antwerp Opera by Numa - yays-antwerp-opera,0.5962801575713663,8.785714285714286,14
+Solo traveller,One-Bedroom Apartment,Numa Alegre - alvarez-quintero-apartment,0.0,10.0,2
+Solo traveller,One-Bedroom Apartment,Numa Caja - gaderin,,4.0,1
+Solo traveller,One-Bedroom Apartment,Numa Colmena - numa-i-colmena-apartments,,10.0,1
+Solo traveller,One-Bedroom Apartment,Numa Oosterpark - eastern-park-apartment-suites,,9.0,1
+Solo traveller,One-Bedroom Apartment,Numa Seda - friendly-rentals-hopper,0.6198339678663223,8.333333333333334,6
+Solo traveller,One-Bedroom Apartment,Numa Solea - numa-l-solea-rooms-amp-apartments,0.4,9.0,2
+Solo traveller,One-Bedroom Apartment,Numa Vega - urban-vida-granada-i,1.05,8.5,2
+Solo traveller,One-Bedroom Apartment,Numa Verso - numa-i-verso-apartments,0.3400000000000001,8.8,5
+Solo traveller,One-Bedroom Apartment,Numa YAYS Amsterdam Salthouse Canal by Numa - yays-amsterdam-salthouse-canal,0.19333333333333336,8.833333333333334,6
+Solo traveller,One-Bedroom Apartment,Numa YAYS The Hague Willemspark by Numa - yays-the-hague-willemspark,0.17569536003994435,8.0,5
+Solo traveller,One-Bedroom Apartment with View,Numa YAYS Amsterdam Salthouse Canal by Numa - yays-amsterdam-salthouse-canal,,10.0,1
+Solo traveller,One-Bedroom Comfort (2 persons),Numa YAYS Antwerp Opera by Numa - yays-antwerp-opera,,9.0,1
+Solo traveller,One-Bedroom Comfort (4 Persons),Numa YAYS Antwerp Opera by Numa - yays-antwerp-opera,1.0612731387916028,8.142857142857142,14
+Solo traveller,Single Room,Numa Bloc - numa-l-bloc-apartments,1.73939928316388,7.454545454545454,22
+Solo traveller,Single Room,Numa Bloomsbury - bedfordcornerhotel,0.7315567522135664,7.666666666666667,3
+Solo traveller,Single Room,Numa Script - la-pepa-chic-bed,1.407874545074571,7.5,32
+Solo traveller,Single Room - Disability Access,Numa Potsdamer Platz - precise-tale-berlin,1.0840434254496998,7.0,9
+Solo traveller,Small Double Room,Numa Kudamm - about-berlin-hotel,,10.0,1
+Solo traveller,Small Double Room,Numa Roca - retrome-barcelona,0.8661715505161349,8.0,7
+Solo traveller,Small Double Room,Numa Script - la-pepa-chic-bed,1.7806442437463679,7.642857142857143,28
+Solo traveller,Small Room,Numa Artol - excelsiordusseldorf,0.8708023824417254,8.142857142857142,7
+Solo traveller,Small Room,Numa Bloomsbury - bedfordcornerhotel,1.1023556373590602,7.636363636363637,22
+Solo traveller,Small Room,Numa Champs-Élysées - numa-paris-champs-elysees,0.08379931590972775,8.25,4
+Solo traveller,Small Room,Numa Ivy - villa-ivy-by-heymcollections,0.0575,8.75,4
+Solo traveller,Small Room,Numa Maximilian - the-maximilian-by-heymcollections,0.1,8.5,2
+Solo traveller,Small Room,Numa Sketch - sketch-rooms-amp-apartments,1.3761137223491073,7.166666666666667,18
+Solo traveller,Small Room,Numa Tullo - numa-i-tullo-rooms,0.47119161141888427,9.166666666666666,12
+Solo traveller,Small Room - Single Bed,Numa Artol - excelsiordusseldorf,0.6582135415689123,7.9,20
+Solo traveller,Small Room - Single Bed,Numa Barberini - capriceroma,0.6801031290772017,8.482758620689655,29
+Solo traveller,Small Room - Single Bed,Numa Bloomsbury - bedfordcornerhotel,0.42980207382104313,8.527272727272727,55
+Solo traveller,Small Room - Single Bed,Numa Forcola - numa-venice-forcola,0.0575,9.75,4
+Solo traveller,Small Room - Single Bed,Numa Linea - capitol-roma,0.9579447419919715,8.159420289855072,69
+Solo traveller,Small Room - Single Bed,Numa Portico - numa-i-portico-rooms,0.8725380652280684,7.916666666666667,48
+Solo traveller,Small Room - Single Bed,Numa Rodo - rodo-hotel-fashion-delight,0.6934819714522948,8.5,34
+Solo traveller,Small Room with Balcony - Single Bed,Numa Forcola - numa-venice-forcola,1.1985560912667648,8.0625,16
+Solo traveller,Small Room with Portable AC - Single Bed,Numa Barberini - capriceroma,0.9902927227934222,7.833333333333333,6
+Solo traveller,Small Room with Terrace,Numa Portico - numa-i-portico-rooms,1.1766128698941443,7.0,3
+Solo traveller,Standard Apartment,Numa Alegre - alvarez-quintero-apartment,,8.0,1
+Solo traveller,Standard Apartment,Numa Vega - urban-vida-granada-i,,10.0,1
+Solo traveller,Standard Room,Numa Artol - excelsiordusseldorf,0.07569536003994434,8.0,2
+Solo traveller,Standard Room,Numa Barberini - capriceroma,1.6916511510940684,7.928571428571429,28
+Solo traveller,Standard Room,Numa Bloomsbury - bedfordcornerhotel,1.5489480565613927,7.666666666666667,24
+Solo traveller,Standard Room,Numa Bona - auerberg-galerie,1.0421608710532817,7.55,20
+Solo traveller,Standard Room,Numa Champs-Élysées - numa-paris-champs-elysees,1.1845822290716193,7.76,25
+Solo traveller,Standard Room,Numa Forcola - numa-venice-forcola,0.21083333333333334,9.25,4
+Solo traveller,Standard Room,Numa Kudamm - about-berlin-hotel,0.784350205003548,8.41304347826087,46
+Solo traveller,Standard Room,Numa Maximilian - the-maximilian-by-heymcollections,1.4999810743256587,8.0,7
+Solo traveller,Standard Room,Numa Mozart - tophotelmozart,1.062303654152005,8.11111111111111,18
+Solo traveller,Standard Room,Numa Novela - numa-i-novela-rooms-amp-apartments,0.6511401794920265,8.363636363636363,33
+Solo traveller,Standard Room,Numa Palazzo Orseolo - palazzo-orseolo,0.37833333333333335,8.5,4
+Solo traveller,Standard Room,Numa Portico - numa-i-portico-rooms,0.22272727272727272,8.75,12
+Solo traveller,Standard Room,Numa Potsdamer Platz - precise-tale-berlin,1.4044700664111203,7.555555555555555,27
+Solo traveller,Standard Room,Numa Rato - numa-i-voga-rooms-amp-apartments,1.4397561648160808,8.45,20
+Solo traveller,Standard Room,Numa Rodo - rodo-hotel-fashion-delight,0.4955555555555555,8.5,10
+Solo traveller,Standard Room,Numa Sketch - sketch-rooms-amp-apartments,0.7391569784532305,7.954545454545454,22
+Solo traveller,Standard Room,Numa Tullo - numa-i-tullo-rooms,0.4484848484848485,8.666666666666666,12
+Solo traveller,Standard Room - Accessible,Numa Forcola - numa-venice-forcola,,8.0,1
+Solo traveller,Standard Room - Single Bed,Numa Mozart - tophotelmozart,0.489856902693511,8.217391304347826,23
+Solo traveller,Standard Room - Single Bed,Numa Novela - numa-i-novela-rooms-amp-apartments,0.9564709231866974,8.235294117647058,17
+Solo traveller,Standard Room - Single Bed,Numa Wood - the-wood,0.44889610389610385,8.839285714285714,56
+Solo traveller,Standard Room with Balcony,Numa Forcola - numa-venice-forcola,0.1,9.5,2
+Solo traveller,Standard Room with Balcony,Numa Torstraße - alte-schonhauser-str-2-10119-berlin,0.26523059177243297,8.666666666666666,18
+Solo traveller,Standard Room with Terrace,Numa Portico - numa-i-portico-rooms,3.2556953600399443,8.0,5
+Solo traveller,Standard Room with Terrace,Numa Rato - numa-i-voga-rooms-amp-apartments,,1.0,1
+Solo traveller,Standard Room with Terrace,Numa Tullo - numa-i-tullo-rooms,0.18333333333333335,9.25,4
+Solo traveller,Standard Studio,Numa Goya - numa-i-goya-apartments,0.5856240423448256,8.2,20
+Solo traveller,Standard Studio,Numa Luna - numa-i-luna-apartments,0.6287651045872563,8.363636363636363,11
+Solo traveller,Standard Studio with Kitchenette - Single Bed,Numa Viktoria - joyn-munich-olympic-munchen,0.7197547977586031,8.1,90
+Solo traveller,Standard Suite,Numa Camperio - camperio-house-suites-apartments,0.2,9.0,5
+Solo traveller,Standard Suite,Numa Root - antik-city-prague,2.9767963718649844,6.8,5
+Solo traveller,Standard room - Canal View,Numa Palazzo Orseolo - palazzo-orseolo,1.5946558013421104,5.5,2
+Solo traveller,Studio,Numa Goya - numa-i-goya-apartments,0.2816501322751323,9.11111111111111,9
+Solo traveller,Studio,Numa Luna - numa-i-luna-apartments,1.095961258824236,8.217391304347826,23
+Solo traveller,Studio,Numa Nørrebro - numa-i-drejervej,1.670048053498969,8.1,10
+Solo traveller,Studio,Numa Oosterpark - eastern-park-apartment-suites,0.30000000000000004,9.333333333333334,3
+Solo traveller,Studio,Numa Potsdamer Platz - precise-tale-berlin,0.1,8.5,2
+Solo traveller,Studio,Numa Vega - urban-vida-granada-i,0.06666666666666667,9.5,4
+Solo traveller,Studio,Numa YAYS Antwerp Opera by Numa - yays-antwerp-opera,0.1495704415741577,8.884615384615385,26
+Solo traveller,Studio,Numa YAYS The Hague Willemspark by Numa - yays-the-hague-willemspark,0.4,8.5,8
+Solo traveller,Studio (2 Adults),Numa YAYS Amsterdam Maritime by Numa - yays-amsterdam-maritime,0.2821785247357712,8.2,5
+Solo traveller,Studio - Disability Access,Numa Goya - numa-i-goya-apartments,1.8756953600399444,8.0,2
+Solo traveller,Studio with Balcony,Numa Luna - numa-i-luna-apartments,1.4337993159097278,8.25,8
+Solo traveller,Studio with Balcony,Numa Nørrebro - numa-i-drejervej,0.2913041486544945,8.434782608695652,23
+Solo traveller,Studio with Kitchenette - Accessible,Numa Palazzo Belfiore - palazzo-belfiore,,9.0,1
+Solo traveller,Studio with Terrace,Numa Goya - numa-i-goya-apartments,,5.0,1
+Solo traveller,Studio with Terrace,Numa Nørrebro - numa-i-drejervej,,8.0,1
+Solo traveller,Studio with Terrace,Numa Roca - retrome-barcelona,,8.0,1
+Solo traveller,Suite,Numa Flow - fashion-dancing,0.41555555555555557,8.9,10
+Solo traveller,Suite,Numa Poise - numa-i-poise-rooms-and-apartments,1.1846326492430612,8.25,4
+Solo traveller,Suite,Numa Republika - republika-amp-suites,0.2025,9.25,4
+Solo traveller,Suite with Balcony,Numa Flow - fashion-dancing,0.0,9.0,3
+Solo traveller,Suite with Balcony,Numa Nørrebro - numa-i-drejervej,0.2993333333333334,8.8,25
+Solo traveller,Superior Apartment,Numa Vega - urban-vida-granada-i,1.331970813084201,8.416666666666666,12
+Solo traveller,Superior Double Room,Numa Lief - numa-l-lief,1.5482234188802328,7.666666666666667,3
+Solo traveller,Superior Double Room,Numa Republika - republika-amp-suites,1.9638180272108845,8.5,8
+Solo traveller,Superior Room,Numa Potsdamer Platz - precise-tale-berlin,0.9423620267066111,8.0,6
+Solo traveller,Superior Room with Terrace,Numa Potsdamer Platz - precise-tale-berlin,0.5,9.0,2
+Solo traveller,Superior Studio,Numa Camperio - camperio-house-suites-apartments,,8.0,1
+Solo traveller,Three-Bedroom Apartment,Numa Prestigio - numa-i-prestigio-apartments,,9.0,1
+Solo traveller,Tower Suite,Numa YAYS Amsterdam Maritime by Numa - yays-amsterdam-maritime,,10.0,1
+Solo traveller,Two-Bedroom Apartment,Numa Jondo - sevilla-luxury-rentals-horno-santa-cruz,3.7298241543838433,3.5,2
+Solo traveller,Two-Bedroom Apartment,Numa YAYS Antwerp Opera by Numa - yays-antwerp-opera,,9.0,1
+Solo traveller,West Apartment,Numa Potsdamer Platz - precise-tale-berlin,5.926612869894145,7.0,3
