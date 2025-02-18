@@ -1,0 +1,181 @@
+user_country
+Germany                                 29901
+Italy                                    9854
+Spain                                    8442
+United Kingdom                           6382
+Netherlands                              5427
+France                                   5220
+Austria                                  4747
+Poland                                   3160
+Switzerland                              2726
+United States                            2685
+Czech Republic                           2241
+Israel                                   2047
+Belgium                                  1937
+Turkey                                   1893
+Ukraine                                  1847
+Australia                                1649
+Romania                                  1565
+Portugal                                 1331
+Greece                                   1230
+Denmark                                  1220
+Brazil                                   1195
+Saudi Arabia                             1049
+Sweden                                    952
+Ireland                                   943
+Hungary                                   904
+Argentina                                 754
+Norway                                    745
+Canada                                    741
+Slovakia                                  618
+Russia                                    608
+United Arab Emirates                      602
+Finland                                   593
+Lithuania                                 575
+Mexico                                    536
+Bulgaria                                  531
+Latvia                                    517
+Serbia                                    462
+India                                     447
+Croatia                                   436
+China                                     430
+Taiwan                                    419
+Chile                                     376
+Estonia                                   361
+South Korea                               351
+Japan                                     344
+Colombia                                  335
+Cyprus                                    298
+Singapore                                 284
+Slovenia                                  274
+South Africa                              264
+New Zealand                               251
+Luxembourg                                248
+Georgia                                   244
+Egypt                                     240
+Kuwait                                    224
+Belarus                                   208
+Kazakhstan                                200
+Malaysia                                  175
+Albania                                   161
+Indonesia                                 160
+Thailand                                  150
+Morocco                                   148
+Malta                                     142
+Hong Kong                                 135
+Iceland                                   132
+Uruguay                                   130
+Peru                                      129
+Armenia                                   109
+Azerbaijan                                106
+Qatar                                     100
+Philippines                                93
+Moldova                                    92
+North Macedonia                            90
+Bosnia and Herzegovina                     78
+Costa Rica                                 69
+Montenegro                                 68
+Ecuador                                    67
+Jordan                                     66
+Vietnam                                    63
+Lebanon                                    60
+Venezuela                                  54
+Oman                                       51
+Bahrain                                    47
+Kosovo                                     46
+Iran                                       45
+Uzbekistan                                 45
+Algeria                                    44
+Iraq                                       43
+Tunisia                                    42
+Panama                                     39
+Pakistan                                   35
+Nigeria                                    29
+Reunion                                    27
+Guatemala                                  27
+Kyrgyzstan                                 24
+Abkhazia, ​Georgia                         23
+Paraguay                                   22
+El Salvador                                21
+Andorra                                    21
+Dominican Republic                         20
+Côte d'Ivoire                              20
+Libya                                      20
+Mauritius                                  18
+Gibraltar                                  18
+Liechtenstein                              17
+Sri Lanka                                  17
+Puerto Rico                                16
+Namibia                                    16
+Kenya                                      15
+Democratic Republic of Congo               14
+Mongolia                                   12
+Palestinian Territory                      11
+Tanzania                                   11
+Honduras                                   11
+Mozambique                                 11
+Senegal                                    11
+Martinique                                 10
+Nepal                                      10
+Myanmar                                    10
+Monaco                                      9
+Uganda                                      8
+Jersey                                      8
+New Caledonia                               8
+Macao                                       8
+Bangladesh                                  8
+Curaçao                                     8
+Ghana                                       7
+Guadeloupe                                  7
+Zimbabwe                                    7
+Bolivia                                     7
+Ethiopia                                    6
+Afghanistan                                 6
+Angola                                      6
+United States Minor Outlying Islands        5
+Sint Maarten                                5
+Zambia                                      5
+Nicaragua                                   5
+Guernsey                                    5
+Maldives                                    4
+Bahamas                                     4
+Cambodia                                    4
+French Polynesia                            4
+French Guiana                               4
+San Marino                                  4
+Laos                                        4
+Tajikistan                                  3
+Greenland                                   3
+Turkmenistan                                3
+Isle of Man                                 3
+Trinidad and Tobago                         3
+Botswana                                    3
+Burkina Faso                                3
+Jamaica                                     3
+Suriname                                    3
+Sudan                                       3
+Fiji                                        2
+Barbados                                    2
+Cameroon                                    2
+Bonaire St Eustatius and Saba               2
+Togo                                        2
+Turks & Caicos Islands                      2
+Gabon                                       2
+Brunei Darussalam                           2
+Mauritania                                  2
+Bermuda                                     1
+Eswatini                                    1
+Faroe Islands                               1
+Dominica                                    1
+Saint Barthelemy                            1
+Mayotte                                     1
+Cook Islands                                1
+Falkland Islands (Malvinas)                 1
+Guyana                                      1
+French Southern Territories                 1
+Aruba                                       1
+Central Africa Republic                     1
+Madagascar                                  1
+Syria                                       1
+Svalbard & Jan Mayen                        1
+UK Virgin Islands                           1
